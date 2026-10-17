@@ -1,0 +1,237 @@
+﻿10oct26 03:24 CMV          Ping
+10oct26 03:24 MeshCoreBot  Pong!
+10oct26 10:03 Dezik        T
+10oct26 10:04 Dezik        Test
+10oct26 10:04 MeshCoreBot  ack [@Dezik] | f8c4 (1 hops) | SNR: 6.0 dB | RSSI: -110 dBm | Received at: 07:04:28
+10oct26 10:05 MeshCoreBot  ack [@Dezik] | 95ef,aaba,2200 (3 hops) | SNR: -9.5 dB | RSSI: -125 dBm | Received at: 07:05:09
+10oct26 10:06 GlaZ Victor  У бота есть период охлаждения. Часто не надо ему слать. Он будет игнорить
+10oct26 10:09 Dezik        @[GlaZ Victor] хорошо
+10oct26 10:48 Operator34   T
+10oct26 10:48 MeshCoreBot  ack [@Operator34] | 799d (1 hops) | SNR: 7.25 dB | RSSI: -108 dBm | Received at: 07:48:45
+10oct26 16:13 SILVER       T
+10oct26 16:13 MeshCoreBot  ack [@SILVER] | e4f3,a50f,8880 (3 hops) | SNR: 11.75 dB | RSSI: -80 dBm | Received at: 13:13:06
+11oct26 08:15 giz1001      test
+11oct26 12:01 Operator34   T
+11oct26 12:02 MeshCoreBot  ack [@Operator34] | 11c4 (1 hops) | SNR: -7.0 dB | RSSI: -123 dBm | Received at: 09:02:08
+11oct26 12:04 Med34        test
+11oct26 12:05 Med34        Test
+11oct26 14:15 S3003        Ping
+11oct26 14:15 MeshCoreBot  Pong!
+11oct26 16:12 Operator34   T
+11oct26 16:12 MeshCoreBot  ack [@Operator34] | 11c4,dd00 (2 hops) | SNR: 12.5 dB | RSSI: -26 dBm | Received at: 13:12:31
+11oct26 16:45 giz1001      T
+11oct26 17:10 Operator34   T
+11oct26 17:10 MeshCoreBot  ack [@Operator34] | 11c4 (1 hops) | SNR: -4.5 dB | RSSI: -120 dBm | Received at: 14:10:52
+11oct26 21:54 SILVER       T
+11oct26 21:54 MeshCoreBot  ack [@SILVER] | e312,6aad (2 hops) | SNR: -1.25 dB | RSSI: -117 dBm | Received at: 18:54:35
+12oct26 11:04 BK-201☺      mp
+12oct26 11:04 MeshCoreBot  Paths: 28/28 | Nodes: 29
+                           Length: 1-4 (avg 2.1)
+                           Best: 0845
+                           0845
+                           1542
+                           2200
+                           ├─174C
+                           │ ├─C8EF
+                           │ └─E312─6412 [1/3]
+12oct26 11:04 MeshCoreBot  ├─4A69
+                           ├─6AAD
+                           ├─6BBE
+                           ├─8880
+                           ├─A50F─E4F3
+                           ├─A8E0
+                           ├─AABA
+                           ├─DD00
+                           ├─DF22
+                           ├─E200 [2/3]
+12oct26 11:04 MeshCoreBot  ├─F064
+                           ├─F9D7
+                           └─FC88
+                           ├─25A9
+                           ├─7700
+                           ├─7CC2
+                           └─95EF
+                           F4E1
+                           FDD3
+                           546E─F8C4 [3/3]
+12oct26 11:39 Operator34   T
+12oct26 11:39 MeshCoreBot  ack [@Operator34] | dd00 (1 hops) | SNR: 12.5 dB | RSSI: -24 dBm | Received at: 08:39:42
+12oct26 11:41 Med34        T
+12oct26 16:11 SILVER       T
+12oct26 16:11 MeshCoreBot  ack [@SILVER] | df22,f8c4 (2 hops) | SNR: 4.25 dB | RSSI: -110 dBm | Received at: 13:11:34
+12oct26 17:21 Med34        T
+12oct26 17:21 MeshCoreBot  ack [@Med34] | db,fd (2 hops) | SNR: -3.25 dB | RSSI: -119 dBm | Received at: 14:21:17
+12oct26 17:34 IlyaM        P
+12oct26 17:34 MeshCoreBot  1542: Chuikova Rep
+                           174C: CreteRepeater
+12oct26 19:12 IlyaM        P
+12oct26 19:12 MeshCoreBot  546E: 🍄ASV/Rep Gagarina
+                           E546: mesh-repeater-johar
+                           FC88: T534_Repeater
+12oct26 19:13 IlyaM        Ловит в Римини
+12oct26 20:12 Operator34   T
+12oct26 20:12 MeshCoreBot  ack [@Operator34] | 0b7f (1 hops) | SNR: 9.5 dB | RSSI: -102 dBm | Received at: 17:12:21
+12oct26 22:07 CMV          Ping
+12oct26 22:07 MeshCoreBot  Pong!
+13oct26 05:59 ABBA         т
+13oct26 06:00 ABBA         T
+13oct26 06:00 MeshCoreBot  ack [@ABBA] | 74eb,7700 (2 hops) | SNR: 13.25 dB | RSSI: -64 dBm | Received at: 03:00:10
+13oct26 08:56 Operator34   T
+13oct26 08:56 MeshCoreBot  ack [@Operator34] | dd00,25a9 (2 hops) | SNR: 12.25 dB | RSSI: -56 dBm | Received at: 05:56:50
+13oct26 10:33 CRT          .mp
+13oct26 10:33 ☺☺           22
+                           79-17
+                           |-20
+                           |-87
+                           |-88
+                           |-95
+                           |-08
+                           |-FC-5A
+                           |-DD-25
+                           |-A3
+                           |-F4
+                           |-E3
+                           |-2B-AE
+                           |-F0
+                           BE-15
+                           |-E4-1A
+                           |-6A
+                           |-7C
+                           4A-E2
+                           6B
+                           F8-AA
+                           C3
+                           DF
+                           FD
+14oct26 10:58 Operator34   T
+14oct26 10:58 MeshCoreBot  ack [@Operator34] | 7cc2 (1 hops) | SNR: 12.25 dB | RSSI: -22 dBm | Received at: 07:58:14
+14oct26 11:09 Med34        T
+14oct26 11:09 MeshCoreBot  ack [@Med34] | df22,799d (2 hops) | SNR: 2.75 dB | RSSI: -106 dBm | Received at: 08:09:45
+14oct26 14:12 giz1001      T
+14oct26 14:53 giz1001      T
+14oct26 15:00 giz1001      Test
+14oct26 18:29 451 ☺F       T
+14oct26 18:29 MeshCoreBot  ack [@451 °F] | 4a,22,77 (3 hops) | SNR: 11.75 dB | RSSI: -65 dBm | Received at: 15:29:38
+14oct26 21:49 SILVER       T
+14oct26 21:49 MeshCoreBot  ack [@SILVER] | 1a87,ef68,4e75,f8c4 (4 hops) | SNR: 4.0 dB | RSSI: -112 dBm | Received at: 18:49:45
+14oct26 22:43 giz1001      Test
+14oct26 23:25 MeshCoreBot  ack [@SILVER] | 1a87,ef68,4e75,f8c4 (4 hops) | SNR: 4.0 dB | RSSI: -112 dBm | Received at: 18:49:45
+15oct26 09:25 SILVER       T
+15oct26 09:25 MeshCoreBot  ack [@SILVER] | 1a87,e200,c8ef,a014 (4 hops) | SNR: 11.0 dB | RSSI: -100 dBm | Received at: 06:25:07
+15oct26 10:27 SILVER       T
+15oct26 10:27 MeshCoreBot  ack [@SILVER] | e4f3,174c (2 hops) | SNR: -7.0 dB | RSSI: -123 dBm | Received at: 07:27:02
+15oct26 15:06 CRT          Mp
+15oct26 15:06 MeshCoreBot  Paths: 33/33 | Nodes: 36
+                           Length: 1-4 (avg 2.2)
+                           Best: 2200
+                           2200
+                           7CC2
+                           ├─25A9
+                           └─7700
+                           ├─160B
+                           ├─6AAD [1/4]
+15oct26 15:06 MeshCoreBot  └─F4E1
+                           DD00
+                           E200
+                           F8C4
+                           ├─11C4
+                           ├─1542
+                           ├─174C─0845
+                           ├─182C
+                           ├─20E3
+                           ├─2B23─AE43
+                           ├─799D [2/4]
+15oct26 15:06 MeshCoreBot  ├─87AB
+                           ├─A35B
+                           ├─AABA
+                           ├─F064
+                           ├─F9D7
+                           └─FDD3
+                           4A69─DF22─C8EF
+                           BEF7
+                           ├─A50F
+                           │ ├─E312─1A87 [3/4]
+15oct26 15:06 MeshCoreBot  │ └─E4F3
+                           └─A8E0
+                           C92E─C3ED [4/4]
+15oct26 15:13 CRT          .mp
+15oct26 15:14 ☺☺           15
+                           17
+                           79-16
+                           |-22
+                           |-25
+                           |-77
+                           |-01
+                           |-F8
+                           |-FC
+                           |-08-20
+                           |  |-6A
+                           |-7A
+                           |-A8
+                           |-F0
+                           |-F9
+                           |-7C
+                           |-5A
+                           E4
+                           E2-C8
+                           |-4E-BE
+                           |-DF
+                           A5-6B-A0
+                           |  |-F4
+15oct26 15:14 ☺☺           ^
+                           |-E3
+                           C3-95
+                           |-AA
+                           1A
+                           FD
+15oct26 21:33 CMV          Ping
+15oct26 21:33 MeshCoreBot  Pong!
+16oct26 16:44 S3003        Ping
+16oct26 16:44 MeshCoreBot  Pong!
+16oct26 20:55 CMV          Ping
+16oct26 20:55 MeshCoreBot  Pong!
+16oct26 23:54 SILVER       T
+16oct26 23:54 MeshCoreBot  ack [@SILVER] | e312,174c,799d (3 hops) | SNR: 1.25 dB | RSSI: -110 dBm | Received at: 20:54:04
+17oct26 09:27 Med34        T
+17oct26 09:27 MeshCoreBot  ack [@Med34] | 05af,3d16,87ab (3 hops) | SNR: 9.75 dB | RSSI: -103 dBm | Received at: 06:27:36
+17oct26 10:35 MIG34_T114   T
+17oct26 10:35 MeshCoreBot  ack [@MIG34_T114] | f8c4 (1 hops) | SNR: 4.25 dB | RSSI: -111 dBm | Received at: 07:35:57
+17oct26 10:37 MIG34_T114   mp
+17oct26 10:37 MeshCoreBot  Paths: 30/30 | Nodes: 33
+                           Length: 1-4 (avg 2.3)
+                           Best: 11C4
+                           11C4
+                           182C
+                           C3ED
+                           ├─174C
+                           │ ├─0845
+                           │ ├─20E3─DECA [1/4]
+17oct26 10:37 MeshCoreBot  │ ├─C8EF
+                           │ ├─E200
+                           │ └─E4F3
+                           ├─2200
+                           ├─4A69
+                           ├─87AB─7A27─AE43
+                           ├─8880
+                           │ ├─6BBE─6AAD [2/4]
+17oct26 10:37 MeshCoreBot  │ └─7700
+                           ├─A8E0
+                           ├─AABA
+                           ├─DF22
+                           ├─F064
+                           ├─FC88
+                           ├─3D16─1A87
+                           └─5ABF─A50F
+                           F8C4
+                           ├─7CC2 [3/4]
+17oct26 10:37 MeshCoreBot  └─DD00
+                           F9D7
+                           FDD3 [4/4]
+17oct26 10:38 MIG34_T114   .p
+17oct26 10:38 ☺☺           @[MIG34_T114]
+                           A35B: TLK repeater
+                           174C: CreteRepeater
+17oct26 16:16 SILVER       T
+17oct26 16:16 MeshCoreBot  ack [@SILVER] | df22,f8c4 (2 hops) | SNR: -0.25 dB | RSSI: -109 dBm | Received at: 13:16:14
+17oct26 18:34 giz1001      T
+17oct26 18:38 giz1001      Test

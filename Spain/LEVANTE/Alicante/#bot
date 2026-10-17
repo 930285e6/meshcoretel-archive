@@ -1,0 +1,238 @@
+﻿10oct26 10:21 Igor_LosNiet Path
+10oct26 10:21 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Test
+10oct26 23:45 Igor_LosNiet Path
+10oct26 23:45 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Omni
+11oct26 08:36 Igor_LosNiet Path
+11oct26 08:37 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           E080: VC.A Tudons R8/O
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Omni
+11oct26 08:37 Igor_LosNiet Test
+11oct26 08:37 Mutabot ☺    @[Igor_LosNietos_C8/B] ✅ Ack! | 9fc5,e530 (2 hops) | SNR: 12.0 dB | RSSI: -59 dBm | Recibido: 08:37:35
+11oct26 09:07 Igor_LosNiet Path
+11oct26 09:07 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Omni
+11oct26 12:28 Igor_LosNiet Path
+11oct26 12:28 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           E080: VC.A Tudons R8/O
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Omni
+11oct26 13:15 Mutabobr     radar
+11oct26 13:15 Mutabot ☺    ✈ EXS17YP 20400ft 411kt 15.9nm SW
+                           ✈ PGT71QT 8825ft 287kt 21.5nm S
+                           ✈ RYR615 14000ft 367kt 30.2nm N
+11oct26 13:58 Igor_LosNiet Path
+11oct26 13:58 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Omni
+11oct26 15:47 Igor_LosNiet Path
+11oct26 15:47 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Omni
+11oct26 15:54 Igor_LosNiet Test
+11oct26 20:35 Pascasio com Wx Madrid
+11oct26 20:35 Pascasio com /ping
+11oct26 20:35 Pascasio com /test
+11oct26 23:32 Pascasio com /ping
+11oct26 23:32 Pascasio com Path
+11oct26 23:32 Mutabot ☺    @[Pascasio companion base]:
+                           E9: Desconocido
+                           56: VC.A Rafalet Test 📍
+                           4C: VC.A Toix R8/O
+                           E5: VC.A Rafalet Omni
+11oct26 23:32 Pascasio com Test
+11oct26 23:32 Pascasio com /test
+11oct26 23:36 Igor_LosNiet Path
+11oct26 23:36 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           E6A0: VC.A Serra Orxeta R8/O
+                           B3A0: VC.A La Cala R8/O
+                           9FC5: VC.A Rates R8/O
+                           9BED: VC.A Rafalet
+12oct26 00:41 Igor_LosNiet Path
+12oct26 00:41 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           E080: VC.A Tudons R8/O
+                           E530: VC.A Rafalet Omni
+12oct26 00:42 Pascasio com Path
+12oct26 00:42 Mutabot ☺    @[Pascasio companion base]:
+                           76: Orihuela Fiber Repeater
+                           4B: Villamartin
+                           E0: VC.A Tudons R8/O
+                           E5: VC.A Rafalet Omni
+12oct26 00:52 Igor_LosNiet Distance
+12oct26 00:52 Mutabot ☺    @[Igor_LosNietos_C8/B] 📏 35.4km (2 segs) | 34.6km
+12oct26 00:53 Igor_LosNiet Ping
+12oct26 00:54 Igor_LosNiet Ping
+12oct26 00:54 Mutabot ☺    @[Igor_LosNietos_C8/B] 🏓 Pong! | 56b5,9fc5,e530 (3 hops) | SNR: 12.0 dB | RSSI: -60 dBm
+12oct26 01:06 Pascasio com Distance
+12oct26 01:06 Mutabot ☺    @[Pascasio companion base] 📏 187.4km (4 segs) | 119.7km
+12oct26 01:08 Pascasio com Ping
+12oct26 01:08 Mutabot ☺    @[Pascasio companion base] 🏓 Pong! | e9,e0,e5 (3 hops) | SNR: 12.0 dB | RSSI: -61 dBm
+12oct26 01:09 Pascasio com Path
+12oct26 01:09 Mutabot ☺    @[Pascasio companion base]:
+                           76: Orihuela Fiber Repeater
+                           4B: Villamartin
+                           4C: VC.A Toix R8/O
+                           E5: VC.A Rafalet Omni
+12oct26 01:09 Pascasio com Help
+12oct26 01:10 Pascasio com Help
+12oct26 01:10 Mutabot ☺    @[Pascasio companion base] 📖 Cmd: ping,test,mt,path,distance,prefix,radar
+12oct26 01:10 Pascasio com Radar
+12oct26 01:12 Pascasio com Radar
+12oct26 01:12 Mutabot ☺    ✈ RYR6566 20875ft 381kt 3.2nm E
+                           ✈ WMT5320 21650ft 447kt 35.4nm N
+                           ✈ VLG2ZZ 20250ft 405kt 41.5nm W
+12oct26 03:05 Igor_LosNiet Radar
+12oct26 03:05 Mutabot ☺    No aircraft found within 50.0nm
+12oct26 18:02 Mutabobr     Pig
+12oct26 18:02 Mutabot ☺    @[Mutabobr] 🐷
+12oct26 18:58 Izzy_TagRAK  Ping
+12oct26 18:58 Mutabot ☺    @[Izzy_TagRAK C8/M] 🏓 Pong! | 4f22,9fc5,9bed (3 hops) | SNR: 12.0 dB | RSSI: -49 dBm
+12oct26 19:11 Izzy_1wRAK C Radar
+12oct26 19:11 Mutabot ☺    ✈ RYR18LB 13975ft 381kt 20.7nm SW
+                           ✈ EZY47DZ 15000ft 360kt 32.7nm W
+                           ✈ JAF9FB 26800ft 377kt 33.3nm N
+12oct26 20:57 Igor_LosNiet Path
+12oct26 20:57 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Omni
+13oct26 00:30 Igor_LosNiet Path
+13oct26 00:30 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           9BED: VC.A Rafalet
+13oct26 08:31 Igor_LosNiet Path
+13oct26 08:31 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           E080: VC.A Tudons R8/O
+                           E530: VC.A Rafalet Omni
+13oct26 09:04 Igor_LosNiet Path
+13oct26 09:04 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           E91D: Orihuela Sma Repeater
+                           4B82: Villamartin
+                           4F22: VC.A Serra Cortina R8/O
+                           4C26: VC.A Toix R8/O
+                           E530: VC.A Rafalet Omni
+13oct26 09:06 Igor_LosNiet Path
+13oct26 09:06 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           E080: VC.A Tudons R8/O
+                           E530: VC.A Rafalet Omni
+13oct26 13:38 Igor_LosNiet Path
+13oct26 13:38 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           E080: VC.A Tudons R8/O
+                           9FC5: VC.A Rates R8/O
+                           9BED: VC.A Rafalet
+13oct26 15:28 Mutabobr     radar
+13oct26 15:28 Mutabot ☺    ✈ FYS17US 2500ft 79kt 12.4nm SW
+                           ✈ NSZ9PR 20075ft 374kt 14.5nm NW
+                           ✈ FYS43XO 3300ft 109kt 22.4nm SW
+13oct26 20:34 Pascasio com Path
+13oct26 20:34 Mutabot ☺    @[Pascasio companion base]:
+                           E9: Orihuela Sma Repeater
+                           56: VC.A Rafalet Test 🎯
+                           E0: VC.A Tudons R8/O
+                           E5: VC.A Rafalet Omni
+13oct26 23:27 Igor_LosNiet Path
+13oct26 23:27 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           9BED: VC.A Rafalet
+14oct26 02:52 Igor_LosNiet Path
+14oct26 02:52 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           E080: VC.A Tudons R8/O
+                           9FC5: VC.A Rates R8/O
+                           E530: VC.A Rafalet Omni
+14oct26 07:26 Pascasio com Path
+14oct26 07:26 Mutabot ☺    @[Pascasio companion base]:
+                           76: Orihuela Fiber Repeater
+                           4B: Villamartin
+                           4F: VC.A Serra Cortina R8/O
+                           4C: VC.A Toix R8/O
+                           E5: VC.A Rafalet Omni
+14oct26 07:34 Pascasio com Wx Alicante
+14oct26 10:40 Mutabobr     radar
+14oct26 10:40 Mutabot ☺    ✈ EZY18LG 21750ft 375kt 10.9nm SW
+                           ✈ RYR18LB 22000ft 410kt 17.1nm SE
+                           ✈ WMT9XU 14600ft 338kt 19.5nm S
+14oct26 10:42 Igor_LosNiet Path
+14oct26 10:42 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           E080: VC.A Tudons R8/O
+                           E530: VC.A Rafalet Omni
+14oct26 16:55 Igor_LosNiet Path
+14oct26 16:55 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           E080: VC.A Tudons R8/O
+                           9FC5: VC.A Rates R8/O
+                           9BED: VC.A Rafalet
+14oct26 17:31 Mutabobr     Pig
+14oct26 17:31 Mutabot ☺    @[Mutabobr] 🐷
+14oct26 19:40 Pascasio com Path
+14oct26 19:40 Mutabot ☺    @[Pascasio companion base]:
+                           E9: Orihuela Sma Repeater
+                           4B: Villamartin
+                           4F: VC.A Serra Cortina R8/O
+                           4C: VC.A Toix R8/O
+                           9B: VC.A Rafalet
+15oct26 08:08 Igor_LosNiet Path
+15oct26 08:08 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           9BED: VC.A Rafalet
+15oct26 09:02 Mutabobr     radar
+15oct26 09:02 Mutabot ☺    ✈ QTR756 38000ft 505kt 20.7nm NE
+                           ✈ N/A 36000ft 487kt 30.5nm E
+                           ✈ EJU31NC 13250ft 356kt 30.5nm SW
+15oct26 10:26 Igor_LosNiet Radar
+15oct26 11:54 Igor_LosNiet Radar
+15oct26 11:54 Mutabot ☺    ✈ N/A 19375ft 454kt 11.1nm NW
+                           ✈ DAH2700 35000ft 475kt 18.2nm N
+                           ✈ EZY59NU 7150ft 249kt 39.3nm SW
+15oct26 23:23 Igor_LosNiet Path
+15oct26 23:23 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           9FC5: VC.A Rates R8/O
+                           4C26: VC.A Toix R8/O
+                           9BED: VC.A Rafalet
+16oct26 14:04 Mutabobr ☺   path
+16oct26 14:04 Mutabot ☺    @[Mutabobr 🚗]:
+                           E530: VC.A Rafalet Omni
+16oct26 14:12 Igor_LosNiet Path
+16oct26 14:12 Mutabot ☺    @[Igor_LosNietos_C8/B]:
+                           56B5: MU.CT LosNietos R8/O
+                           9FC5: VC.A Rates R8/O
+                           9BED: VC.A Rafalet
+16oct26 19:19 Izzy_1wRAK C Radar
+16oct26 19:19 Mutabot ☺    ✈ WMT3HX 35975ft 439kt 14.9nm SE
+                           ✈ RYR3486 15450ft 354kt 14.9nm S
+                           ✈ EJU68QR 15425ft 341kt 21.5nm SW
+16oct26 19:22 Izzy_1wRAK C Path
+16oct26 19:25 Izzy_1wRAK C Path
+16oct26 19:25 Mutabot ☺    @[Izzy_1wRAK C8/B]:
+                           4F22EE: VC.A Serra Cortina R8/O
+                           4C26FB: VC.A Toix R8/O
+                           9BEDAF: VC.A Rafalet
+17oct26 07:37 Pascasio com Path
+17oct26 07:37 Mutabot ☺    @[Pascasio companion base]:
+                           76: Orihuela Fiber Re... 🎯
+                           56: MU.CT LosNietos R8/O
+                           9F: XiaoS3 Repeater 🎯
+                           4C: VC.A Toix R8/O
+                           9B: VC.A Rafalet
+17oct26 15:52 Izzy_TDK C8/ Path
+17oct26 15:52 Mutabot ☺    @[Izzy_TDK C8/M]:
+                           E6A065: VC.A Serra Orxeta R8/O
+                           4C26FB: VC.A Toix R8/O
+                           9BEDAF: VC.A Rafalet
+17oct26 19:47 Pascasio com Path
+17oct26 19:47 Mutabot ☺    @[Pascasio companion base]:
+                           76: Orihuela Fiber Re... 🎯
+                           56: MU.CT LosNietos R8/O
+                           9F: VC.A Rates R8/O 🎯
+                           E5: VC.A Rafalet Omni

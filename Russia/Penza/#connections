@@ -1,0 +1,342 @@
+﻿10oct26 06:28 M5_chmd☺     W
+10oct26 06:28 lexv-mesh-bo 🌡️ Сб10:🌧️,8..17C,ос.48% | Вс11:☁️,3..16C,ос.0% | Пн12:🌤️,4..21C,ос.0%
+10oct26 06:28 T-1000☺      Пенза:  ☁️Pasmurno 11°C
+                           BETEP ⬆️Ю 2m/s
+                           76%RH 💧7°C 👁️29.7km 📊746mm
+                           Segodnya: H:17°C L:8°C
+10oct26 08:48 M5_chmd☺     Multitest
+10oct26 08:48 T-1000☺      @[M5_chmd💼] found 2 unique path(s):
+                           da4a,55fe ┐
+                           ├ a840
+                           └ a840,abcd
+10oct26 08:51 M5_chmd☺     Test
+10oct26 08:51 T-1000☺      @[M5_chmd💼] da4a,a840 (2 hops) | SNR: 7.0 dB | RSSI: -78 dBm 7.5km (1 segs)
+10oct26 08:53 Evgeny58_chm Multitest
+10oct26 08:53 T-1000☺      @[Evgeny58_chmd💼] found 1 unique path(s):
+                           6af2,da4a,a840
+10oct26 09:20 M5_chmd☺     Погода
+10oct26 09:20 T-1000☺      Пенза:  ⛅Peremen. oblach. 15°C
+                           BETEP ⬆️Ю 3m/s
+                           60%RH 💧7°C 👁️32.0km 📊746mm
+                           Segodnya: H:17°C L:8°C
+10oct26 09:20 lexv-mesh-bo 🌡️ ❌ Нет связи: сервер погоды недоступен
+10oct26 09:27 M5_chmd☺     Солнце
+10oct26 09:27 T-1000☺      ☀️ Информация о солнце:
+                           SunSet: Sat 10 17:16
+                           Rise: Sun 11 06:19
+                           Daylight: 10h 57m
+                           Remaining: 7h 49m
+                           Azimuth: 141.58°
+                           Altitude:
+10oct26 09:31 MC fox ☺     Ping
+10oct26 09:31 lexv-mesh-bo 🏓MC fox 🦊 09:31 | 2🐰 (ed→6a)
+10oct26 10:57 Evgeny58_chm Multitest
+10oct26 10:58 T-1000☺      @[Evgeny58_chmd💼] found 2 unique path(s):
+                           6af2,da4a,eaa3 ┐
+                           ├ a840
+                           └ a840,abcd
+10oct26 11:40 Evgeny58_chm Ping
+10oct26 11:41 #PBD Pocket  Multitest
+10oct26 11:41 lexv-mesh-bo 🏓Evgeny58_chmd💼 11:40 | 1🐰 (6af2)
+10oct26 11:51 MiBl☺        Тест
+10oct26 11:51 T-1000☺      @[MiBl🦄] Direct | SNR: 10.75 dB | RSSI: -33 dBm N/A
+10oct26 11:51 Evgeny58_chm О, заработал
+10oct26 11:55 Evgeny58_chm Multitest
+10oct26 11:56 T-1000☺      @[Evgeny58_chmd💼] found 2 unique path(s):
+                           6af2,da4a,eaa3 ┐
+                           ├ a840
+                           └ a840,abcd
+10oct26 11:56 M5_chmd☺     Path
+10oct26 11:56 T-1000☺      DA4A: rep_zapad
+                           A840: MQTT Observer 67schoolN
+10oct26 12:55 Uni          Ping
+10oct26 12:55 T-1000☺      @[Uni] 🏓Pong!
+10oct26 13:20 M5_chmd☺     Multitest
+10oct26 13:21 T-1000☺      @[M5_chmd💼] found 2 unique path(s):
+                           da4a,eaa3 ┐
+                           ├ a840
+                           └ a840,abcd
+10oct26 13:25 #PBD Pocket  Multitest
+10oct26 13:25 T-1000☺      @[#PBD Pocket] found 2 unique path(s):
+                           55fe,eaa3 ┐
+                           ├ a840
+                           └ a840,abcd
+10oct26 13:25 #PBD Pocket  Path
+10oct26 14:21 TRN          Ping
+10oct26 14:21 lexv-mesh-bo 🏓TRN 14:21 | 1🐰 (56)
+10oct26 14:21 T-1000☺      @[TRN] 🏓Pong!
+10oct26 14:30 Uni          Ping
+10oct26 14:31 T-1000☺      @[Uni] 🏓Pong!
+10oct26 14:31 lexv-mesh-bo 🏓Uni 14:30 | 2🐰 (ed→6a)
+10oct26 14:31 M5_chmd☺     Multitest
+10oct26 14:31 T-1000☺      @[M5_chmd💼] found 2 unique path(s):
+                           a840 ┐
+                           └ abcd
+10oct26 14:52 Uni          Ping
+10oct26 14:52 lexv-mesh-bo 🏓Uni 14:52 | 2🐰 (73→6a)
+10oct26 14:52 T-1000☺      @[Uni] 🏓Pong!
+10oct26 14:53 lexv-mesh-bo 🏓Uni 14:52 | 3🐰 (73→da→6a)
+10oct26 14:57 FGZ          Ping
+10oct26 14:57 T-1000☺      @[FGZ] 🏓Pong!
+10oct26 14:57 lexv-mesh-bo 🏓FGZ 14:57 | 3🐰 (a840→da4a→6af2)
+10oct26 15:25 Uni          Ping
+10oct26 16:40 Uni          Ping
+10oct26 16:40 lexv-mesh-bo 🏓Uni 16:40 | 2🐰 (73→6a)
+10oct26 16:40 M5_chmd☺     Multitest
+10oct26 16:42 TRN          Ping
+10oct26 16:42 lexv-mesh-bo 🏓TRN 16:42 | 1🐰 (6a)
+10oct26 17:33 LUVR1        Ping
+10oct26 17:33 lexv-mesh-bo 🏓LUVR1 17:33 | 2🐰 (da4a→6af2)
+10oct26 17:59 M5_chmd☺     Multitest
+10oct26 18:42 M5_chmd☺     Test
+10oct26 21:22 114          Ping
+10oct26 21:23 T-1000☺      @[114] 🏓Pong!
+10oct26 21:23 lexv-mesh-bo 🏓114 21:22 | 3🐰 (ed→ea→6a)
+10oct26 21:29 114          Ping
+10oct26 21:29 lexv-mesh-bo 🏓114 21:29 | 2🐰 (73→56)
+10oct26 21:32 114          Ping
+10oct26 21:32 lexv-mesh-bo 🏓114 21:32 | 2🐰 (73→56)
+10oct26 22:26 Unit         ping
+10oct26 22:26 lexv-mesh-bo 🏓Unit 22:26 | 1🐰 (6a)
+10oct26 22:27 T-1000☺      @[Unit] 🏓Pong!
+10oct26 22:28 Unit         ping
+10oct26 22:28 T-1000☺      @[Unit] 🏓Pong!
+10oct26 22:28 lexv-mesh-bo 🏓Unit 22:28 | 1🐰 (6a)
+10oct26 22:31 Unit         ping
+10oct26 22:31 lexv-mesh-bo 🏓Unit 22:31 | 1🐰 (56)
+10oct26 22:31 T-1000☺      @[Unit] 🏓Pong!
+10oct26 22:53 114          Ping
+10oct26 22:53 lexv-mesh-bo 🏓114 22:53 | 2🐰 (73→6a)
+10oct26 22:53 T-1000☺      @[114] 🏓Pong!
+10oct26 22:54 Unit         ping
+10oct26 22:54 lexv-mesh-bo 🏓Unit 22:54 | 1🐰 (6a)
+10oct26 23:23 F388f58f     Ping
+10oct26 23:23 lexv-mesh-bo 🏓F388f58f 23:23 | 4🐰 (2528→ee72→da4a→56f8)
+10oct26 23:24 F388f58f     W
+10oct26 23:25 lexv-mesh-bo 🌡️ ❌ Нет связи: сервер погоды недоступен
+10oct26 23:25 F388f58f     Test
+10oct26 23:25 T-1000☺      @[F388f58f] 2528,4024,a840 (3 hops) | SNR: 4.75 dB | RSSI: -82 dBm 10.3km (2 segs)
+10oct26 23:30 F388f58f     @[T-1000🤖] test
+10oct26 23:30 T-1000☺      @[F388f58f] 2528,4024,a840 (3 hops) | SNR: 4.0 dB | RSSI: -83 dBm 10.3km (2 segs)
+10oct26 23:46 F388f58f     Ping
+10oct26 23:46 T-1000☺      @[F388f58f] 🏓Pong!
+10oct26 23:46 lexv-mesh-bo 🏓F388f58f 23:46 | 2🐰 (2528→6af2)
+11oct26 06:34 M5_chmd☺     Multitest
+11oct26 06:35 T-1000☺      @[M5_chmd💼] found 2 unique path(s):
+                           a840 ┐
+                           └ abcd
+11oct26 08:08 LUVR1        Ping
+11oct26 08:08 T-1000☺      @[LUVR1] 🏓Pong!
+11oct26 08:08 lexv-mesh-bo 🏓LUVR1 08:08 | 2🐰 (da4a→56f8)
+11oct26 10:00 Chuby        @[T-1000🤖] w
+11oct26 10:01 T-1000☺      Пенза:  ⛅Peremen. oblach. 11°C
+                           BETEP ↗️ЮЗ 1m/s
+                           63%RH 💧4°C 👁️32.0km 📊752mm
+                           Segodnya: H:16°C L:1°C
+11oct26 11:02 FGZ          Ping
+11oct26 11:02 T-1000☺      @[FGZ] 🏓Pong!
+11oct26 11:02 lexv-mesh-bo 🏓FGZ 11:02 | 4🐰 (4024→ee72→eaa3→6af2)
+11oct26 11:03 Delta ☺      Ping
+11oct26 11:03 lexv-mesh-bo 🏓Delta 🌌 11:03 | 2🐰 (eaa3→56f8)
+11oct26 11:03 T-1000☺      @[Delta 🌌] 🏓Pong!
+11oct26 11:54 F388f58f     Ping
+11oct26 11:54 lexv-mesh-bo 🏓F388f58f 11:54 | 2🐰 (2528→6af2)
+11oct26 12:38 mitas☺       Ping
+11oct26 12:38 lexv-mesh-bo 🏓mitas🤔 12:38 | 2🐰 (da→6a)
+11oct26 12:47 M5_chmd☺     Ping
+11oct26 12:47 lexv-mesh-bo 🏓M5_chmd💼 12:47 | 1🐰 (56f8)
+11oct26 14:03 LUVR1        Ping
+11oct26 14:03 T-1000☺      @[LUVR1] 🏓Pong!
+11oct26 14:03 lexv-mesh-bo 🏓LUVR1 14:02 | 2🐰 (da4a→6af2)
+11oct26 14:03 M5_chmd☺     Multitest
+11oct26 14:03 T-1000☺      @[M5_chmd💼] found 2 unique path(s):
+                           da4a ┐
+                           ├ a840
+                           └ a840,abcd
+11oct26 15:45 M5_chmd☺     Multitest
+11oct26 15:45 T-1000☺      @[M5_chmd💼] found 2 unique path(s):
+                           a840 ┐
+                           └ abcd
+11oct26 21:54 F388f58f     Ping
+11oct26 21:54 lexv-mesh-bo 🏓F388f58f 21:54 | 2🐰 (2528→6af2)
+11oct26 21:54 T-1000☺      @[F388f58f] 🏓Pong!
+11oct26 21:56 F388f58f     А т1000 новую карусель нашел)
+11oct26 23:01 Mumg         Ping
+11oct26 23:01 lexv-mesh-bo 🏓Mumg 23:01 | 1🐰 (6a)
+11oct26 23:01 T-1000☺      @[Mumg] 🏓Pong!
+11oct26 23:09 .dff         Ping
+11oct26 23:09 .dff         Test
+12oct26 03:28 114          Ping
+12oct26 03:28 lexv-mesh-bo 🏓114 03:28 | 2🐰 (48→6a)
+12oct26 03:28 T-1000☺      @[114] 🏓Pong!
+12oct26 04:49 M5_chmd☺     Multitest
+12oct26 04:50 T-1000☺      @[M5_chmd💼] found 2 unique path(s):
+                           a840 ┐
+                           └ abcd
+12oct26 04:50 M5_chmd☺     Path
+12oct26 04:51 T-1000☺      DA4A: rep_zapad
+                           EAA3: Unknown
+                           A840: MQTT Observer 67schoolN
+12oct26 04:52 M5_chmd☺     Погода
+12oct26 04:52 lexv-mesh-bo 🌡️ ❌ Нет связи: сервер погоды недоступен
+12oct26 09:19 MC fox ☺     Ping
+12oct26 09:19 lexv-mesh-bo 🏓MC fox 🦊 09:19 | 3🐰 (a2→73→6a)
+12oct26 09:21 MC fox ☺     MicroReticulum  самый простой и бюджетный вход в сеть RNS
+12oct26 09:45 Mumg         Ping
+12oct26 09:45 T-1000☺      @[Mumg] 🏓Pong!
+12oct26 14:59 FGZ          ping
+12oct26 14:59 lexv-mesh-bo 🏓FGZ 14:59 | 2🐰 (da4a→56f8)
+12oct26 14:59 T-1000☺      @[FGZ] 🏓Pong!
+12oct26 14:59 Mumg         Ping
+12oct26 14:59 lexv-mesh-bo 🏓Mumg 14:59 | 1🐰 (6a)
+12oct26 19:50 R1           Пинг
+12oct26 19:51 FGZ          Ping
+12oct26 19:51 lexv-mesh-bo 🏓FGZ 19:51 | 4🐰 (4024→ee72→da4a→6af2)
+12oct26 19:52 R1           Пинг
+12oct26 19:52 lexv-mesh-bo 🏓R1 19:52 | 1🐰 (6af2)
+12oct26 19:53 R1           Путь
+12oct26 22:06 LUVR1        Ping
+12oct26 22:06 lexv-mesh-bo 🏓LUVR1 22:06 | 2🐰 (da4a→6af2)
+12oct26 23:29 Chuby        @[T-1000🤖] w
+12oct26 23:51 Mumg         Test
+13oct26 06:05 LUVR1        Ping
+13oct26 06:05 lexv-mesh-bo 🏓LUVR1 06:05 | 2🐰 (da4a→6af2)
+13oct26 07:16 Obs          Ping
+13oct26 07:16 lexv-mesh-bo 🏓Obs 07:16 | 1🐰 (6af2)
+13oct26 09:16 R1           Ping
+13oct26 09:16 lexv-mesh-bo 🏓R1 09:16 | 2🐰 (4869→6af2)
+13oct26 09:17 R1           Путь
+13oct26 09:20 R1           W
+13oct26 09:20 lexv-mesh-bo 🌡️ ❌ Нет связи: сервер погоды недоступен
+13oct26 13:04 Mx☺          Test
+13oct26 13:05 Mx☺          ///stats
+13oct26 13:05 lexv-mesh-bo 🪁 uptime: 5d 16h 11m companions: 61 repeaters:31 rooms:2
+13oct26 13:06 Mx☺          Test
+13oct26 13:07 Mx☺          Ping
+13oct26 13:07 lexv-mesh-bo 🏓Mx🌧 13:07 | 3🐰 (2528→73cb→56f8)
+13oct26 13:08 Mx☺          Test 1
+13oct26 13:08 Mx☺          Test 2
+13oct26 13:08 Mx☺          Test 3
+13oct26 13:08 Mx☺          Test 4
+13oct26 13:09 Mx☺          Тесты не проходят. Завод
+13oct26 13:09 Mx☺          Ping
+13oct26 13:10 Mx☺          Ping
+13oct26 13:10 lexv-mesh-bo 🏓Mx🌧 13:10 | 3🐰 (2528→73cb→6af2)
+13oct26 13:11 lexv-mesh-bo 🏓Mx🌧 13:11 | 2🐰 (2528→6af2)
+13oct26 16:01 FGZ          Ping
+13oct26 16:01 lexv-mesh-bo 🏓FGZ 16:01 | 2🐰 (eaa3→6af2)
+13oct26 16:33 Mkm          1
+13oct26 16:38 Mkm          1
+13oct26 19:51 Mkm          1
+13oct26 20:16 Mkm          1
+13oct26 20:46 F388f58f     @[Mx🌧] >Тесты не про...
+                           Т1000 на новой карусели
+13oct26 20:46 F388f58f     Ping
+13oct26 20:47 lexv-mesh-bo 🏓F388f58f 20:46 | 2🐰 (deff→6af2)
+13oct26 20:48 F388f58f     Test
+13oct26 20:49 F388f58f     А нет, вообще молчит
+13oct26 20:50 F388f58f     @[T-1000🤖] Path
+13oct26 20:51 M5_chmd☺     Multitest
+13oct26 20:51 M5_chmd☺     Погода
+13oct26 20:51 F388f58f     Сломалась шарманка
+13oct26 20:52 Mkm          Pong
+13oct26 20:52 Mkm          Месаги доходят
+13oct26 20:54 Mkm          Или с отправкой метрик погоды проблема?
+13oct26 20:54 F388f58f     По карте в арб ходит, бот что-то ленится
+13oct26 20:54 M5_chmd☺     W
+13oct26 20:57 F388f58f     Ping
+13oct26 20:57 lexv-mesh-bo 🏓F388f58f 20:57 | 2🐰 (2528→6af2)
+13oct26 20:57 M5_chmd☺     Ping
+13oct26 20:58 lexv-mesh-bo 🏓M5_chmd💼 20:57 | 1🐰 (56f8)
+13oct26 20:58 M5_chmd☺     W
+13oct26 20:58 lexv-mesh-bo 🌡️ ❌ Нет связи: сервер погоды недоступен
+13oct26 21:03 F388f58f     Sq K пропал не только с карты, реп его не слышит
+13oct26 21:04 M5_chmd☺     Может народ переходит на ретикулуму 🤔
+13oct26 21:05 F388f58f     r:b3a2:41
+13oct26 21:20 lexv☺        W
+13oct26 21:20 lexv-mesh-bo 🌡️ Вт13:☁️,9..23C,ос.0% | Ср14:☁️,10..18C,ос.25% | Чт15:☁️,10..20C,ос.20%
+13oct26 22:08 Mkm          1
+14oct26 06:49 FGZ          Ping
+14oct26 06:49 lexv-mesh-bo 🏓FGZ 06:49 | 4🐰 (4024→a840→9d96→56f8)
+14oct26 10:39 PAL          Ping
+14oct26 10:39 lexv-mesh-bo 🏓PAL 10:39 | 1🐰 (6af2)
+14oct26 11:00 PAL          W
+14oct26 11:01 lexv-mesh-bo 🌡️ ❌ Нет связи: сервер погоды недоступен
+14oct26 13:04 Mkm          Ping
+14oct26 13:04 lexv-mesh-bo 🏓Mkm 13:04 | 2🐰 (84→6a)
+14oct26 16:41 lexv☺        W
+14oct26 16:43 lexv☺        W
+14oct26 16:43 lexv-mesh-bo 🌡️ Ср14:🌦️,10..18C,ос.40% | Чт15:☁️,11..20C,ос.20% | Пт16:☁️,10..21C,ос.0%
+14oct26 19:05 LUVR1        Ping
+14oct26 19:05 lexv-mesh-bo 🏓LUVR1 19:05 | 2🐰 (da4a→6af2)
+14oct26 19:36 MC fox ☺     Ping
+14oct26 19:36 lexv-mesh-bo 🏓MC fox 🦊 19:36 | 3🐰 (ed→73→56)
+14oct26 20:12 Mkm          1
+15oct26 07:40 Mkm          1
+15oct26 07:48 Mkm          1
+15oct26 09:02 LUVR1        Ping
+15oct26 09:02 lexv-mesh-bo 🏓LUVR1 09:02 | 3🐰 (2528→73cb→6af2)
+15oct26 10:05 MC fox ☺     Ping
+15oct26 10:05 lexv-mesh-bo 🏓MC fox 🦊 10:05 | 3🐰 (ed→73→6a)
+15oct26 10:06 Mkm          Pong
+15oct26 10:07 Mkm          Ping
+15oct26 10:07 lexv-mesh-bo 🏓Mkm 10:07 | 2🐰 (73→6a)
+15oct26 10:20 114          Ping
+15oct26 10:20 lexv-mesh-bo 🏓114 10:20 | 2🐰 (da→56)
+15oct26 17:35 Mkm          Ping
+15oct26 17:35 lexv-mesh-bo 🏓Mkm 17:35 | 2🐰 (73→56)
+15oct26 19:04 M5_chmd☺     Multitest
+15oct26 22:06 Mkm          Ping
+15oct26 22:06 lexv-mesh-bo 🏓Mkm 22:05 | 2🐰 (25→6a)
+15oct26 22:54 114          Ping
+15oct26 22:54 lexv-mesh-bo 🏓114 22:54 | 2🐰 (84→6a)
+15oct26 22:55 lexv-mesh-bo 🏓114 22:54 | 4🐰 (ed→ea→da→56)
+15oct26 22:55 114          Ping
+15oct26 22:55 lexv-mesh-bo 🏓114 22:55 | 1🐰 (6a)
+15oct26 22:56 114          Ping
+15oct26 22:57 lexv-mesh-bo 🏓114 22:56 | 1🐰 (6a)
+15oct26 22:57 114          Ping
+15oct26 22:58 lexv-mesh-bo 🏓114 22:57 | 2🐰 (da→6a)
+16oct26 05:57 PCLovers     Ping
+16oct26 05:58 lexv-mesh-bo 🏓PCLovers 05:57 | 3🐰 (eac8→da4a→6af2)
+16oct26 09:00 PAL          Ping
+16oct26 09:01 lexv-mesh-bo 🏓PAL 09:00 | 2🐰 (da4a→56f8)
+16oct26 09:52 LUVR1        Ping
+16oct26 09:52 lexv-mesh-bo 🏓LUVR1 09:52 | 2🐰 (da4a→6af2)
+16oct26 12:52 MC fox ☺     Ping
+16oct26 12:53 lexv-mesh-bo 🏓MC fox 🦊 12:52 | 2🐰 (ed→6a)
+16oct26 13:30 PAL          Ping
+16oct26 13:30 lexv-mesh-bo 🏓PAL 13:30 | 2🐰 (da4a→6af2)
+16oct26 13:35 Mkm          11
+16oct26 14:21 PAL          W
+16oct26 14:21 lexv-mesh-bo 🌡️ Пт16:☁️,11..20C,ос.3% | Сб17:☁️,11..18C,ос.5% | Вс18:☁️,9..18C,ос.10%
+16oct26 14:22 Mkm          W
+16oct26 15:49 TRN          Ping
+16oct26 15:49 lexv-mesh-bo 🏓TRN 15:49 | 1🐰 (6a)
+16oct26 21:47 MiBl☺        Ping
+16oct26 21:47 T-1000☺      @[MiBl🦄] 🏓Pong!
+16oct26 21:47 MiBl☺        W
+16oct26 21:47 T-1000☺      Пенза:  ☁️Pasmurno 13°C
+                           BETEP ⬅️В 1m/s
+                           63%RH 💧6°C 👁️32.0km 📊756mm
+                           Segodnya: H:20°C L:11°C
+17oct26 08:24 Allo☺        W
+17oct26 08:24 lexv-mesh-bo 🌡️ Сб17:☁️,12..19C,ос.13% | Вс18:☁️,11..19C,ос.20% | Пн19:☁️,6..15C,ос.5%
+17oct26 08:56 MiBl☺        Ping
+17oct26 08:56 T-1000☺      @[MiBl🦄] 🏓Pong!
+17oct26 08:57 lexv☺        Восстание машин
+17oct26 08:57 lexv☺        W
+17oct26 08:59 lexv☺        W
+17oct26 08:59 lexv-mesh-bo 🌡️ Сб17:☁️,12..18C,ос.13% | Вс18:☁️,11..19C,ос.20% | Пн19:☁️,6..15C,ос.5%
+17oct26 09:30 MC fox ☺     Ping
+17oct26 09:30 T-1000☺      @[MC fox 🦊] 🏓Pong!
+17oct26 09:30 lexv-mesh-bo 🏓MC fox 🦊 09:30 | 3🐰 (ed→ea→6a)
+17oct26 10:18 PALICH       Ping
+17oct26 10:18 T-1000☺      @[PALICH] 🏓Pong!
+17oct26 12:12 lexv-mesh-bo W
+17oct26 13:23 Mkm          1
+17oct26 14:36 Mkm          Ping
+17oct26 14:37 lexv-mesh-bo 🏓Mkm 14:36 | 2🐰 (ea→56)
+17oct26 17:45 M5_chmd☺     Multitest
+17oct26 17:45 lexv-mesh-bo multipassport
+17oct26 17:46 M5_chmd☺     😁

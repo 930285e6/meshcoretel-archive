@@ -1,0 +1,22 @@
+﻿12oct26 04:00 berk76       Oni asi mají stejný preset jako Maďaři a  Rakušáci protože jsou s nima propojení.
+12oct26 04:00 berk76       Oni = Slováci
+12oct26 04:14 Alkel Brostl Nicméně jsem právě koukal do jejich analyzeru a byly tam nody z AT,HU i SK, tak jsem předpokládal bridge.
+12oct26 04:15 Alkel Brostl No já myslel, že konvertovali jen oni, ale maďaři s tím šli taky. Rakušáci ale mají pořád na webu EU Narrow.
+12oct26 04:16 Alkel Brostl (out of order messaging :-))
+12oct26 04:16 Alkel Brostl Tak pořád nějak předpokládám, že mají bridge do AT.
+12oct26 04:18 Alkel Brostl Ale jinak dává sysel, že se s náma nemergenuli - i přes bridge do HU a AT by tam šel od nás najednou bordel a aj i k nám.
+12oct26 04:18 berk76       Na forum.meshcore.website jsem od recrofa pochopil že forwarder je jen cs záležitost.
+12oct26 04:19 berk76       Viz téma česko-slovensko
+12oct26 04:19 Alkel Brostl Forwarder je vyloženě jen "jesli je packet tenhle konkrétní hashtag kanál, vypusť ho na druhé straně"
+12oct26 04:20 Alkel Brostl Já mluvím o serial bridge - to je mnohem plnohodnotnější řešení (a bude taky pro cs scope)
+12oct26 04:38 mgolem cesto @[Alkel Brostl 🍺] a na jakém hardvéru to seje?
+12oct26 04:40 berk76       @[Alkel Brostl 🍺] 👍
+12oct26 04:40 Alkel Brostl @[mgolem cestovni] forwarder dva běžné nody a počítač; serial bridge dva běžné nody s UART
+12oct26 04:40 Alkel Brostl Forwarder zde: https://github.com/recrof/meshcore-forwarder/
+12oct26 04:41 mgolem cesto @[Alkel Brostl 🍺] dík
+12oct26 04:43 mgolem cesto Přecijen jsem QTH blízko hranic, tak třeba .... každá záloha se počítá.
+12oct26 04:44 Alkel Brostl Dokumentace k serial bridge hýr https://docs.meshcore.io/cli_commands/?h=bridge#bridge-when-bridge-support-is-compiled-in
+12oct26 04:47 Alkel Brostl Ale né že někdo zase spustí nefiltrovanej bridge na jakýchkoliv hranicích, to už tu bylo... :D
+12oct26 04:48 berk76       @[mgolem cestovni] ❤️
+12oct26 04:50 mgolem cesto @[Alkel Brostl 🍺] naštěstí nejsem někdo ;-)
+15oct26 22:13 D0n4ldR1     toz dobre

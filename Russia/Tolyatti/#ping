@@ -1,0 +1,743 @@
+﻿10oct26 08:48 tltOG☺       Ping
+10oct26 08:48 ☺InfoBot     Hey, tltOG📻!
+                           Pong direct
+10oct26 08:48 METAR Bot    Понг @[tltOG📻] | Напрямую | SNR: 7.0 дБ | RSSI: -105 дБм | 462ms
+10oct26 09:01 ☺Ivan TLT    Ping
+10oct26 09:01 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 1 hop: TLT R6 MQTT
+10oct26 09:01 DA ☺ Home Br Hello @[📟Ivan TLT]!
+                           5 hops to SMR_Maslennikov (ce0a, feda, e8af, 2b63, acca)
+10oct26 09:02 METAR Bot    Понг @[📟Ivan TLT] | Напрямую | SNR: 3.0 дБ | RSSI: -110 дБм | 2.5s
+10oct26 09:03 Sanchez☺     Ping
+10oct26 09:03 ☺InfoBot     Hey, Sanchez😎!
+                           Pong with 3 hops: Repeater Domashka, SMR_868S, TLT RPT Dim 1
+10oct26 09:04 METAR Bot    Понг @[Sanchez😎] | a047(Repeater Dom),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.5 дБ | RSSI: -95 дБм | 5.1s
+10oct26 09:13 Tanch☺       Ping
+10oct26 09:13 DA ☺ Home Br Hello @[Tanch🦋]!
+                           2 hops to SMR_Maslennikov (0425, b92f)
+10oct26 09:13 METAR Bot    Понг @[Tanch🦋] | 0425(SMR_Волгарь),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.75 дБ | RSSI: -94 дБм | 2.3s
+10oct26 11:15 tltOG☺       ping
+10oct26 11:15 ☺InfoBot     Hey, tltOG📻!
+                           Pong with 2 hops: TLTProMicro OG, TLT R6a
+10oct26 11:15 DA ☺ Home Br Hello @[tltOG📻]!
+                           4 hops to SMR_Maslennikov (58b2, a6b4, 2b63, acca)
+10oct26 11:16 METAR Bot    Понг @[tltOG📻] | 58b2(TLTProMicro) (1 хоп) | SNR: 0.5 дБ | RSSI: -104 дБм | 2.6s
+10oct26 11:19 Pumba        Ping
+10oct26 11:19 ☺InfoBot     Hey, Pumba!
+                           Pong with 4 hops: Ermakovo, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+10oct26 11:19 DA ☺ Home Br Hello @[Pumba]!
+                           3 hops to SMR_Maslennikov (2a53, 474d, acca)
+10oct26 11:20 METAR Bot    Понг @[Pumba] | 2a53(Ermakovo),474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 11.0 дБ | RSSI: -95 дБм | 4.6s
+10oct26 12:00 Backpack☺_3  Ping
+10oct26 12:00 ☺InfoBot     Hey, Backpack🎒_3!
+                           Pong with 3 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1
+10oct26 12:01 METAR Bot    Понг @[Backpack🎒_3] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.25 дБ | RSSI: -95 дБм | 4.5s
+10oct26 12:15 tltOG☺       ping
+10oct26 12:15 ☺InfoBot     Hey, tltOG📻!
+                           Pong direct
+10oct26 12:15 METAR Bot    Понг @[tltOG📻] | Напрямую | SNR: -4.75 дБ | RSSI: -118 дБм | 324ms
+10oct26 12:46 hdhog-t1e    Ping
+10oct26 12:46 ☺InfoBot     Hey, hdhog-t1e!
+                           Pong with 3 hops: SMR_Волгарь, SMR_868S, TLT RPT Dim 1
+10oct26 12:47 METAR Bot    Понг @[hdhog-t1e] | 0425(SMR_Волгарь),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.75 дБ | RSSI: -94 дБм | 17.9s
+10oct26 13:07 Gavinda      Ping
+10oct26 13:07 ☺InfoBot     Hey, Gavinda!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+10oct26 13:08 METAR Bot    Понг @[Gavinda] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 3.5 дБ | RSSI: -106 дБм | 2.9s
+10oct26 13:08 Smrsk        Ping
+10oct26 13:08 ☺InfoBot     Hey, Smrsk!
+                           Pong with 3 hops: Samara Room, SMR_868S, TLT RPT Dim 1
+10oct26 13:08 METAR Bot    Понг @[Smrsk] | 2e43(Samara Room),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 2.25 дБ | RSSI: -106 дБм | 7.8s
+10oct26 13:45 GC4567       Ping
+10oct26 13:45 ☺InfoBot     Hey, GC4567!
+                           Pong with 6 hops: SMR_GC3812, SMR_Keramika, SMR_NtRP_ObserverOmni, SMR_868S, TLT RPT Dim 1, TLT R6a
+10oct26 13:45 METAR Bot    Понг @[GC4567] | 1d38(SMR_GC3812),b3c8(SMR_Keramika),adad(SMR_NtRP_Obs),acca(SMR_868S),2b63(TLT RPT Dim) (5 хопов) | SNR: 1.0 дБ | RSSI: -
+10oct26 15:18 Sanchez☺     Ping
+10oct26 15:18 ☺InfoBot     Hey, Sanchez😎!
+                           Pong with 3 hops: Repeater Domashka, SMR_868S, TLT RPT Dim 1
+10oct26 15:19 METAR Bot    Понг @[Sanchez😎] | a047(Repeater Dom),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 13.0 дБ | RSSI: -94 дБм | 4.4s
+10oct26 15:28 Guardbot     Ping
+10oct26 15:28 ☺InfoBot     Hey, Guardbot!
+                           Pong with 3 hops: TLT_R50_Uchitel proezd, TLT R16_2, TLT R8
+10oct26 15:29 METAR Bot    Понг @[Guardbot] | f8f8(TLT_R50_Uchi) (1 хоп) | SNR: -11.5 дБ | RSSI: -126 дБм | 1.1s
+10oct26 15:44 Toster ☺     Ping
+10oct26 15:44 ☺InfoBot     Hey, Toster 🍞!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+10oct26 15:44 METAR Bot    Понг @[Toster 🍞] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 0.75 дБ | RSSI: -105 дБм | 3.0s
+10oct26 15:48 Guardbot     Ping
+10oct26 15:48 ☺InfoBot     Hey, Guardbot!
+                           Pong with 1 hop: TLT RPT Dim 1
+10oct26 15:48 METAR Bot    Понг @[Guardbot] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 12.5 дБ | RSSI: -95 дБм | 1.7s
+10oct26 17:28 Guardbot     Ping
+10oct26 17:28 ☺InfoBot     Hey, Guardbot!
+                           Pong with 1 hop: TLT RPT Dim 1
+10oct26 17:29 METAR Bot    Понг @[Guardbot] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 12.5 дБ | RSSI: -95 дБм | 2.8s
+10oct26 17:52 TLT_RWM_3    Ping
+10oct26 17:53 ☺InfoBot     Hey, TLT_RWM_3!
+                           Pong with 2 hops: PERSIK_Podstepki, TLT RM62 Test
+10oct26 17:53 METAR Bot    Понг @[TLT_RWM_3] | edaa(PERSIK_Podst) (1 хоп) | SNR: -8.0 дБ | RSSI: -122 дБм | 3.0s
+10oct26 19:40 Guardbot     Ping
+10oct26 19:40 ☺InfoBot     Hey, Guardbot!
+                           Pong with 2 hops: TLT RPT Dim 1, TLT R2 MQTT
+10oct26 19:40 METAR Bot    Понг @[Guardbot] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 0.5 дБ | RSSI: -106 дБм | 2.5s
+10oct26 23:11 Pumba        Ping
+10oct26 23:11 ☺InfoBot     Hey, Pumba!
+                           Pong with 4 hops: Ermakovo, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+10oct26 23:12 METAR Bot    Понг @[Pumba] | 2a53(Ermakovo),474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 11.75 дБ | RSSI: -94 дБм | 6.7s
+11oct26 00:28 SМR-3i5 ☺    Ping
+11oct26 00:28 ☺InfoBot     Hey, SМR-3i5 🚁!
+                           Pong with 4 hops: OKT_toSMR_r02, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+11oct26 00:28 METAR Bot    Понг @[SМR-3i5 🚁] | 8400(OKT_toSMR_r0),474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 10.75 дБ | RSSI: -87 д
+11oct26 00:38 モニカ          Ping
+11oct26 00:38 ☺InfoBot     Hey, モニカ!
+                           Pong with 3 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1
+11oct26 00:38 METAR Bot    Понг @[モニカ] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 4.5 дБ | RSSI: -107 дБм | 4.6s
+11oct26 06:01 evs          Ping
+11oct26 06:01 ☺InfoBot     Hey, evs!
+                           Pong with 2 hops: tlt-2kv-noname, TLT repeater solar
+11oct26 06:01 METAR Bot    Понг @[evs] | Напрямую | SNR: 10.25 дБ | RSSI: -90 дБм | 2.4s
+11oct26 06:14 Sanchez☺     Ping
+11oct26 06:14 ☺InfoBot     Hey, Sanchez😎!
+                           Pong with 3 hops: Repeater Domashka, SMR_868S, TLT RPT Dim 1
+11oct26 08:18 ☺StaLker     Ping
+11oct26 08:19 ☺InfoBot     Hey, ☢️StaLker!
+                           Pong with 4 hops: dde2a4, ULV_NT_ewowko_po4tov_29, ULV_CNT_DC09_PALKA, TLT RPT Dim 1
+11oct26 08:19 METAR Bot    Понг @[☢️StaLker] | dde2a4,28af91,418acd,2b63ce(TLT RPT Dim) (4 хопа) | SNR: 12.25 дБ | RSSI: -95 дБм | 4.1s
+11oct26 08:49 Tanch☺       Ping
+11oct26 08:49 ☺InfoBot     Hey, Tanch🦋!
+                           Pong with 3 hops: NSK_BBS, SMR_868S, TLT RPT Dim 1
+11oct26 08:49 METAR Bot    Понг @[Tanch🦋] | 1b21,acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: -0.5 дБ | RSSI: -106 дБм | 7.4s
+11oct26 11:20 NtsnMB2      Ping
+11oct26 11:20 METAR Bot    Понг @[NtsnMB2] | ac(SMR_868S),2b(TLT RPT Dim) (2 хопа) | SNR: 11.25 дБ | RSSI: -94 дБм | 3.8s
+11oct26 11:29 evs          Ping
+11oct26 11:29 ☺InfoBot     Hey, evs!
+                           Pong with 1 hop: TLT RPT Dim 1
+11oct26 11:30 METAR Bot    Понг @[evs] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 12.5 дБ | RSSI: -94 дБм | 3.6s
+11oct26 12:05 evs          Ping
+11oct26 12:05 ☺InfoBot     Hey, evs!
+                           Pong with 1 hop: TLT RPT Dim 1
+11oct26 12:05 METAR Bot    Понг @[evs] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 12.0 дБ | RSSI: -95 дБм | 2.5s
+11oct26 12:28 SIM          Ping
+11oct26 12:28 ☺InfoBot     Hey, SIM!
+                           Pong with 2 hops: TLT RPT Dim 1, TLT repeater solar
+11oct26 12:29 METAR Bot    Понг @[SIM] | 2b63(TLT RPT Dim) (1 хоп) | SNR: -0.25 дБ | RSSI: -105 дБм | 2.1s
+11oct26 12:45 ☺Ivan TLT    Ping
+11oct26 12:45 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 2 hops: TLT R YAgodnoe MQTT, TLT R6a
+11oct26 12:45 METAR Bot    Понг @[📟Ivan TLT] | c79c(TLT R YAgodn),eeaa(R-Podstepki) (2 хопа) | SNR: -12.25 дБ | RSSI: -117 дБм | 2.3s
+11oct26 13:33 Guardbot     Ping
+11oct26 13:33 ☺InfoBot     Hey, Guardbot!
+                           Pong with 2 hops: TLT RPT Dim 1, TLT R6 MQTT
+11oct26 13:33 METAR Bot    Понг @[Guardbot] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 1.25 дБ | RSSI: -104 дБм | 471ms
+11oct26 14:42 ☺Ivan TLT    Ping
+11oct26 14:42 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 1 hop: TLT R8
+11oct26 14:42 METAR Bot    Понг @[📟Ivan TLT] | Напрямую | SNR: -9.25 дБ | RSSI: -121 дБм | 1.1s
+11oct26 14:42 TLT_RWM_3    Ping
+11oct26 14:42 METAR Bot    Понг @[TLT_RWM_3] | Напрямую | SNR: -5.25 дБ | RSSI: -117 дБм | 1.3s
+11oct26 15:15 ᨖVLDᨖ        Ping
+11oct26 15:15 METAR Bot    Понг @[ᨖVLDᨖ] | 7ae3(Druz_repeate),2b63(TLT RPT Dim) (2 хопа) | SNR: 12.0 дБ | RSSI: -94 дБм | 3.7s
+11oct26 15:17 モニカ          Ping
+11oct26 15:17 ☺InfoBot     Hey, モニカ!
+                           Pong with 4 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1, TLT R6a
+11oct26 15:17 METAR Bot    Понг @[モニカ] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.5 дБ | RSSI: -94 дБм | 4.1s
+11oct26 16:19 SIM          Ping
+11oct26 16:19 ☺InfoBot     Hey, SIM!
+                           Pong with 2 hops: TLT RPT Dim 1, TLT R6a
+11oct26 16:19 METAR Bot    Понг @[SIM] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 11.75 дБ | RSSI: -95 дБм | 1.9s
+11oct26 16:47 evs          Ping
+11oct26 16:47 METAR Bot    Понг @[evs] | feda(TLT R16_2) (1 хоп) | SNR: 8.0 дБ | RSSI: -104 дБм | 2.9s
+11oct26 16:47 ☺InfoBot     Hey, evs!
+                           Pong with 2 hops: TLT R16_2, TLT R2 MQTT
+11oct26 21:53 ARK-1        Ping
+11oct26 21:53 ☺InfoBot     Hey, ARK-1!
+                           Pong with 5 hops: OKT_toSMR_r02, SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1, TLT R6a
+11oct26 21:53 ULV-alx32-bo Pong!
+11oct26 21:53 METAR Bot    Понг @[ARK-1] | 8400(OKT_toSMR_r0),d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 11.25 дБ | RSSI: -94 дБм | 4.
+11oct26 21:55 ᨖVLDᨖ        Ping
+11oct26 21:55 METAR Bot    Понг @[ᨖVLDᨖ] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 12.25 дБ | RSSI: -94 дБм | 3.4s
+11oct26 21:55 ☺InfoBot     Hey, ᨖVLDᨖ!
+                           Pong with 2 hops: TLT RPT Dim 1, TLT R6 MQTT
+11oct26 21:55 ULV-alx32-bo Pong!
+12oct26 05:23 ULV-alx32-ft Ping
+12oct26 05:23 METAR Bot    Понг @[ULV-alx32-ft] | 5c2d(ULV_DZ_smk0_),3537(ULV_KND_Eare),1717(ULV_VT_PURPL),feda(TLT R16_2) (4 хопа) | SNR: 7.0 дБ | RSSI: -104 дБм
+12oct26 06:55 ULV-Green    Ping
+12oct26 06:55 ☺InfoBot     Hey, ULV-Green!
+                           Pong with 3 hops: ULV_Atmosphere, ULV_VT_PURPLE, TLT RM62 Test
+12oct26 06:55 METAR Bot    Понг @[ULV-Green] | 2482,1717(ULV_VT_PURPL),575d(TLT RM62 Tes) (3 хопа) | SNR: 12.25 дБ | RSSI: -85 дБм | 4.7s
+12oct26 08:18 Tanch☺       Ping
+12oct26 08:18 METAR Bot    Понг @[Tanch🦋] | 0425(SMR_Волгарь),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.25 дБ | RSSI: -94 дБм | 6.7s
+12oct26 08:18 DA ☺ Home Br Hello @[Tanch🦋]!
+                           2 hops to SMR_Maslennikov (0425, acca)
+12oct26 09:38 Backpack☺_3  Ping
+12oct26 09:38 ☺InfoBot     Hey, Backpack🎒_3!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+12oct26 09:38 METAR Bot    Понг @[Backpack🎒_3] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: -0.5 дБ | RSSI: -105 дБм | 3.0s
+12oct26 09:40 AlogRayN     Ping
+12oct26 09:40 ☺InfoBot     Hey, AlogRayN!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R6a
+12oct26 09:40 METAR Bot    Понг @[AlogRayN] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 12.25 дБ | RSSI: -94 дБм | 2.8s
+12oct26 09:50 Subniger ☺   Ping
+12oct26 09:50 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 1 hop: TLT R8
+12oct26 09:50 METAR Bot    Понг @[Subniger 🦅] | cb38(TLT R8) (1 хоп) | SNR: 10.0 дБ | RSSI: -99 дБм | 2.1s
+12oct26 10:01 Netman       Ping
+12oct26 10:01 ☺InfoBot     Hey, Netman!
+                           Pong with 2 hops: TLT R16_2, TLT R6 MQTT
+12oct26 10:02 METAR Bot    Понг @[Netman] | feda(TLT R16_2) (1 хоп) | SNR: 6.0 дБ | RSSI: -105 дБм | 1.4s
+12oct26 10:26 Volga        Ping
+12oct26 10:26 ☺InfoBot     Hey, Volga!
+                           Pong with 4 hops: HomeNode, SMR_868S, TLT RPT Dim 1, TLT R6a
+12oct26 10:26 METAR Bot    Понг @[Volga] | 53f8(HomeNode),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.5 дБ | RSSI: -94 дБм | 3.1s
+12oct26 12:45 Tanch☺       Ping
+12oct26 12:45 METAR Bot    Понг @[Tanch🦋] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.25 дБ | RSSI: -94 дБм | 5.4s
+12oct26 12:45 ☺InfoBot     Hey, Tanch🦋!
+                           Pong with 4 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1, TLT R6a
+12oct26 12:47 Backpack☺_3  Ping
+12oct26 12:47 ☺InfoBot     Hey, Backpack🎒_3!
+                           Pong with 4 hops: SMR_Maslennikov, SMR_868S, TLT RPT Dim 1, TLT R6a
+12oct26 12:47 METAR Bot    Понг @[Backpack🎒_3] | b92f(SMR_Maslenni),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: -1.0 дБ | RSSI: -106 дБм | 5.4s
+12oct26 12:56 Backpack☺_3  Ping
+12oct26 12:56 ☺InfoBot     Hey, Backpack🎒_3!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R6a
+12oct26 12:56 METAR Bot    Понг @[Backpack🎒_3] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 11.75 дБ | RSSI: -94 дБм | 1.9s
+12oct26 12:57 Subniger ☺   Ping
+12oct26 12:57 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 1 hop: TLT R8
+12oct26 12:57 METAR Bot    Понг @[Subniger 🦅] | cb38(TLT R8) (1 хоп) | SNR: -8.25 дБ | RSSI: -113 дБм | 1.7s
+12oct26 12:58 SMR_DTR      Ping2
+12oct26 12:59 DA ☺ Home Br Hello @[SMR_DTR]!
+                           1 hops to SMR_Maslennikov (ac)
+12oct26 13:32 Subniger ☺   Ping
+12oct26 13:32 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 1 hop: TLT R6a
+12oct26 13:32 METAR Bot    Понг @[Subniger 🦅] | a6b4(TLT R6a) (1 хоп) | SNR: 12.25 дБ | RSSI: -68 дБм | 1.9s
+12oct26 13:38 FD83         Ping
+12oct26 13:38 ☺InfoBot     Hey, FD83!
+                           Pong with 4 hops: SMR_Maslennikov, SMR_868S, TLT RPT Dim 1, TLT R6a
+12oct26 13:38 METAR Bot    Понг @[FD83] | b92f(SMR_Maslenni),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: -1.0 дБ | RSSI: -106 дБм | 3.4s
+12oct26 13:42 FD83         Ping
+12oct26 13:43 ☺InfoBot     Hey, FD83!
+                           Pong with 4 hops: SMR_Maslennikov, SMR_868S, TLT RPT Dim 1, TLT R6a
+12oct26 13:43 METAR Bot    Понг @[FD83] | b92f(SMR_Maslenni),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.25 дБ | RSSI: -94 дБм | 3.7s
+12oct26 13:57 FD83         Ping
+12oct26 13:58 ☺InfoBot     Hey, FD83!
+                           Pong with 4 hops: SMR_Maslennikov, SMR_868S, TLT RPT Dim 1, TLT R6a
+12oct26 13:58 METAR Bot    Понг @[FD83] | b92f(SMR_Maslenni),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 0.25 дБ | RSSI: -104 дБм | 4.2s
+12oct26 15:11 Tanch☺       Ping
+12oct26 15:11 METAR Bot    Понг @[Tanch🦋] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 12.25 дБ | RSSI: -95 дБм | 4.6s
+12oct26 15:11 mt 042d      Ping
+12oct26 15:11 ☺InfoBot     Hey, mt 042d!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+12oct26 15:12 METAR Bot    Понг @[mt 042d] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: -0.5 дБ | RSSI: -105 дБм | 28.8s
+12oct26 15:20 SMR_DTR      Ping
+12oct26 15:20 METAR Bot    Понг @[SMR_DTR] | ac(SMR_868S),2b(TLT RPT Dim) (2 хопа) | SNR: -0.75 дБ | RSSI: -106 дБм | 5.0s
+12oct26 15:20 ☺InfoBot     Hey, SMR_DTR!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+12oct26 15:22 evs          @[SMR_DTR] 2 байта ставь
+12oct26 15:52 SMR_DTR      @[evs] поставил, спасибо
+12oct26 17:43 SIM_TLT      Ping
+12oct26 17:43 ☺InfoBot     Hey, SIM_TLT!
+                           Pong with 2 hops: TLT RPT Dim 1, TLT R6 MQTT
+12oct26 17:43 METAR Bot    Понг @[SIM_TLT] | 2b63(TLT RPT Dim) (1 хоп) | SNR: -1.75 дБ | RSSI: -106 дБм | 2.6s
+12oct26 17:55 Раиль        Ping
+12oct26 17:55 ☺InfoBot     Hey, Раиль!
+                           Pong with 2 hops: TLT R16_2, TLT R6 MQTT
+12oct26 17:55 METAR Bot    Понг @[Раиль] | feda(TLT R16_2) (1 хоп) | SNR: 6.0 дБ | RSSI: -105 дБм | 3.2s
+12oct26 18:33 SMR_DTR      Пинг
+12oct26 18:33 METAR Bot    Понг @[SMR_DTR] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: -1.75 дБ | RSSI: -106 дБм | 3.1s
+12oct26 18:33 FD83         @[SMR_DTR] понг
+12oct26 22:35 Stanis       ping
+12oct26 22:35 ☺InfoBot     Hey, Stanis!
+                           Pong with 2 hops: Druz_repeater, TLT RPT Dim 1
+12oct26 22:35 METAR Bot    Понг @[Stanis] | 7ae3(Druz_repeate),2b63(TLT RPT Dim) (2 хопа) | SNR: 11.5 дБ | RSSI: -94 дБм | 4.0s
+12oct26 22:36 Stanis       path
+12oct26 22:36 METAR Bot    7AE3: Druz_repeater
+                           2B63: TLT RPT Dim 1
+12oct26 23:37 tltOG☺       Path
+12oct26 23:37 METAR Bot    Прямое соединение (0 хопов)
+12oct26 23:37 ULV-alx32-bo A6B4: Unknown
+                           1717: ULV_VT_PURPLE ❓
+                           3537: ULV_KND_Earendel
+                           2017: ULV_DZ_alx32_pyMC_Repeater
+13oct26 00:04 SemSam       Ping
+13oct26 00:04 ☺InfoBot     Hey, SemSam!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+13oct26 00:04 METAR Bot    Понг @[SemSam] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 12.75 дБ | RSSI: -94 дБм | 2.8s
+13oct26 00:27 SMR_DTR      Ping
+13oct26 00:27 ☺InfoBot     Hey, SMR_DTR!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+13oct26 00:27 DA ☺ Home Br Hello @[SMR_DTR]!
+                           1 hops to SMR_Maslennikov (acca)
+13oct26 00:27 METAR Bot    Понг @[SMR_DTR] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: -2.25 дБ | RSSI: -108 дБм | 3.2s
+13oct26 00:28 SMR_DTR      @[🤖InfoBot] Хм, с Тольятти в Самару через Сызрань идет...
+13oct26 00:46 Pumba        @[SMR_DTR] так обычно и ходит, через Обшаровку
+13oct26 08:25 ULV-Ilyakr11 ping
+13oct26 08:25 ☺InfoBot     Hey, ULV-Ilyakr111!
+                           Pong with 4 hops: 7f22, ULV_KND_Earendel, ULV_VT_PURPLE, TLT RM62 Test
+13oct26 08:25 METAR Bot    Понг @[ULV-Ilyakr111] | 7f22,3537(ULV_KND_Eare),1717(ULV_VT_PURPL),feda(TLT R16_2) (4 хопа) | SNR: -10.5 дБ | RSSI: -115 дБм | 5.6s
+13oct26 08:26 sandrkin     ping
+13oct26 08:26 ☺InfoBot     Hey, sandrkin!
+                           Pong with 7 hops: 3537, ace1, 1717, d74b, 3f3e, 2b63, a6b4
+13oct26 08:33 TLT_Railwaym Ping
+13oct26 08:33 ☺InfoBot     Hey, TLT_Railwayman 2🚇⚡!
+                           Pong with 1 hop: TLT R6a
+13oct26 08:34 METAR Bot    Понг @[TLT_Railwayman 2🚇⚡] | a6b4(TLT R6a) (1 хоп) | SNR: 9.75 дБ | RSSI: -98 дБм | 3.0s
+13oct26 08:34 sandrkin     Ping
+13oct26 08:34 ☺InfoBot     Hey, sandrkin!
+                           Pong with 3 hops: ULV_VT_PURPLE, TLT RPT Dim 1, TLT R6 MQTT
+13oct26 08:34 METAR Bot    Понг @[sandrkin] | 1717(ULV_VT_PURPL),2b63(TLT RPT Dim) (2 хопа) | SNR: -0.75 дБ | RSSI: -106 дБм | 7.0s
+13oct26 08:49 ULV-Ilyakr11 ping
+13oct26 08:49 ULV-alx32-bo Pong!
+13oct26 08:55 ULV-Ilyakr11 ping
+13oct26 08:55 ☺InfoBot     Hey, ULV-Ilyakr111!
+                           Pong with 5 hops: ULV_CNT_DC09, ULV_NG_ewowko, ULV_ewowko_solar_soz, TLT R16_2, TLT R6a
+13oct26 08:55 METAR Bot    Понг @[ULV-Ilyakr111] | dc09,075e(ULV_NG_ewowk),3f3e(ULV_ewowko_s),feda(TLT R16_2) (4 хопа) | SNR: -9.0 дБ | RSSI: -113 дБм | 4.9s
+13oct26 09:24 tltOG☺       Ping
+13oct26 09:24 ☺InfoBot     Hey, tltOG📻!
+                           Pong with 1 hop: TLT R6 MQTT
+13oct26 09:24 METAR Bot    Понг @[tltOG📻] | ce0a(TLT R6 MQTT) (1 хоп) | SNR: 9.0 дБ | RSSI: -91 дБм | 1.7s
+13oct26 09:24 DA ☺ Home Br Hello @[tltOG📻]!
+                           4 hops to SMR_Maslennikov (ce0a, fdfd, 2b63, acca)
+13oct26 10:12 SMR_DTR      Ping
+13oct26 10:12 ☺InfoBot     Hey, SMR_DTR!
+                           Pong with 4 hops: SMR_Maslennikov, SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+13oct26 10:12 METAR Bot    Понг @[SMR_DTR] | b92f(SMR_Maslenni),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.0 дБ | RSSI: -95 дБм | 6.3s
+13oct26 16:07 モニカ          Ping
+13oct26 16:07 ☺InfoBot     Hey, モニカ!
+                           Pong with 4 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1, TLT R6a
+13oct26 16:07 METAR Bot    Понг @[モニカ] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.25 дБ | RSSI: -94 дБм | 4.7s
+13oct26 17:00 Subniger ☺   Ping
+13oct26 17:00 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 1 hop: TLT R6a
+13oct26 17:00 METAR Bot    Понг @[Subniger 🦅] | a6b4(TLT R6a) (1 хоп) | SNR: 13.0 дБ | RSSI: -67 дБм | 2.9s
+13oct26 18:06 Sanchez☺     Ping
+13oct26 18:06 ☺InfoBot     Hey, Sanchez😎!
+                           Pong with 5 hops: Repeater Domashka, SMR_Syreika, SMR_868S, TLT RPT Dim 1, TLT R2 MQTT
+13oct26 18:06 METAR Bot    Понг @[Sanchez😎] | a047(Repeater Dom),dac1(SMR_Syreika),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: -2.25 дБ | RSSI: -103 дБм |
+13oct26 18:36 tltOG☺       Ping
+13oct26 18:36 ☺InfoBot     Hey, tltOG📻!
+                           Pong with 1 hop: TLTProMicro OG
+13oct26 18:36 METAR Bot    Понг @[tltOG📻] | 58b2(TLTProMicro) (1 хоп) | SNR: 1.25 дБ | RSSI: -102 дБм | 2.7s
+13oct26 20:00 Stanis       ping
+13oct26 20:00 ☺InfoBot     Hey, Stanis!
+                           Pong with 3 hops: Druz_repeater, TLT RPT Dim 1, TLT R6 MQTT
+13oct26 20:01 METAR Bot    Понг @[Stanis] | 7ae3(Druz_repeate),2b63(TLT RPT Dim) (2 хопа) | SNR: 0.75 дБ | RSSI: -104 дБм | 4.9s
+13oct26 20:08 ☺Ivan TLT    Ping
+13oct26 20:08 METAR Bot    Понг @[📟Ivan TLT] | 9c92(TLT R3B) (1 хоп) | SNR: -2.25 дБ | RSSI: -115 дБм | 2.5s
+13oct26 20:09 ULV-alx32-bo Pong!
+13oct26 20:15 Guardbot     Ping
+13oct26 20:15 METAR Bot    Понг @[Guardbot] | f8f8(TLT_R50_Uchi),feda(TLT R16_2) (2 хопа) | SNR: 7.5 дБ | RSSI: -104 дБм | 2.2s
+13oct26 20:19 ☺Ivan TLT    Ping
+13oct26 20:20 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 2 hops: TLT R8, TLT R2 MQTT
+13oct26 20:20 METAR Bot    Понг @[📟Ivan TLT] | cb38(TLT R8) (1 хоп) | SNR: -3.5 дБ | RSSI: -109 дБм | 14.5s
+13oct26 20:20 ULV-Ilyakr11 ping
+13oct26 20:21 METAR Bot    Понг @[ULV-Ilyakr111] | 7f22,418a,28af,1717(ULV_VT_PURPL),2b63(TLT RPT Dim) (5 хопов) | SNR: 0.25 дБ | RSSI: -104 дБм | 7.2s
+13oct26 20:23 ARK-1        Ping
+13oct26 20:23 ☺InfoBot     Hey, ARK-1!
+                           Pong with 4 hops: OKT_toSMR_r02, Samara Room, SMR_868S, TLT RPT Dim 1
+13oct26 20:23 METAR Bot    Понг @[ARK-1] | 8400(OKT_toSMR_r0),2e43(Samara Room),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 12.0 дБ | RSSI: -94 дБм | 4.3s
+13oct26 21:22 ULV-alx32-bo Pong!
+13oct26 23:31 モニカ          Ping
+13oct26 23:31 ☺InfoBot     Hey, モニカ!
+                           Pong with 4 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+13oct26 23:31 ULV-alx32-bo Pong!
+13oct26 23:31 METAR Bot    Понг @[モニカ] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.5 дБ | RSSI: -94 дБм | 5.1s
+14oct26 00:29 ULV-Green    Ping
+14oct26 00:29 UlV_ewowko_b Pong!
+14oct26 00:29 ULV-alx32-bo Pong!
+14oct26 00:29 METAR Bot    Понг @[ULV-Green] | 3f3e(ULV_ewowko_s),2b63(TLT RPT Dim) (2 хопа) | SNR: 11.75 дБ | RSSI: -94 дБм | 2.1s
+14oct26 00:30 N01          Pong
+14oct26 00:30 METAR Bot    Понг @[N01] | acca,2b63 | SNR: -1.5 дБ | RSSI: -106 дБм | 3.0s
+14oct26 12:41 ☺Ivan TLT    Ping
+14oct26 12:41 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 2 hops: TLT R5 MQTT MaxCore, TLT R6a
+14oct26 12:42 METAR Bot    Понг @[📟Ivan TLT] | 8fea(TLT R5 MQTT) (1 хоп) | SNR: -8.25 дБ | RSSI: -112 дБм | 54.3s
+14oct26 13:19 ☺Ivan TLT    Ping
+14oct26 13:19 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 2 hops: TLT R5 MQTT MaxCore, TLT R6a
+14oct26 13:19 METAR Bot    Понг @[📟Ivan TLT] | 8fea(TLT R5 MQTT) (1 хоп) | SNR: -8.75 дБ | RSSI: -111 дБм | 2.2s
+14oct26 16:23 hdhog-t1e    Понг
+14oct26 16:23 METAR Bot    Понг @[hdhog-t1e] | 5b6a,acca,2b63 | SNR: 12.0 дБ | RSSI: -95 дБм | 5.1s
+14oct26 16:41 Subniger ☺   Ping
+14oct26 16:41 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+14oct26 16:41 METAR Bot    Понг @[Subniger 🦅] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 11.75 дБ | RSSI: -95 дБм | 3.2s
+14oct26 17:09 ULV_NT_Skif_ P
+14oct26 17:37 RA4HPD_mob   Ping
+14oct26 17:37 ☺InfoBot     Hey, RA4HPD_mob!
+                           Pong with 3 hops: HomeNode, SMR_868S, TLT RPT Dim 1
+14oct26 17:37 METAR Bot    Понг @[RA4HPD_mob] | 53f8(HomeNode),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: -3.0 дБ | RSSI: -104 дБм | 4.8s
+14oct26 17:37 ULV-alx32-bo Pong!
+14oct26 17:44 Subniger ☺   Ping
+14oct26 17:44 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 3 hops: SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+14oct26 17:44 METAR Bot    Понг @[Subniger 🦅] | 474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: -2.75 дБ | RSSI: -104 дБм | 4.3s
+14oct26 17:46 SMR_DTR      Ping
+14oct26 17:46 ☺InfoBot     Hey, SMR_DTR!
+                           Pong with 4 hops: SMR_Maslennikov, SMR_868S, TLT RPT Dim 1, TLT R6a
+14oct26 17:46 METAR Bot    Понг @[SMR_DTR] | b92f(SMR_Maslenni),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.0 дБ | RSSI: -95 дБм | 6.3s
+14oct26 17:49 ULV_NT_Skif_ P
+14oct26 17:51 ULV-alx32-ft P
+14oct26 17:51 ULV-alx32-ft Ping
+14oct26 17:51 ☺InfoBot     Hey, ULV-alx32-ft!
+                           Pong with 4 hops: ULV_DZ_smk0_A.Nevskogo, ULV_DZ_smk0_NovGzn, ULV_VT_PURPLE, TLT RM62 Test
+14oct26 17:52 METAR Bot    Понг @[ULV-alx32-ft] | 5c2d(ULV_DZ_smk0_),5546(ULV_DZ_smk0_),1717(ULV_VT_PURPL),575d(TLT RM62 Tes) (4 хопа) | SNR: -9.0 дБ | RSSI: -120 д
+14oct26 17:53 ULV-alx32-ft Ping
+14oct26 17:53 ☺InfoBot     Hey, ULV-alx32-ft!
+                           Pong with 4 hops: 2017, ULV_NG_ewowko, ULV_VT_PURPLE, TLT RM62 Test
+14oct26 17:53 METAR Bot    Понг @[ULV-alx32-ft] | 2017,075e(ULV_NG_ewowk),1717(ULV_VT_PURPL),575d(TLT RM62 Tes) (4 хопа) | SNR: 9.25 дБ | RSSI: -90 дБм | 6.4s
+14oct26 18:29 sandrkin     Ping
+14oct26 18:29 ☺InfoBot     Hey, sandrkin!
+                           Pong with 3 hops: ULV_DZ_EVGENGR_NL, ULV_VT_PURPLE, TLT RM62 Test
+14oct26 18:30 METAR Bot    Понг @[sandrkin] | 57f2,1717(ULV_VT_PURPL),575d(TLT RM62 Tes) (3 хопа) | SNR: -8.0 дБ | RSSI: -119 дБм | 50.9s
+14oct26 19:13 sandrkin     PING
+14oct26 19:13 METAR Bot    Понг @[sandrkin] | dc09,418a,ace1,1717(ULV_VT_PURPL),575d(TLT RM62 Tes) (5 хопов) | SNR: -8.75 дБ | RSSI: -120 дБм | 9.6s
+14oct26 19:13 ☺InfoBot     Hey, sandrkin!
+                           Pong with 5 hops: ULV_CNT_DC09, ULV_CNT_DC09_PALKA, ULV_VT_Olimp, ULV_VT_PURPLE, TLT RM62 Test
+14oct26 21:34 ULV_Orange   Ping
+14oct26 21:34 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),075e(ULV_NG_ewowk),1717(ULV_VT_PURPL),a6b4(TLT R6a) (4 хопа) | SNR: 12.75 дБ | RSSI: -68 дБм | 5
+14oct26 21:34 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 4 hops: ULV_NG_Atmosphere, ULV_NG_ewowko, ULV_VT_PURPLE, TLT R6a
+14oct26 21:35 ULV-alx32-bo Pong!
+14oct26 21:38 ULV_Orange   Advert
+14oct26 21:38 UlV_ewowko_b Command 'advert' can only be used in DMs
+14oct26 21:38 ULV-alx32-bo Command 'advert' can only be used in DMs
+14oct26 21:39 METAR Bot    Команда 'advert' доступна только в ЛС
+14oct26 21:41 ULV_Orange   Ping
+14oct26 21:41 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 3 hops: ULV_NG_TULENEVA28, ULV_VT_PURPLE, TLT RM62 Test
+14oct26 21:41 METAR Bot    Понг @[ULV_Orange] | d74b(ULV_NG_TULEN),1717(ULV_VT_PURPL),2b63(TLT RPT Dim) (3 хопа) | SNR: -2.0 дБ | RSSI: -104 дБм | 3.5s
+14oct26 21:42 ULV-alx32-ft Path
+14oct26 21:42 ULV-alx32-bo 📡 Direct connection (0 hops)
+14oct26 21:43 METAR Bot    2017: Неизвестно
+                           ACE1: Неизвестно
+                           1717: ULV_VT_PURPLE
+                           2B63: TLT RPT Dim 1
+14oct26 22:27 ULV_Orange   Path
+14oct26 22:27 METAR Bot    2482: ULV_NG_Atmosphere
+                           075E: ULV_NG_ewowko
+                           1717: ULV_VT_PURPLE
+                           2B63: TLT RPT Dim 1
+15oct26 03:06 Subniger ☺   Ping
+15oct26 03:06 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 4 hops: SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+15oct26 03:06 METAR Bot    Понг @[Subniger 🦅] | 474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: -0.5 дБ | RSSI: -105 дБм | 5.2s
+15oct26 06:39 RA4HPD       Ping
+15oct26 06:39 ☺InfoBot     Hey, RA4HPD!
+                           Pong with 4 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+15oct26 06:39 METAR Bot    Понг @[RA4HPD] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 0.25 дБ | RSSI: -104 дБм | 4.1s
+15oct26 06:40 RA4HPD       Погода Самара
+15oct26 06:43 Sanchez☺     @[RA4HPD] облачно + 13. 😁
+15oct26 06:44 Sanchez☺     @[RA4HPD] облачно + 13. 😁
+15oct26 07:03 ULV-Green    P
+15oct26 09:20 ULV-alx32-bo 373A: ULV_SV_Rep_Repeater 🎯
+                           36A1: ULV_Magnat_Telecom
+15oct26 09:20 UlV_ewowko_b 373A: ULV_SV_Rep_Repeater
+                           5546: ULV_DZ_smk0_NovGzn
+                           075E: ULV_NG_ewowko
+15oct26 09:31 ☺Ivan TLT    Ping
+15oct26 09:31 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 1 hop: TLT R8
+15oct26 09:32 METAR Bot    Понг @[📟Ivan TLT] | cb38(TLT R8) (1 хоп) | SNR: 2.25 дБ | RSSI: -98 дБм | 1.6s
+15oct26 09:34 ☺Ivan TLT    Ping
+15oct26 09:34 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 1 hop: TLT R8
+15oct26 09:34 METAR Bot    Понг @[📟Ivan TLT] | cb38(TLT R8) (1 хоп) | SNR: -6.5 дБ | RSSI: -109 дБм | 1.8s
+15oct26 09:39 ☺Ivan TLT    Path
+15oct26 09:40 METAR Bot    CB38: TLT R8
+15oct26 10:05 ULV_Orange   Path
+15oct26 10:17 ULV_NT_Skif_ P
+15oct26 12:12 Guardbot     Ping
+15oct26 12:12 ☺InfoBot     Hey, Guardbot!
+                           Pong with 3 hops: TLT RPT Dim 1, TLT R12, TLT RM62 Test
+15oct26 12:12 METAR Bot    Понг @[Guardbot] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 12.25 дБ | RSSI: -94 дБм | 2.9s
+15oct26 13:56 Backpack☺_09 Ping
+15oct26 13:56 ☺InfoBot     Hey, Backpack🎒_09!
+                           Pong with 3 hops: SMR_Maslennikov, SMR_868S, TLT RPT Dim 1
+15oct26 13:56 METAR Bot    Понг @[Backpack🎒_09] | b92f(SMR_Maslenni),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.75 дБ | RSSI: -95 дБм | 5.8s
+15oct26 15:56 Subniger ☺   Ping
+15oct26 15:56 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 3 hops: SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+15oct26 15:56 METAR Bot    Понг @[Subniger 🦅] | 474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: -1.5 дБ | RSSI: -104 дБм | 5.0s
+15oct26 16:17 ARK-1        Ping
+15oct26 16:17 ☺InfoBot     Hey, ARK-1!
+                           Pong with 4 hops: OKT_toSMR_r02, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+15oct26 16:18 METAR Bot    Понг @[ARK-1] | 8400(OKT_toSMR_r0),474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 12.0 дБ | RSSI: -94 дБм | 5.1
+15oct26 17:35 ULV-alx32-ft Ping
+15oct26 17:35 METAR Bot    Понг @[ULV-alx32-ft] | 2017,075e(ULV_NG_ewowk),1717(ULV_VT_PURPL),feda(TLT R16_2) (4 хопа) | SNR: 5.75 дБ | RSSI: -107 дБм | 8.1s
+15oct26 17:42 Backpack☺_09 Ping
+15oct26 17:42 ☺InfoBot     Hey, Backpack🎒_09!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R8
+15oct26 17:42 METAR Bot    Понг @[Backpack🎒_09] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 0.75 дБ | RSSI: -102 дБм | 2.4s
+15oct26 18:38 Guardbot     Pibg
+15oct26 19:08 Sav098       Ping
+15oct26 19:08 ☺InfoBot     Hey, Sav098!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+15oct26 19:08 METAR Bot    Понг @[Sav098] | ac,2b(TLT RPT Dim) (2 хопа) | SNR: 12.5 дБ | RSSI: -94 дБм | 3.2s
+15oct26 19:28 モニカ          Ping
+15oct26 19:29 ☺InfoBot     Hey, モニカ!
+                           Pong with 3 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1
+15oct26 19:29 METAR Bot    Понг @[モニカ] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.75 дБ | RSSI: -95 дБм | 5.3s
+15oct26 20:01 Valery73     Ping
+15oct26 20:02 ☺InfoBot     Hey, Valery73!
+                           Pong with 2 hops: ULV_Magnat_Telecom, TLT RPT Dim 1
+15oct26 20:02 METAR Bot    Понг @[Valery73] | 36a1(ULV_Magnat_T),2b63(TLT RPT Dim) (2 хопа) | SNR: -0.5 дБ | RSSI: -105 дБм | 4.6s
+15oct26 21:18 hdhog-t1e    Ping
+15oct26 21:18 ☺InfoBot     Hey, hdhog-t1e!
+                           Pong with 4 hops: Samara Room, SMR_868S, TLT RPT Dim 1, TLT R6a
+15oct26 21:18 METAR Bot    Понг @[hdhog-t1e] | 2e43(Samara Room),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.25 дБ | RSSI: -95 дБм | 5.7s
+15oct26 21:22 Guardbot     Ping
+15oct26 21:23 ☺InfoBot     Hey, Guardbot!
+                           Pong with 1 hop: TLT RPT Dim 1
+15oct26 21:23 METAR Bot    Понг @[Guardbot] | 2b63(TLT RPT Dim) (1 хоп) | SNR: -0.25 дБ | RSSI: -105 дБм | 1.6s
+15oct26 21:28 Subniger ☺   Ping
+15oct26 21:28 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong direct
+15oct26 21:28 METAR Bot    Понг @[Subniger 🦅] | ce0a(TLT R6 MQTT) (1 хоп) | SNR: -2.25 дБ | RSSI: -114 дБм | 2.0s
+15oct26 21:28 UlV_ewowko_b Pong!
+15oct26 21:38 Pumba        Ping
+15oct26 21:38 METAR Bot    Понг @[Pumba] | 2a53(Ermakovo),474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 12.5 дБ | RSSI: -95 дБм | 4.5s
+15oct26 21:38 ☺InfoBot     Hey, Pumba!
+                           Pong with 4 hops: Ermakovo, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+15oct26 21:39 UlV_ewowko_b Pong!
+15oct26 23:25 A            Ping
+15oct26 23:25 METAR Bot    Понг @[A] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.75 дБ | RSSI: -95 дБм | 2.9s
+16oct26 01:39 Sav098       Ping
+16oct26 01:40 ☺InfoBot     Hey, Sav098!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, 🤖flsn1
+16oct26 01:40 UlV_ewowko_b Pong!
+16oct26 01:40 METAR Bot    Понг @[Sav098] | ac,2b(TLT RPT Dim),63(TLT R2 ofice) (3 хопа) | SNR: 12.75 дБ | RSSI: -68 дБм | 5.1s
+16oct26 09:24 ☺Ivan TLT    Ping
+16oct26 09:24 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 3 hops: Vadomilerslovoklb, TLT R16U, 3i5-Smr
+16oct26 09:25 METAR Bot    Понг @[📟Ivan TLT] | 73(🚙 Mobile Rep),fd(TLT R16U) (2 хопа) | SNR: 4.5 дБ | RSSI: -95 дБм | 3.3s
+16oct26 09:25 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 3 hops: Vadomilerslovoklb, TLT R16U, ULV_DZ_EVGENGR_NL
+16oct26 09:25 tltOG☺       Ping
+16oct26 09:25 METAR Bot    Понг @[tltOG📻] | ce0a(TLT R6 MQTT) (1 хоп) | SNR: -11.75 дБ | RSSI: -111 дБм | 2.5s
+16oct26 09:25 ☺InfoBot     Hey, tltOG📻!
+                           Pong with 1 hop: TLT R6 MQTT
+16oct26 09:26 ☺Ivan TLT    Ping
+16oct26 09:26 METAR Bot    Понг @[📟Ivan TLT] | 73(🚙 Mobile Rep),fd(TLT R16U) (2 хопа) | SNR: -0.5 дБ | RSSI: -101 дБм | 52.9s
+16oct26 09:33 ☺InfoBot     Hey, tltOG📻!
+                           Pong with 1 hop: TLTProMicro OG
+16oct26 09:33 tltOG☺       Ping
+16oct26 09:33 METAR Bot    Понг @[tltOG📻] | 58b2(TLTProMicro) (1 хоп) | SNR: -5.0 дБ | RSSI: -107 дБм | 1.4s
+16oct26 09:35 tltOG☺       Ping
+16oct26 09:35 ☺InfoBot     Hey, tltOG📻!
+                           Pong with 1 hop: TLTProMicro OG
+16oct26 09:36 METAR Bot    Понг @[tltOG📻] | 58b2(TLTProMicro) (1 хоп) | SNR: -8.25 дБ | RSSI: -109 дБм | 2.0s
+16oct26 09:43 ☺Ivan TLT    Ping
+16oct26 09:43 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 3 hops: 🚙 Mobile Repeater, TLT R16U, TLT RM62 Test
+16oct26 09:43 METAR Bot    Понг @[📟Ivan TLT] | 736e(🚙 Mobile Rep),fdfd(TLT R16U) (2 хопа) | SNR: 9.25 дБ | RSSI: -96 дБм | 3.1s
+16oct26 10:04 ᨖVLDᨖ        Ping
+16oct26 10:04 ☺InfoBot     Hey, ᨖVLDᨖ!
+                           Pong with 1 hop: TLT RPT Dim 1
+16oct26 10:04 METAR Bot    Понг @[ᨖVLDᨖ] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 11.25 дБ | RSSI: -95 дБм | 3.4s
+16oct26 10:54 mt 042d      Ping
+16oct26 10:54 ☺InfoBot     Hey, mt 042d!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+16oct26 10:55 METAR Bot    Понг @[mt 042d] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: -3.5 дБ | RSSI: -105 дБм | 3.4s
+16oct26 11:15 ULV-alx32-ft Ping
+16oct26 11:15 ☺InfoBot     Hey, ULV-alx32-ft!
+                           Pong with 7 hops: 4614, 5c2d, 5546, 3537, 1717, feda, a6b4
+16oct26 11:16 ULV-alx32-ft @[ULV-alx32-bot] Boccmaнoвuл maкu...
+16oct26 11:16 ☺Ivan TLT    Ping
+16oct26 11:16 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 3 hops: 🚙 Mobile Repeater, TLT R16_2, TLT R6a
+16oct26 11:16 METAR Bot    Понг @[📟Ivan TLT] | 736e(🚙 Mobile Rep),feda(TLT R16_2) (2 хопа) | SNR: -11.25 дБ | RSSI: -115 дБм | 2.8s
+16oct26 11:54 TLT_Railwaym Ping
+16oct26 11:54 ☺InfoBot     Hey, TLT_Railwayman 2🚇⚡!
+                           Pong with 1 hop: TLT R6 MQTT
+16oct26 11:54 METAR Bot    Понг @[TLT_Railwayman 2🚇⚡] | feda(TLT R16_2) (1 хоп) | SNR: 3.25 дБ | RSSI: -106 дБм | 1.6s
+16oct26 13:43 R0mka        Path
+16oct26 13:43 METAR Bot    FEDA: TLT R16_2
+16oct26 13:45 R0mka        /?
+16oct26 13:45 Subniger ☺   Ping
+16oct26 13:45 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 2 hops: TLT RPT Dim 1, TLT R6a
+16oct26 13:45 METAR Bot    Понг @[Subniger 🦅] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 1.5 дБ | RSSI: -97 дБм | 4.0s
+16oct26 13:46 R0mka        Ping
+16oct26 13:46 ☺InfoBot     Hey, R0mka!
+                           Pong with 2 hops: TLT R19, TLT R6 MQTT
+16oct26 14:20 Subniger ☺   Ping
+16oct26 14:20 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 3 hops: TLT R16_2, TLT R6a, TLT RM62 Test
+16oct26 14:20 METAR Bot    Понг @[Subniger 🦅] | Напрямую | SNR: -4.5 дБ | RSSI: -117 дБм | 989ms
+16oct26 15:08 Alfpv        Hi
+16oct26 15:08 Alfpv        Ping
+16oct26 15:08 ☺InfoBot     Hey, Alfpv!
+                           Pong with 1 hop: TLT RPT Dim 1
+16oct26 15:08 METAR Bot    Понг @[Alfpv] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 0.25 дБ | RSSI: -103 дБм | 1.2s
+16oct26 15:24 Subniger ☺   Ping
+16oct26 15:24 ☺InfoBot     Hey, Subniger 🦅!
+                           Pong with 1 hop: TLT RM62 Test
+16oct26 15:24 METAR Bot    Понг @[Subniger 🦅] | 575d(TLT RM62 Tes) (1 хоп) | SNR: -0.25 дБ | RSSI: -113 дБм | 2.5s
+16oct26 15:35 Volga        Ping
+16oct26 15:36 ☺InfoBot     Hey, Volga!
+                           Pong with 5 hops: SMR_Hospital, SMR_Keramika, SMR_Solar_Power ☀️, SMR_868S, TLT RPT Dim 1
+16oct26 15:36 METAR Bot    Понг @[Volga] | 6a0d(SMR_Hospital),b3c8(SMR_Keramika),77e7(SMR_Solar_Po),acca(SMR_868S),2b63(TLT RPT Dim) (5 хопов) | SNR: 11.25 дБ | RSSI
+16oct26 18:57 ULV-alx32-bo 2482: Unknown
+                           D488: Unknown
+                           ACE1: ULV_VT_Olimp
+                           3537: ULV_KND_Earendel
+                           2DE8: ULV-alx32-ft-rep
+16oct26 18:58 ULV_Orange   P
+16oct26 18:59 ULV_Orange   P
+16oct26 19:00 ULV-alx32-bo ...
+                           5C2D: ULV_DZ_smk0_A.Nevskogo
+16oct26 19:00 ULV_Orange   H
+16oct26 19:01 Libertad01   @[ULV_Orange] ? ))
+16oct26 19:01 ULV-alx32-ft A eвoвкuн нe omвeчaem чmo лu?
+16oct26 19:02 ULV_Orange   Н
+16oct26 19:03 ULV_Orange   Новую жёлтую ноду тестирую
+16oct26 19:03 ULV_Orange   С окурком
+16oct26 19:04 ULV_Orange   Неплохо прям
+16oct26 19:05 ULV_Orange   Думал окурок будет совсем плох, а он на удивление очень даже
+16oct26 19:13 ULV_NT_Skif_ Ping
+16oct26 19:13 ☺InfoBot     Hey, ULV_NT_Skif_2!
+                           Pong with 3 hops: ULV_VT_PURPLE, TLT R16_2, TLT R6 MQTT
+16oct26 19:14 METAR Bot    Понг @[ULV_NT_Skif_2] | 1717(ULV_VT_PURPL),feda(TLT R16_2) (2 хопа) | SNR: 6.75 дБ | RSSI: -105 дБм | 2.8s
+16oct26 19:15 ULV_Orange   Н
+16oct26 19:25 ULV_Orange   Н
+16oct26 19:30 ULV_Orange   Ping
+16oct26 19:30 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 5 hops: ULV_NG_Atmosphere, ULV_NG_ewowko, ULV_VT_PURPLE, TLT R16_2, TLT R6 MQTT
+16oct26 19:30 UlV_ewowko_b Pong!
+16oct26 19:30 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),075e(ULV_NG_ewowk),1717(ULV_VT_PURPL),feda(TLT R16_2) (4 хопа) | SNR: 6.75 дБ | RSSI: -105 дБм |
+16oct26 19:31 ULV_Orange   Ping
+16oct26 19:31 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 4 hops: ULV_NG_Atmosphere, ULV_NG_Sparks_ewowko, ULV_VT_PURPLE, TLT R6a
+16oct26 19:32 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),d128(ULV_NG_Spark),1717(ULV_VT_PURPL),feda(TLT R16_2) (4 хопа) | SNR: 6.5 дБ | RSSI: -105 дБм |
+16oct26 19:38 ULV_NT_Skif_ P
+16oct26 19:38 ULV-alx32-bo 18BA: ULV_NT_Skif
+                           ACE1: ULV_VT_Olimp
+                           3537: ULV_KND_Earendel
+                           5C2D: ULV_DZ_smk0_A.Nevskogo
+16oct26 20:20 ULV_Orange   Ping
+16oct26 20:20 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 5 hops: ULV_NG_Atmosphere, ULV_NG_TULENEVA28, ULV_VT_PURPLE, TLT R16_2, TLT R6 MQTT
+16oct26 20:20 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),d74b(ULV_NG_TULEN),1717(ULV_VT_PURPL),feda(TLT R16_2) (4 хопа) | SNR: 6.75 дБ | RSSI: -105 дБм |
+16oct26 21:33 Sanchez☺     Ping
+16oct26 21:33 ☺InfoBot     Hey, Sanchez😎!
+                           Pong with 4 hops: Repeater Domashka, SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+16oct26 21:33 ULV-alx32-bo Pong!
+16oct26 21:33 METAR Bot    Понг @[Sanchez😎] | a047(Repeater Dom),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.5 дБ | RSSI: -96 дБм | 5.2s
+16oct26 22:44 hdhog-t1e    Ping
+16oct26 22:44 ☺InfoBot     Hey, hdhog-t1e!
+                           Pong with 3 hops: SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+16oct26 22:44 METAR Bot    Понг @[hdhog-t1e] | 474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.0 дБ | RSSI: -95 дБм | 4.7s
+16oct26 23:01 hdhog-t1e    Ping
+16oct26 23:02 ☺InfoBot     Hey, hdhog-t1e!
+                           Pong with 4 hops: SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1, TLT R6a
+16oct26 23:02 METAR Bot    Понг @[hdhog-t1e] | 474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim),a6b4(TLT R6a) (4 хопа) | SNR: 13.25 дБ | RSSI: -68 дБм | 5.7
+16oct26 23:35 ARK-1        Ping
+16oct26 23:35 ☺InfoBot     Hey, ARK-1!
+                           Pong with 4 hops: OKT_toSMR_r02, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+16oct26 23:36 METAR Bot    Понг @[ARK-1] | 8400(OKT_toSMR_r0),474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 11.25 дБ | RSSI: -95 дБм | 4.
+17oct26 01:17 ULV_Orange   Ping
+17oct26 01:17 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),1717(ULV_VT_PURPL),feda(TLT R16_2) (3 хопа) | SNR: 5.0 дБ | RSSI: -106 дБм | 3.5s
+17oct26 01:17 ULV-alx32-bo Pong!
+17oct26 01:19 ULV_Orange   P
+17oct26 01:19 UlV_ewowko_b 2482: ULV_NG_Atmosphere
+                           075E: ULV_NG_ewowko
+17oct26 03:03 Dr.Elusive ☺ Ping
+17oct26 03:03 ☺InfoBot     Hey, Dr.Elusive 🛡!
+                           Pong with 4 hops: SMR_Rossiyskaya, SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+17oct26 03:03 METAR Bot    Понг @[Dr.Elusive 🛡] | 2da5(SMR_Rossiysk),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 1.0 дБ | RSSI: -104 дБм | 7.2s
+17oct26 07:33 ULV_Orange   Ping
+17oct26 07:33 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),d128(ULV_NG_Spark),1717(ULV_VT_PURPL),cb38(TLT R8) (4 хопа) | SNR: -1.25 дБ | RSSI: -105 дБм | 4
+17oct26 07:33 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 4 hops: ULV_NG_Atmosphere, ULV_NG_Sparks_ewowko, ULV_VT_PURPLE, TLT R6a
+17oct26 07:39 SMR_DTR      Ping
+17oct26 07:39 ☺InfoBot     Hey, SMR_DTR!
+                           Pong with 3 hops: SMR_DBR1, SMR_868S, TLT RPT Dim 1
+17oct26 07:39 METAR Bot    Понг @[SMR_DTR] | ad47(SMR_DBR1),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 12.0 дБ | RSSI: -95 дБм | 4.1s
+17oct26 08:43 DA T096      Ping
+17oct26 08:43 METAR Bot    Понг @[DA T096] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 12.0 дБ | RSSI: -95 дБм | 3.1s
+17oct26 08:43 UlV_ewowko_b Pong!
+17oct26 08:43 Dr.Elusive ☺ Ping
+17oct26 08:43 METAR Bot    Понг @[Dr.Elusive 🛡] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 1.75 дБ | RSSI: -103 дБм | 4.0s
+17oct26 08:46 Sanchez☺     Ping
+17oct26 08:46 ☺InfoBot     Hey, Sanchez😎!
+                           Pong with 4 hops: Repeater Domashka, SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+17oct26 08:47 METAR Bot    Понг @[Sanchez😎] | a047(Repeater Dom),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 2.25 дБ | RSSI: -102 дБм | 23.6s
+17oct26 09:02 GC4567       Ping
+17oct26 09:03 ☺InfoBot     Hey, GC4567!
+                           Pong with 3 hops: SMR_Solar_Power ☀️, SMR_868S, TLT RPT Dim 1
+17oct26 09:03 METAR Bot    Понг @[GC4567] | 77e7(SMR_Solar_Po),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.5 дБ | RSSI: -95 дБм | 5.0s
+17oct26 09:03 ULV-alx32-bo Pong!
+17oct26 09:15 DA T096      Ping
+17oct26 09:15 METAR Bot    Понг @[DA T096] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 0.25 дБ | RSSI: -104 дБм | 4.1s
+17oct26 09:15 ☺InfoBot     Hey, DA T096!
+                           Pong with 3 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1
+17oct26 09:16 ULV_Orange   Ping
+17oct26 09:16 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 3 hops: ULV_NG_TULENEVA28, TLT R16_2, TLT R6a
+17oct26 09:16 METAR Bot    Понг @[ULV_Orange] | d74b(ULV_NG_TULEN),feda(TLT R16_2) (2 хопа) | SNR: 8.25 дБ | RSSI: -104 дБм | 2.1s
+17oct26 09:47 tltOG☺       Ping
+17oct26 09:47 ☺InfoBot     Hey, tltOG📻!
+                           Pong with 1 hop: TLTProMicro OG
+17oct26 09:47 ULV-alx32-bo Pong!
+17oct26 09:47 METAR Bot    Понг @[tltOG📻] | 58b2(TLTProMicro) (1 хоп) | SNR: -6.0 дБ | RSSI: -110 дБм | 2.0s
+17oct26 10:25 Volga        Ping
+17oct26 10:25 ☺InfoBot     Hey, Volga!
+                           Pong with 5 hops: SMR_GC3812, HomeNode, SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1
+17oct26 10:25 ULV-alx32-bo Pong!
+17oct26 10:25 METAR Bot    Понг @[Volga] | 1d38(SMR_GC3812),53f8(HomeNode),d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (5 хопов) | SNR: 11.5 дБ | RSSI: -
+17oct26 16:06 Pumba        Ping
+17oct26 16:06 ☺InfoBot     Hey, Pumba!
+                           Pong with 4 hops: Ermakovo, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+17oct26 16:06 ULV-alx32-bo Pong!
+17oct26 16:06 METAR Bot    Понг @[Pumba] | 2a53(Ermakovo),474d(SMR_ФpунзeM.),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 0.25 дБ | RSSI: -105 дБм | 4.0s
+17oct26 16:18 Fox☺         123
+17oct26 19:52 ULV_NT_Skif_ P
+17oct26 19:53 ULV-alx32-bo ACE1: ULV_VT_Olimp
+                           075E: ULV_NG_ewowko
+                           2017: ULV_DZ_alx32_pyMC_Repeater
+17oct26 20:01 Pumba        Path
+17oct26 20:01 METAR Bot    2A53: Ermakovo
+                           0425: SMR_Волгарь
+                           ACCA: SMR_868S
+                           2B63: TLT RPT Dim 1
+17oct26 20:01 ULV-alx32-bo 2A53: Ermakovo
+                           0425: SMR_Волгарь 🎯
+                           ACCA: SMR_868S
+                           2B63: Unknown
+                           1717: ULV_VT_PURPLE
+                           3537: ULV_KND_Earendel
+                           2DE8: ULV-alx32-ft-rep
+17oct26 20:34 RW63         ping
+17oct26 20:34 ☺InfoBot     Hey, RW63!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R6a
+17oct26 20:34 METAR Bot    Понг @[RW63] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 1.5 дБ | RSSI: -104 дБм | 3.2s
+17oct26 21:17 RST          Ping
+17oct26 21:17 ☺InfoBot     Hey, RST!
+                           Pong with 2 hops: TLT RPT Dim 1, TLT RM62 Test
+17oct26 21:18 METAR Bot    Понг @[RST] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 11.0 дБ | RSSI: -96 дБм | 44.0s
+17oct26 21:54 ULV_Orange   Ping
+17oct26 21:55 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 4 hops: ULV_NG_Atmosphere, ULV_NG_ewowko_promzona, ULV_VT_PURPLE, TLT R6a
+17oct26 21:55 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),d488(ULV_NG_ewowk),1717(ULV_VT_PURPL),feda(TLT R16_2) (4 хопа) | SNR: -10.0 дБ | RSSI: -115 дБм
+17oct26 21:57 ULV_Orange   Path
+17oct26 21:57 METAR Bot    2482: ULV_NG_Atmosphere
+                           075E: ULV_NG_ewowko
+                           1717: ULV_VT_PURPLE
+                           A6B4: TLT R6a
+17oct26 22:27 SMR_DTR      Ping
+17oct26 22:27 ☺InfoBot     Hey, SMR_DTR!
+                           Pong with 4 hops: SMR_Дыбeнкo П.E., SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+17oct26 22:27 METAR Bot    Понг @[SMR_DTR] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.0 дБ | RSSI: -96 дБм | 4.7s
+17oct26 22:37 ULV_Orange   Ping
+17oct26 22:37 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 4 hops: ULV_NG_Atmosphere, ULV_NG_ewowko_promzona, ULV_VT_PURPLE, TLT RM62 Test
+17oct26 22:37 ULV-alx32-bo Pong!
+17oct26 22:37 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),d488(ULV_NG_ewowk),1717(ULV_VT_PURPL),2b63(TLT RPT Dim) (4 хопа) | SNR: 1.0 дБ | RSSI: -104 дБм
+17oct26 22:53 ULV_Orange   Help
+17oct26 22:53 ULV-alx32-bo Bot Help: ping, path, test, wx, advert, airplanes, alert, announcements, aqi, aurora, catfact, channelpause, channels | More: 'help <command>'
+17oct26 22:53 ULV_Orange   Wx
+17oct26 22:54 ULV-alx32-bo Error fetching weather data from Open-Meteo
+17oct26 22:54 ULV_Orange   Help wx

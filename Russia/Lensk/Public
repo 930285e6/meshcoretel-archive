@@ -1,0 +1,833 @@
+﻿10oct26 15:37 amm.ave      @[Meshtanyahu] neslysim, nevidim, ale citim te
+10oct26 16:14 atlas        Ahoj, po měsíci a půl jsem to zase zapnul. Co je nového?
+10oct26 16:22 Aida-PRG     Bodré ráno, přátelé!
+10oct26 16:26 Petr-Lie1 ☺  @[atlas] vůbec nic nového. Jen nějaké volby a pak už budou Vánoce.
+10oct26 17:10 Alkel Tr ☺   @[atlas] region cs je nový. Ještě skoro nikde není, ale eventuálně si přes něj budeme moct psát se slovákama
+10oct26 17:11 Aida-PRG     @[Petr-Lie1 📟] i to je dost předvídatelné... Vyhrajou gauneři a Ježíšek děti obdaruje v souladu se socio eko situací rodičů
+10oct26 17:25 011111000101 @[Alkel Tr 🍺] no a nemelo by to byt prace zruseno to cs? Prave s toho duvodu?
+10oct26 17:32 Alkel Tr ☺   @[011111000101] nechápu otázku
+10oct26 17:32 Boky.PV      zdarec ve spolek
+10oct26 17:35 Kryzspin     @[Boky.PV] ahoj!
+10oct26 17:41 berk76       @[011111000101] jako že si se Slovenskem budeme povídat zrušeným regionem?
+10oct26 17:55 CZE_VeX☺     Dobré dopoledne z mlžného severu 👋
+10oct26 17:56 Kankys-PRG13 @[CZE_VeX⚜️] 👋
+10oct26 18:15 CZE_VeX☺     Planuji s kamarádem z polska bridge CZ-EU scope #eu, lze v DM nastavit scope, nebo se musí nastavit celé rádio výchozí #eu?
+10oct26 18:24 011111000101 To byl vtip jakoze si “nechceme” povidat se slovakama 😂
+10oct26 19:21 berk76       @[CZE_VeX⚜️] To by mě taky zajímalo.
+10oct26 19:40 Tady85-srv   Ne, v DM nelze nastavit scope. Scope je jen pro flood
+10oct26 19:41 Alkel Brostl @[Tady85-srv] ale flood traffic se v DM používá docela často - dáválo by smysl nastavit per-contact scope
+10oct26 19:43 Alkel Brostl Ono to teda asi nepůjde snadno přidat, protože on-device kontakt má pevnou délku a musel by se rozšířit pro scope hash
+10oct26 19:45 Alkel Brostl Proto je staticky předkompivoaný max počet kontaktů - každý slot má rezervovanou celou délku bez ohledu na využití
+10oct26 19:46 Alkel Brostl Dovedu si představit, že nějaká alt. implementace, především na PC s KISS fw by to implementovat mohla.
+10oct26 20:02 CZE_VeX☺     Nevadí, vytvoříme si privat ch. s #eu scope, akorát je blbý že člověk nevidí jestli zpráva doputovala do cíle
+10oct26 20:05 Alkel Brostl Myslím, že protlačit eu scope už tu bude politicky obtížnější, bo to má potenciál z nás udělat tranzitní území
+10oct26 20:06 Kankys-PRG13 @[CZE_VeX⚜️] je to jak holub taky nevis jestli po ceste nechcipl
+10oct26 20:07 Alkel Brostl @[CZE_VeX⚜️] Myslím, že byste měli lepší pro tenhle usecase zatím zkusit https://github.com/recrof/meshcore-forwarder
+10oct26 20:08 Alkel Brostl Jestli je teda někde na hranicích místo, kde jde unapájet raspíčko
+10oct26 20:08 CZE_VeX☺     @[Alkel Brostl 🍺] mrknu na to, dik
+10oct26 20:09 Alkel Brostl To fungovalo pro kanál #cs - prostě to forwardne bez ohledu na scope předdefinované kanály
+10oct26 20:10 CZE_VeX☺     I tak počítám že #eu bude nastavené na mých rp a pár PL v příhraničí, žádnej velkej transit
+10oct26 20:22 Tady85-srv   Podle mě scope na DM moc smysl nemá. Protože DM je dělané na komunikaci človek-člověk.
+10oct26 20:23 Tady85-srv   Flood se používá jen na nalezení cesty, dal už to jede dle Path. Pokud by i DM bylo scoped tak hrozí že si nepokecas.
+10oct26 20:24 Alkel Brostl DM dělá potenciálně flood každou chvíli, když nedostaneš ack a tvůj nod se snaží najít novou cestu
+10oct26 20:24 Alkel Brostl A není to jen pro DM - když se chci hrabat v repeaterech po Praze, nemusel bych s hledáním cesty floodovat celou ČR
+10oct26 20:25 Alkel Brostl A pak jsou právě ty superregiony jako cs - když nenastavím forwardovaný region, neprojde to přes hranice
+10oct26 20:27 CZE_VeX☺     Zkoušel jsem nastavit v zařízení def.reg.sco. #EU a pak to DM posílá skrze bridge úplně bez problémů
+10oct26 20:27 Alkel Brostl Pro většinu DMs to smysl nedává, zvlášť ty mobilní, ale mít *možnost* to *pro některé* nastavit by mi smysl dávalo
+10oct26 22:40 ☺ Marcel kie https://meshcore-analyzer.eu/#communities
+10oct26 23:04 pavel        tak pozdravuju s novym firmwarem
+10oct26 23:05 Tady85-srv   Tak gratulujeme 😉
+10oct26 23:06 pavel        dekuji. jeste to bude chtit upravy ale hw chodi
+10oct26 23:53 NONAME       testuji novy repeater LIBCICE-slysi mne nekdo?dekuji
+10oct26 23:53 agoranode    funguje ti to, @[NONAME], ale na testovani pouzivame kanal #test 😉
+                           dik✌️
+                           Kreditovy zustatek: 0
+10oct26 23:55 Ondrys Usti  @[NONAME] slysim
+10oct26 23:58 ZYNAPS       dekuji!
+11oct26 00:54 Martin OK4IM @[NONAME] Četl jsem Liblice a chtěl upozornit, že ti ho brzo zbourají...
+11oct26 01:12 CZ1ZXS       Dobre odpoledne, nedoporucil by nekdo nejaky pigtail a antenu pro t-deck dostupne v CR? za dva tydny jasne vidim, jak je to s interni antenou hluche...
+11oct26 01:15 4EE81759     @[CZ1ZXS] mrkni na www.michaluvbrloh.cz nebo eu. Tam nekde najdes, jak to predelat i co tam dat. 😉
+11oct26 01:17 CZ1ZXS       @[4EE81759] dik, kouknu na to.
+11oct26 02:12 CZE_VeX☺     Dnes je tu klídek, tak oprášíme antény, koho jste volili? A ještě moment, jdu pro popkorn. 😄🍿
+11oct26 02:13 Aida-PRG     @[CZE_VeX⚜️] i ty provokatére :-)
+11oct26 02:14 MaHraMeshyBT @[CZE_VeX⚜️] Ty míň špatný, pochopitelně. ✌️😁
+11oct26 02:15 Echo_snp_T-D ale stejne ho asi nekomu nadelim, pul roku mi tu lezel.
+11oct26 02:16 Tomshon pwrb Já nikoho, mám to k urne daleko a jsem raněný
+11oct26 02:16 CZE_VeX☺     @[MaHraMeshyBT] Tak přesně mluvila moje babča a hodila to SPD 😃
+11oct26 02:17 Bufu.3.☺     @[CZE_VeX⚜️]  hele u nás jsme volili sportovce ale to je jsou jen lokální volby 😎
+11oct26 02:18 Tomshon pwrb @[Echo_snp_T-Deck] asi nám chybí první zpráva, nevíme, co někomu dáš
+11oct26 02:19 Aida-PRG     @[Bufu.3.👀] nejsou volby, co jsou ti nejblíže ty nejdůležitější? Já třeba řešil naší "obec" a už třeba i magoš šel mimo
+11oct26 02:19 MaHraMeshyBT @[CZE_VeX⚜️] Jestli volila v německu, tak jakž takž cajk 😀
+11oct26 02:20 Bufu.3.☺     @[Aida-PRG] něco na tom bude 👍
+11oct26 02:22 CZE_VeX☺     A na Jablonecku ať to hodíš komu chceš, kartel jede dál.
+11oct26 02:23 Echo_snp_MC_ @[Tomshon pwrbank Brno] Volil jsem Wadamesh na T-deck a přál jsem se s nastavením klávesnice.
+11oct26 02:35 Echo_snp_T-D @[CZE_VeX⚜️] nedorazilo ani na jeden companion.  Mám to tu u Karlova mostu trochu hluchý. Přečteno na analizéru.
+11oct26 02:42 CZE_VeX☺     @[Echo_snp_T-Deck] Máš aspoň motivaci posílit pokrytí ve své domovině :) Něco na střechu?
+11oct26 02:45 Echo_snp_L1  @[CZE_VeX⚜️] jeden je těsně pod střechou a pak jsou tu Terasy.
+11oct26 02:50 Dejv Bobry m Dobrý večer všem:) Nachystal jsem si hrozno na večerní kino:)
+11oct26 02:52 CZE_VeX☺     @[Echo_snp_L1] To čumím že se blbě chystáš s takovým hnizdem rptr v tvém okolí
+11oct26 02:52 Alkel Brostl Cože? Říkáte, budou volby nového presetu?
+11oct26 02:53 CZE_VeX☺     @[Alkel Brostl 🍺] 😂 a to je nápad
+11oct26 02:54 MaHraMeshyBT Už je pátek? Ale preset se má losovat, ať je to spravedlivé.
+11oct26 03:18 Aida-PRG     Jde koupit nějaké hotové nebo skoro hotové řešení na solární repeater?
+11oct26 03:19 Aida-PRG     Ideálně za méně než 10k
+11oct26 03:19 HNGZ-tmp     @[Aida-PRG]
+                           sensecap solar node p1-pro
+11oct26 03:20 Echo_snp_L1  Prostě P-1
+11oct26 03:20 ☺ LVA-Wio    @[Aida-PRG] Sensecap 👌 ~2500 all in
+11oct26 03:22 Echo_snp_L1  https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshcore-p-6741.html?warehouse_id=11
+11oct26 03:22 Aida-PRG     @[HNGZ-tmp], @[Echo_snp_L1] & @[🇧🇪 LVA-Wio] skvělé a koukám, že je to i skladem. Skvělé! Díky!
+11oct26 03:23 Kankys-PRG13 @[Aida-PRG] ve skupine na FB je klucina co stavy super bednym. ja mam teda v planu stavet , ale sam od nuly si
+11oct26 03:27 ☺ LVA-Wio    @[Aida-PRG] jestli to chceš na rptr s větším range můžeš přidat anténu Mikrotik, plus nějaké kabely a vulkanizaci
+11oct26 03:31 Aida-PRG     Vulkanizaci? Nějaké pogumování? Kabely? Anténa, co jsem našel, je součástí.
+11oct26 03:32 Aida-PRG     @[🇧🇪 LVA-Wio] ^^^
+11oct26 03:39 ☺ LVA-Wio    @[Aida-PRG] ta přiložená anténa je v pohodě ale Mikrotik je lepší. Abys ji mohl použít = nový pigtail a SMA kabel
+11oct26 03:39 ☺ LVA-Wio    @[Aida-PRG] nejsou vodotěsné, takže budeš potřebovat samovulkanizační pásku
+11oct26 03:50 HNGZ-tmp     @[🇧🇪 LVA-Wio] chybí mi možná nějaké zprávy. Ale pls co není vodotěsné? Ty mikrotik antény?
+11oct26 03:59 Tomaio_PRG1  Ahoj. Kdo máte výhled na sever, tak sledujte, je vidět polární záře 😉
+11oct26 04:15 Peva         @[Aida-PRG] doporučil bych koupit na rpishop nebo jinde v cz, řešil jsem se seed záruku, byli super, ale z Číny šla náhrada 6 týdnů.
+11oct26 04:22 Kankys-PRG13 @[Tomaio_PRG1] 😱
+11oct26 04:23 Alkel Brostl Jj, dokonce to maj na RPishopu levnějc (to od Seeed je bez DPH a dopravu maj taky mastnější)
+11oct26 04:24 Alkel Brostl @[🇧🇪 LVA-Wio] Metrový RG58 SMA-SMA kabel dostaneš s Mikrotikem, není potřeba shánět extra.
+11oct26 04:36 4EE81759     @[Alkel Brostl 🍺] RG58 bych asi nebral, kolem gigaherzu ma utlum jako prase.
+11oct26 04:42 ☺ GhostNode- Nemá někdo tip na dobrej hardware pro standalone companion?
+11oct26 04:48 4EE81759     @[👻 GhostNode-01] S tím nemam zkušenost. Mam homemade seed nRF + stabilizator a na 4 tuzkovky to běhá tejden. 😉
+11oct26 04:59 Petr-Lie1 ☺  @[👻 GhostNode-01] klasika je Wio L1 pro tracker od seeedstudio. Nabiješ a jede to týden. Neřeší se nabíjení každý den.
+11oct26 05:24 ☺ LVA-T114   @[👻 GhostNode-01] proboha živého, nikdy si nekupuj Heltec v4 s dotykovým displejem
+11oct26 05:24 Alkel Brostl @[4EE81759] Mikrotik ho specificky dává k té anténě, co se bere jako etalon a nevím, že by někdo měl problém
+11oct26 05:26 Alkel Brostl L1 Pro je super, jde to používat i semi-standalone, akorát bych asi doporučil nějakou tu 3rd-party verzi s 3Ah baterkou
+11oct26 05:26 Alkel Brostl 2Ah je docela v pohodě, ale jen s vyplou GPS
+11oct26 05:28 Alkel Brostl Ale samozřejmě se dá koupit jen board s displejem a postavit si to kolem vlastní
+11oct26 05:29 Alkel Brostl Ale T9 klávesnice by mi dávala největší smysl https://lilygo.cc/en-us/products/t-echo-lite-kit?variant=52698727022773
+11oct26 05:48 4EE81759     @[Alkel Brostl 🍺] zvláštní, s ADS-B prijimacem jsem mel problem, nechtěl přijimat. Až jsem si přečetl technicky list od RG58
+11oct26 05:49 4EE81759     @[Alkel Brostl 🍺] a pak mi to bylo jasný, RG58 letěla do kopřiv a z 3 letadel bylo 30. 😉
+11oct26 05:54 Dejv Bobry m @[Alkel Brostl 🍺] mam ho a uplne v pohodě s tím Mikrotikem, útlum asi nějaký bude ale né nějak dramatický
+11oct26 05:55 OK2IPW       no,vlastne horsi coax neni.
+11oct26 05:55 4EE81759     @[Dejv Bobry mobile] no co si tak matně pamatuju tak nejakech 70 dB při 1000 MHz
+11oct26 05:56 Dejv Bobry m je to trochu paradox jak na bezdrátu záleží na drátu
+11oct26 05:57 Dejv Bobry m ale samosebou nemám s čím porovnat, lepší jsem nekupoval a teď na střechu znovu nepolezu a nechcu:D
+11oct26 05:58 4EE81759     @[Dejv Bobry mobile] tak někde se šetřit musí. 😉
+11oct26 05:59 4EE81759     Jen tak pro porovnání je dobrý se občas do technickýho listu podívat. 😎
+11oct26 06:02 Dejv Bobry m jnj ale víc útlum bude asi ten konektor navíc na pigtail, chtělo by to na t114 navařit přímo SMA:D
+11oct26 06:05 4EE81759     No to já jen tak na okraj, že jste zminil Microtik a RG58..... tak me to prekvapilo.... Takovej šílenej kabel.
+11oct26 07:01 PatE3_☺ HV4  RG58? To je takovej trochu hromosvod pro ty ruzny ESP apod, teda jestli tech rg58 neni uz nejak vic nez co si pamatuju z doby pred 30
+11oct26 07:07 CZE_VeX☺     K mikrotiku jsem dával 1m LMR400, na rovné trasy ok, na ohyb strašný, celkově parádní.
+11oct26 07:13 Alkel Brostl Co tam teda má člověk dát, co normálně sežene? Neměl by přijít LMR200 jako IPEX-SMA pigtail na modul místo RG178? :-)
+11oct26 07:14 Alkel Brostl Zkusil jsem ten metrovej RG58/U na VNA a mám kolem 868 500mDb drop včetně SMA male-male redukce. Not great, not terrible.
+11oct26 07:23 Alkel Brostl Ne že bych se bránil lepším kabelům, jen poprvé slyším, že RG58 špatný a nevím, kde koupit něco lepšího
+11oct26 07:24 CZE_VeX☺     Měnil jsem ho ze zoufalství v rámci oprav, neustálé mi hořely filtry, nakonec pomohla bleskojistka a zeměmí
+11oct26 07:24 Alkel Brostl Metrovej LMR400 se SMA, to bude asi samovýroba, ne?
+11oct26 07:28 CZE_VeX☺     Bral jsem u čonga, překvapivě dobře udělané, ještě jich pár mám https://ctrlv.cz/2c0Q
+11oct26 07:29 ☺ GhostNode- Rpt baterka už jen na 70% asi bych měl přidat mppt k soláru
+11oct26 07:29 ☺ GhostNode- Nějaký tipy?
+11oct26 07:30 ☺ GhostNode- Panel je na 5V
+11oct26 07:30 Alkel Brostl @[CZE_VeX⚜️] Nojo, to mě nenapadlo, jak už kvůli těm 3€ tolik na Ali nekoukám :D
+11oct26 07:32 CZE_VeX☺     @[Alkel Brostl 🍺] Právě, teď už ten kabel bude za dvakrát tolik 😅
+11oct26 07:32 Alkel Brostl Zrovna když se vezme pár těchhle, tak se ty 3€ celkem rozpustí - koukám, tak od 400 CZK za kus
+11oct26 07:32 CZE_VeX☺     Ale třeba něco přitáhli do EU skladů, mrknu se
+11oct26 07:34 Martin OK4IM Nejlepší kabel je co nejkratší kabel, vždyť ten hw může být hned u anteny
+11oct26 07:36 CZE_VeX☺     @[Martin OK4IMK] souhlas, ale někdy to taky úplně nejde
+11oct26 07:41 Alkel Brostl To jo, pár 30-50cm RG316,RG58 a RG142 jsem se do zásoby vybavil
+11oct26 07:42 CZE_VeX☺     @[👻 GhostNode-01] máš solár rovnou do zařízení bez mppt?
+11oct26 07:42 Alkel Brostl Zase když je krátkej loop kabelu zespoda krabice, líp se řeší hydroizolace
+11oct26 07:46 CZE_VeX☺     10m lmr400 má o chlup větší útlum než 1m rg58. To je stejně mazec 😃
+11oct26 07:52 Honzaaa      Ahojte, jaká vzdálenost od BTSek je na případný reapeter v pohodě a nedělá paseku? Jsem v oblasti, kde skoro nic nechytám
+11oct26 07:53 Tady85-WDM   napriklad me dela probem 100 m i s panelakem
+11oct26 07:53 ☺ GhostNode- @[CZE_VeX⚜️] Ano, má totiž USB-C výstup a funguje je to připojením do heltec WSL3.1 a ten má interní BMS
+11oct26 07:53 Honzaaa      Takže bych tu rád něco postavil, nemusí to být nutně na soláru, jelikož možnost elektřiny zde je.
+11oct26 07:54 Tady85-WDM   doporucuju koupit filtr a zkusit
+11oct26 07:55 ☺ GhostNode- Zkoušej spojení s companionem a až najdeš spolehlivé spojení k něčemu tak tam dej rpt
+11oct26 07:57 CZE_VeX☺     @[👻 GhostNode-01] určitě na bat. vlastní bms, mppt a solár, samo zařízení neumí využít maximum z panelu
+11oct26 08:00 Alkel Brostl Hlavně bůh ví jaký to má napětí naprázdno, to USB taky nemusí být moc šťastný, když mu tam přileze 7 V :-)
+11oct26 08:02 Alkel Brostl BMS to WSL nemá určitě, jen interface na napájení z baterky a její dobíjení z USB.
+11oct26 08:06 CZE_VeX☺     @[Honzaaa] mám v okruhu 300-400m BTSky a úplně v cajku, ideálně vyzkoušet na daném místě
+11oct26 08:08 ☺ GhostNode- A máte někdo doporučení pro MPPT modul?
+11oct26 08:11 Alkel Brostl Tohle je nejčastější pro li-ion/pol https://www.laskakit.cz/en/solarni-nabijecka-li-ion-baterie-cn3791-1s--6v-panel/
+11oct26 08:11 Alkel Brostl Na 5V panel nevím
+11oct26 08:12 Alkel Brostl Možná ten panel ještě na 6 V bude použitelnej.
+11oct26 08:14 CZE_VeX☺     Některé ty usb-c panely dávají 6V, změřit na sluníčku Voc
+11oct26 08:54 ☺ GhostNode- @[Alkel Brostl 🍺]  a co tenhle https://www.laskakit.cz/en/solarni-nabijecka-li-ion-baterie-cn3065-1s--4-4-6v-panel--usb/
+11oct26 08:56 ☺ GhostNode- @[Alkel Brostl 🍺]  a co tenhle https://www.laskakit.cz/en/solarni-nabijecka-li-ion-baterie-cn3065-1s--4-4-6v-panel--usb/
+11oct26 08:58 ☺ GhostNode- Srry že se to poslalo tak 5x, jsem si všiml až na analyzeru, nepsalo mi to rpt v apce
+11oct26 09:12 ☺ Marcel kie new https://kiekr.app version is out for ios & android
+11oct26 10:10 Peva         @[🪂 Marcel kiekr.app X1] I have flagged the app in the store. Stop spamming here.
+11oct26 14:39 OK4SU        Za oknem větve tiše šeptají,
+                           první ptáci píseň skládají.
+                           A slunce zlatým prstem hladí
+                           střechy, co v ranním světle spí.
+11oct26 14:39 OK4SU        V šálku čaj a v srdci klid,
+                           nic nemusím, jen chvíli být.
+                           Čas zpomalil svůj věčný běh,
+                           na duši usedl tichý sníh.
+11oct26 14:39 OK4SU        A než se svět zas rozběhne,
+                           než hluk nám myšlenky zažene,
+                           chci v tomhle ránu chvíli stát
+                           a za ten tichý zázrak děkovat.
+11oct26 14:43 prl ☺        Přijely k nám z dálky
+                           intelektuálky.
+                           Já měl dvě a Pepa tři,
+                           ale to sem nepatří...
+11oct26 14:44 Tady85-WDM   😁 intelektuálky znám dlouho 😁
+11oct26 14:44 Tady85-WDM   @[OK4SU] básnické střevo po ráno. Děkuji
+11oct26 14:45 prl ☺        @[Tady85-WDM] to je od Plíhala
+11oct26 14:46 Tady85-WDM   Vím vím, mám ho rád
+11oct26 14:59 Tady85-WDM   Dotaz do sítě. Jak je pokryta Stará Boleslav?
+11oct26 16:13 berk76       @[Honzaaa] Jakou tam máš úroveň šumu? V appce menu tools/noise floor. Ideální je tak -110 a níže.
+11oct26 16:51 Alkel Tr ☺   @[👻 GhostNode-01] CN3065 je lineární regulátor, všechno nad nabíjecím napětí propálí na teplo.
+11oct26 16:53 CZE_VeX☺     Asi v OBI nekoupím waterproof sma/ipex co? 😏
+11oct26 16:54 CZE_VeX☺     https://a.aliexpress.com/_EGZXgqw
+11oct26 17:27 Honzaaa      @[berk76] Mezi -112 až -118
+11oct26 17:29 Honzaaa      Teď už je to odesílaní zase slabší než v noci, myslím, že spoléhám jen na SOBESLAV.SOLAR - A00E
+11oct26 17:29 Accent_MG    Ahoj, řešíte nějak ochranu nabijení baterii v mrazech? Nebo to nemá smysl?
+11oct26 17:33 berk76       @[Honzaaa] tak to je úplně v pohodě. Řekl bych že tvůj problém je spíš šatné poktytí.
+11oct26 17:34 Martin OK4IM @[Accent_MG] Nabíjí se tak nízkým proudem, že to baterkám prý neškodí, testovali to v
+                           Kanadě
+11oct26 17:34 QtW☺         @[Accent_MG] LTO baterkama
+11oct26 17:46 lukaskicz    @[Martin OK4IMK] ani klasickým li-ionkám?
+11oct26 17:54 Martin OK4IM https://yycmesh.com/blog/cold-weather-charging
+11oct26 18:03 Alkel Brostl Případně je taková pěkná 46Ah LiFePo plechovka s explicitně povoleným nabíjením do -20
+11oct26 18:04 Alkel Brostl Pokud by někdo chtěl střední cestu mezi "stejně to chci řešit, ale ještě úplně ne LTO" :-)
+11oct26 18:05 Alkel Brostl Ale vzhledem k tomu, že to na jedno nabití vydrží tak 4-5 měsíců, ani to nebude moc potřeba :D
+11oct26 18:08 lukaskicz    Ale ta cena je pak s těmito baterkami úplně jiná, a hlavně to pak správně neukazuje napětí, ne?
+11oct26 18:09 lukaskicz    Respektive stav baterie
+11oct26 18:10 Alkel Brostl ~480 Kč za to 46Ah monstrum a LiFePo můžeš připojit přímo místo li-ion, když to nebudeš nabíjet z té desky
+11oct26 18:11 Alkel Brostl Aplikace ti správně neukáže procenta, ale na to to nejezdí
+11oct26 18:12 Alkel Brostl Dokonce je to efektivnější s lifepo než s lionkama, protože nad 3,3 V se to stejně pálí v LDO :-)
+11oct26 18:14 Accent_MG    No koukám na ten článek a vzhledem k tomu, že sám už asi 5 let používám wifi desky mini meteo od laskakit a  a fungujou..
+11oct26 18:15 Alkel Brostl Co jsem včera měřil, velký rozdíl to už nedělá - ale ten limit je stejně rozumné maximum na léto.
+11oct26 18:15 Alkel Brostl Úplně nejefektivnější je dát LiFePO na 3V3 rail přímo (a měřit INA219) a omezit nabíjení na 3,55 V
+11oct26 18:32 CZE_VeX☺     Jak řešíte LTOčka, zapojení 2S s balancováním?
+11oct26 18:35 CZE_VeX☺     Nebo 1S a buck?
+11oct26 18:40 Alkel Brostl 2S LTO BMS prakticky neexistuje - myslím, že všichni používají Vlastíkovo multi-chem 1S BMS s integrovaným boostem
+11oct26 18:42 Alkel Brostl ... nebo jsem aspoň měl za to, že to má rovnou 3.3V výstup, ale už si nejsem tak jistý.
+11oct26 18:47 CZE_VeX☺     Mám myšlenku s 1S a booster + bokem z bat. vyvést odbočku na GPIO pin na měření bat.
+11oct26 18:47 Aida-PRG     Ahoj, jak funguje hierarchie regionů?
+11oct26 18:47 Aida-PRG     Jde mi o nastavení. Je to cz (parent) cz-pha (child) což mi přijde logické. Nebo je to * -> cz-pha, což jde taky nastavit.
+11oct26 18:48 Alkel Brostl @[Aida-PRG] všechny cz regiony pod cz, viz https://meshcore.cz/regiony
+11oct26 18:50 Alkel Brostl @[CZE_VeX⚜️] Já bych dal na baterku prostě INA219, pak máš i informaci o okamžitém proudu
+11oct26 18:50 Alkel Brostl Takže víš, jakým výkonem to zrovna nabíjí
+11oct26 18:51 Alkel Brostl Blbý je jen že to je v telemetry channel 2 a to není guest-accessible
+11oct26 18:53 CZE_VeX☺     @[Alkel Brostl 🍺] Právě..
+11oct26 18:54 Alkel Brostl Ale zase co je komu po tom, jak máš nabitej repeater :-)
+11oct26 18:58 CZE_VeX☺     Zkusím upravit FW tak aby vyčítal info o bat. na GPIO, to nebude problém, horší je že na Xiao není dost volných pinů 😅
+11oct26 18:58 CZE_VeX☺     Zkusím neodsmahnout T114ku 😁
+11oct26 19:19 ☺ Marcel kie https://meshcore-analyzer.eu/#regions?region=cz
+11oct26 19:19 amm.ave      @[Aida-PRG] hlavne neplet * (bez regionu) s regionama. * neni zadnej wildcard co nahrazuje regiony
+11oct26 19:47 OK1SLM       Ahoj👋
+11oct26 19:56 CZE_VeX☺     @[OK1SLM] 👋
+11oct26 20:16 prl ☺        Znate nekdo heslo dne?
+11oct26 20:18 Rogan_Zabiny @[prl 📟] ano.
+11oct26 20:21 prl ☺        @[Rogan_Zabiny 🐸] 👍
+11oct26 20:25 Alkel Brostl Znám pouze to o sestupné vertikalitě exkrementu.
+11oct26 20:28 Merik        @[CZE_VeX⚜️] Ahoj, nebo použít techo lite bez disp. https://lilygo.cc/products/t-echo-lite?variant=45331246284981 Ten má víc pinů.
+11oct26 20:31 Merik        Mám na dvou rpt a jednom comp. Používá ještě někdo tento hw?
+11oct26 20:41 CZE_VeX☺     @[Merik] Ještě jsem neměl v ruce, ale proč né, třeba přinese Ježíšek 😄
+11oct26 20:42 Alkel Brostl Zrovna si drátkuju faketec na breadboardu, to má taky pinů tři prdele :-)
+11oct26 20:59 Merik        Podpora v oficiálním fw byla bídná, ale teď už je to lepší.
+12oct26 00:19 Honzaaa      Co myslíte, že přijde v MeshCoru jako další update?
+12oct26 00:30 Alkel Brostl Prémiové kredity Jaromíra Tichého
+12oct26 00:34 sesivany-v4  @[Honzaaa] stačí sledovat nightly, jako další feature přijde companion CLI ;)
+12oct26 00:35 Alkel Brostl Já už ho mám! :D
+12oct26 01:31 Peva         @[prl 📟] telemetrie se opravdu chystá
+12oct26 01:41 Jakub-OVA    Chvíli jsem to tu nečetl a hned se objevil pro mne záhadná postava... Kdo je to pan Tichý?
+12oct26 02:04 Aida-PRG     Já byl dnes na výletě pan Hlučný. Překvapilo mě, že i když je zpráva označená jen jako sent, tak občas dojde.
+12oct26 02:04 Aida-PRG     A taky že rozhled v krajině nic moc neznamená.
+12oct26 02:28 Dejv Bobry m @[Aida-PRG] někdy jsi zarušený a neslyšíš že někdo slyšel
+12oct26 03:29 CZE_VeX☺     Přemýšlím jestli tohle zkusit a narvat tam Brige 2x Xiao https://a.aliexpress.com/_EwBQJYq Za dva dny tady, konečná cena.
+12oct26 03:45 Alkel Brostl @[CZE_VeX⚜️] antény odvedený někam dál od sebe?
+12oct26 03:48 CZE_VeX☺     Právě nevím jak to vymyslet, určitě bude na stromě a tahat extra kabely a antény od sebe úplně nepůjde.
+12oct26 03:54 CZE_VeX☺     Mají nastavený delay 0,5s, tak by se nemuseli potkávat při vysílání v případě že pojede jen určitý scope
+12oct26 03:56 CZE_VeX☺     Chtěl jsme rp na české straně nechat s wildcard, ale nedělalo by to dobrotu
+12oct26 03:59 CZE_VeX☺     Ale na stole vše běží jak má, bez problémů, chce to test v terénu s anténama https://ctrlv.cz/nrw6
+12oct26 04:02 berk76       @[CZE_VeX⚜️] ❤️
+12oct26 04:15 Honzaaa      Druhý den disponování meshcore companionem (doporučeno na linuxech) a zatím jsem překvapen fungováním sítě.
+12oct26 04:16 MARDO_JBC    @[Honzaaa] jsem na tom podobně, akorát od čtvrtka a taky jsem na to narazil na linuxdays, zajímavá technologie
+12oct26 04:16 Honzaaa      Jen mě čeká asi stavba reapeteru. Ale jak moc chytáte signál v Praze? Všude venku?
+12oct26 04:22 4EE81759     @[Jakub-OVA] Podivejte se na internet a hledejte Sitbezsite.cz a pak pochopite.
+12oct26 04:25 Honzaaa      @sesivany-v4 tvou zprávu jsem ale bohužel nechytil. Lepší příjem bude přesunem z jihu Čech do Prahy
+12oct26 04:27 sesivany-v4  @[Honzaaa] jo, dival jsem se, ze zasekla, asi kolize hned na prvnim rpteru.
+12oct26 05:08 slunicko☺    @[MARDO_JBC] Taky jsem sem přišel díky LinuxDays. 😅
+12oct26 05:11 slunicko☺    @[Honzaaa] Mě asi taky. V Jeseníkách moc repeaterů není a celé Jesenicko je tak trochu odstřihnuté.
+12oct26 05:11 4EE81759     @[slunicko🦔] Vitej v Meshcoru 😉
+12oct26 05:12 Kankys-PRG13 @[MARDO_JBC]  a ja myslel ze kvuli me 😂
+12oct26 05:15 Alkel Brostl @[CZE_VeX⚜️] no nebo aspoň dva dipóly vedle sebe a hezky paralelně, jakbudou na místě.
+12oct26 05:16 z/se         globální shortage Wio L1 Pro kvůli linuxdays
+12oct26 05:16 Alkel Brostl Takhle jak jsou na té fotce "prdelema xobě" si zase tolik vadit nebudou, hádám :-)
+12oct26 05:27 Unreal       @[Honzaaa] Jan B?
+12oct26 05:28 Honzaaa      @[Unreal] nejsem Jan B
+12oct26 05:28 Figma        real JB
+12oct26 05:28 slunicko☺    @[z/se] 😂 Jako jo no. Musel jsem koupit Heltec T114, baterku, anténu a krabičku vytisknout.
+12oct26 05:28 Honzaaa      kdo je Jan B? 🤨
+12oct26 05:30 Unreal       @[Honzaaa] ale.. jen ze ma problem s komunikaci v poradne na telegramu, tak to zkousim.
+12oct26 05:31 Figma        g:Ae3QcNHBImCWRCZnY4
+12oct26 05:32 Alkel Brostl @[Figma] prosím, nepoužívej ve veřejných kanálech gify, reakce apod - většina lidí vidí jen nějaký random string
+12oct26 05:32 PetrVelka    @[slunicko🦔] nějaké moduly pro komunikaci mám, já pro změnu po letech rozcházím zase domácí 3D tisk…
+12oct26 05:34 Alkel Brostl Devům Meshcore-Open to přišlo jako fajn nápad, ale efektivně si postavili nad MeshCorem nekompatibilní protocol extension
+12oct26 05:35 CZE_VeX☺     @[Alkel Brostl 🍺] přesně tak, blíže k sobě zabírají stejně místa jako běžný "dospělý" modul, akorát vyšší
+12oct26 05:35 Alkel Brostl @[CZE_VeX⚜️] já myslel ty anténky
+12oct26 05:35 CZE_VeX☺     Jo taak, jasný
+12oct26 05:37 Aida-PRG     Už jsem byl nalomený dlouho, ale všechny ty řeči byly abstraktní, až na Dark Prague mi někdo řek:, kup si Heltec v4 a zkus to."
+12oct26 06:01 CZE_VeX☺     Koukám kolik tu je nových tváří, což je fajn. Že by nakonec bylo více uživatelů nežli opakovačů. Doufejme 🫶
+12oct26 06:03 Alkel Brostl To záleží, jaké procento nových mešníků už nepotřebuje dokrývat :-)
+12oct26 06:07 Honzaaa      @[Unreal] Tak to nejsem já, byť taky bojuji
+12oct26 06:08 Honzaaa      Otázka do pléna, když nevidím žádný repeat symbol u zprávy, má smysl klikat send again / jak moc to ruší síť?
+12oct26 06:08 Honzaaa      U některých zpráv jsem předtím musel třeba až 6. pokus, aby tam nějaké číslo bylo
+12oct26 06:09 PetrVelka    @[Honzaaa] jsem to vždycky kontroloval na analyzeru
+12oct26 06:10 Alkel Brostl @[Honzaaa] Jestli máš hodně nespolehlivý odesílání, můžeš trochu cheatovat: https://analyzer.meshcore.cz/#/channels/
+12oct26 06:10 CZE_VeX☺     Jinak zajímavý bug na L1, po několika změnách presetu z CZ na EU a zpět se kousne při restartu a pomůže jen reflash
+12oct26 06:11 Aida-PRG     Asi je dobře se podívat na nějaký logger a zjistit, jestli se to tam dostalo. https://analyzer.meshcore.cz/#/channels/%23test
+12oct26 06:11 PetrVelka    @[Alkel Brostl 🍺] 👍
+12oct26 06:12 Honzaaa      @[PetrVelka] to jasný, ale to beru jako takový cheat :D Ale díky. Na loggeru to checkuji
+12oct26 06:14 Alkel Brostl Minimálně je to legitimní nástroj jak diagnostikovat "moje pokrytí stojí skutečně za prd, potřebuju přidat repeater"
+12oct26 06:15 PetrVelka    @[Honzaaa] taky jsem hledal,
+                           Zjistil, že to není ono a dal na střechu repeater… nejbližší body jsou cca 20 a 43km daleko
+12oct26 06:15 OK3MC - Mobi Test
+12oct26 06:15 agoranode    funguje ti to, @[OK3MC - Mobile], ale na testovani pouzivame kanal #test 😉
+                           dik✌️
+                           Kreditovy zustatek: 1
+12oct26 06:15 Honzaaa      To už jsem usoudil taky, nejbližší mám asi 1.5 km vzdušně ale za boha ho nejsem schopen chytit, tak beru 20-30 km vzdáleno
+12oct26 06:15 Honzaaa      u Soběslav.
+12oct26 06:16 PetrVelka    @[Alkel Brostl 🍺] jj, tak nějak vznikl repeater na střeše doma…
+12oct26 06:16 Honzaaa      Dávali jste si domu solár nebo to máte na síti?
+12oct26 06:18 PetrVelka    @[Honzaaa] jj, taky ten nejbližší není ten, co mě spolehlivě připojí…. Můj nej je 43km daleko
+12oct26 06:19 Honzaaa      @[PetrVelka] tak já u toho nejblížšího nejsem schopen ani zero hop pingu
+12oct26 06:19 PetrVelka    @[Honzaaa] mám solární a teď to vypadá, že na zimu dostane podpůrný kabel….
+12oct26 06:20 Alkel Brostl @[Honzaaa] a vodkama ty píšeš? Všechny zprávy co chytám mi jdou od tebe napřímo právě na tu terasu v Holešovičkách.
+12oct26 06:21 Honzaaa      Teď z Břevnova ale normálně z Třeboně
+12oct26 06:22 Honzaaa      To bych tu takhle nepsal, to bych byl rád, že něco odejde.Občas vidím notifikaci na něco jako Zlín/Bohumín, prostě random
+12oct26 06:22 Alkel Brostl Jasný - takže teď není problém? Jsem si říkal, že na to tě chytá moc nodů najednou, aby to furt nešlo :D
+12oct26 06:23 Honzaaa      @[Alkel Brostl 🍺] Taky koukám, že mám od tebe 0 - Flood
+12oct26 06:24 Honzaaa      @[Alkel Brostl 🍺] Teď je to pohoda, problém zas přijde :D
+12oct26 06:24 PetrVelka    @[Honzaaa] 1Chodi to pěkně na sever Moravy
+12oct26 06:25 berk76       @[Honzaaa] Na Třeboňsku jsem byl v létě a pokrytí bylo dost špatné.
+12oct26 06:25 Alkel Brostl @[Honzaaa] Jo, já mám docela naladěnej J-pole uprostřed místnosti dva metry nad podlahou, slyší i vysílá dobře :-)
+12oct26 06:25 PetrVelka    Teda jednoho mám na 9 hopu a druhého na 17, ale spolehlivě
+12oct26 06:25 Lisak_       @[Honzaaa] ahoj, v který části Třeboně jsi? Kopeček teda nechytàš, jestli to chapu správně?
+12oct26 06:26 Honzaaa      @[Lisak_] Ahoj, u kaprů ale mohu hodit reapeter i do Břilic
+12oct26 06:27 Honzaaa      A ano, Kopeček jsem nechytil nikde od kaprů až k vlakáči/autobusáku a ani u mekáče
+12oct26 06:28 Lisak_       @[Honzaaa] já to mám hozený ve druhym patře, ale je to 180stupnu odstíněny barákem
+12oct26 06:28 Honzaaa      @[Lisak_] A nemáš tam BTSky Vodafonu?
+12oct26 06:29 Lisak_       no bts vodafonu bude asi přesně tvým směrem
+12oct26 06:30 Honzaaa      A náměstí jsi zkoušel? Nebo tam by to chtělo taky zlepšit? Teoreticky bych tam mohl taky něco dát, jen vědět co přesně
+12oct26 06:30 Aida-PRG     BTSky Vodafonu? To kvůli té jejich iot síti?
+12oct26 06:32 Lisak_       @[Honzaaa] náměstí je ok, podařilo se mi odeslat i z Besedy uvnitř, sice jen jednou, ale prošlo to :)
+12oct26 06:33 PetrVelka    U nás teď přibyly BTS na vykrytí dálnice (po 10 letech co je dálnice)
+12oct26 06:34 Honzaaa      @[Aida-PRG] Ano, mají tam GSM a LTEčko, dle gsmwebu. Ale ona Třeboň je docela placka, tam je to bolest s pokrýváním
+12oct26 06:36 Lisak_       @[Honzaaa] možná bys mohl v Brilicich chytat Soběslav solár, já ho tu za výjimečných podmínek chytnu a to jde myslím skrz barák
+12oct26 06:37 z/se         Podolský test skrz tlustou zeď #1
+12oct26 06:37 Honzaaa      @[z/se] přišlo to nakonec :D
+12oct26 06:38 z/se         jo uz jo aha
+12oct26 06:44 Echo_snp_L1  @[z/se] Malá Strana tě bere.
+12oct26 06:55 z/se         @[Echo_snp_L1] paráda, to už nebude odraz od trupu letadla
+12oct26 07:06 Echo_snp_L1  @[z/se] sice si to dá kolečko kolem Prahy, ale projde to.
+12oct26 16:17 szczurkosmic Jak je to skvělé, že víkend skončil. To se musí oslavit!
+12oct26 16:19 Tady85-srv   Oslavuje se ve #freebeer
+12oct26 16:20 szczurkosmic Nn, práce se oslavuje střízlivostí.
+12oct26 16:28 QtW☺         Pracujte s mírou
+12oct26 16:29 Davi_        @[QtW🦊]: s Mírou? tak to plním na 100% 🤣
+12oct26 16:29 szczurkosmic @[QtW🦊] Žádného Míru na vývoji nemáme. :(
+12oct26 16:43 Tady85-srv   Tak vemte metr, napište na něj Míra a je to hotové 😁
+12oct26 16:58 szczurkosmic @[Tady85-srv] Tak jestli má Míra jen metr, tak mám dnes práce nad Míru. To je špatné. :(
+12oct26 16:59 prl☺         to v praci michate vyvojky? To uz jsem dlouho nedelal
+12oct26 17:12 szczurkosmic @[prl⚡️] Já bych mohl, když fotím na analog, ale poslední pokus dobře nedopadl.
+12oct26 18:35 Alkel Brostl @[szczurkosmiczny 🐀] Jak nemáte? A s kym pak při práci chlastáte?
+12oct26 19:31 OK2ZAW/p     Zdravim z Kremesniku, tak uvidime, zda neco prinese :)
+12oct26 19:32 szczurkosmic @[OK2ZAW/p] Na 6 hopů do Blanska. :)
+12oct26 20:03 7ika7        @[OK2ZAW/p] na 3hops Pardubice🐴
+12oct26 20:11 amm.ave      @[OK2ZAW/p] kampa taky slysi
+12oct26 20:13 Jastrobaron  @[OK2ZAW/p] Brno-Kralovo pole 6 hopov
+12oct26 20:49 Tomshon pwrb @[szczurkosmiczny 🐀] co vyvijite? Hledám práci 🙂
+12oct26 20:51 szczurkosmic @[Tomshon pwrbank Brno] Informační systémy pro MHD. Ale na HW ani SW se aktuálně nikdo nehledá.
+12oct26 20:51 Tomshon pwrb Shit. Buse nebo jak to bylo?
+12oct26 20:52 szczurkosmic Přesně to. :D
+12oct26 21:39 OK2ZAW DOMA  supwer, dikyza info. Uvidime, jak dobijeni, neni tam ted moc prostoru, jak jde slunko dolu :(
+12oct26 22:04 mgolem cesto @[szczurkosmiczny 🐀] neboj, oslava očekávání příštího víkendu je už v plném proudu.
+12oct26 22:18 szczurkosmic @[mgolem cestovni] Nene, to je naopak. Už v pátek musíš slavit blížící se pondělí.
+12oct26 22:21 mgolem cesto @[szczurkosmiczny 🐀] ale ty dvě akce se nevylučují, jen ta co probíhá od pondělí je delší mejdlo.
+12oct26 22:24 Bufu.3.☺     ...MakerFaire
+12oct26 22:26 ☺Pete        Kampak si dáváte antény? Docela by mě zajímalo kde je nejlepší poloha v bytu
+12oct26 22:27 Cezar Mesch  Na parapetu na balkonĕ.
+12oct26 22:27 Bufu.3.☺     Za mě ideální klioš na okně se solarkem , aspoň tak to mám já doma. A mobilní sebou 😃
+12oct26 23:12 QtW☺         Podle jistých klasiků začíná pondělí v sobotu
+12oct26 23:28 7ika7        @[Bufu.3.👀] a ten mobilní má Baroch, kapsa, klobouk....?😁
+12oct26 23:37 mgolem cesto @[QtW🦊] nestraš!
+12oct26 23:50 Bufu☺        @[7ika7]  nerozumím ?
+12oct26 23:56 profor       @[QtW🦊] Tyden prece zacina nedeli 🙃
+13oct26 00:02 Tady85-srv   Takže můžete být rádi že máte na začátku a na konci týdne volno 😁
+13oct26 01:21 ☺ GhostNode- Ajo MeshCore tady funguje dobře co? Jak daleko mě máte na příjmu
+13oct26 01:23 Echo_snp_MC_ @[👻 GhostNode-01] Praha Lahovičky, na 15 hopů
+13oct26 01:28 sesivany-v4  @[👻 GhostNode-01] Brno na 6 hopu pres Zlin.
+13oct26 01:42 KudrXiaoS3   @[👻 GhostNode-01] brno 7
+13oct26 01:54 Cable        @[👻 GhostNode-01] Kladno na 13 hopu
+13oct26 02:17 Alkel Brostl @[Bufu.3.👀] No jasně, #chess
+13oct26 02:22 Sgd          @[Bufu.3.👀] #gameover. Ale moc to tam nežije
+13oct26 02:24 Alkel Brostl @[Sgd] no jak by se o tom kdo dozvěděl, není to ani na wiki :-)
+13oct26 02:45 amm.ave      nechodival sem z plzne pinkolin?
+13oct26 03:11 Bufu.3.☺     Zdar
+13oct26 04:26 amm.ave      napadl berusku?
+13oct26 05:19 Zbynek☺      Je tu nějaká ozvěna?
+13oct26 05:27 berk76       Je tu nějaká ozvěna?
+13oct26 05:28 Cezar Mesch  Ozvĕna, ozvĕna, ozvĕna ...
+13oct26 05:31 Zbynek☺      ozvěna je heslo dne
+13oct26 06:03 Fillipsonn   #zdravice Ahoj, zdravím z Hodkovicek.
+13oct26 06:47 E0BBA0D3     On my way
+13oct26 07:57 Echo_snp_L1  @[Fillipsonn] v Hodkovičkách pracuju 😁
+13oct26 12:21 mgolem cesto @[Echo_snp_L1] Copak, všechny jiné způsoby jak přijít k penězům selhaly? Práce je teda zoufalý počin.
+13oct26 14:33 Echo_snp_L1  @[mgolem cestovni] zhruba tak.
+13oct26 14:43 szczurkosmic Já bych všechnu tu práci zakázal.
+13oct26 14:44 berk76       Bez práce nejsou k(d)oláče...
+13oct26 14:47 Alkel Brostl Bez práce nejsou repeatery, když jeden stojí deset tisíc.
+13oct26 14:48 szczurkosmic Čas volit toho, kdo zlevní repeatery.
+13oct26 14:52 prl☺         Cinany
+13oct26 16:19 MM1☺         Zdar, na Čertově hoře v Harrachově je od neděle repeater - Teufelsberg1.
+13oct26 16:36 Cezar Mesch  @[MM1🐻] 👍🏻
+13oct26 16:36 Záhorský koh 👍
+13oct26 16:46 berk76       @[MM1🐻] 👍
+13oct26 18:51 Syslos Hrade @[MM1🐻] 👍👍
+13oct26 18:57 7ika7        @[Záhorský kohout] 5hops🐴
+13oct26 19:01 Sgd          @[MM1🐻] 👏👏👏
+13oct26 19:18 prl☺         Pokud pomelete vsech 8,3 miliard lidi na Zemi, tak pri prumerne hustote cloveka = 985 kg/m³
+13oct26 19:19 szczurkosmic A jaká je výživová hodnota průměrného člověka?
+13oct26 19:20 ☺ LVA-T114   @[prl⚡️] Mmm... masové kuličky. 🤤
+13oct26 19:20 prl☺         cerneho nebo bileho?
+13oct26 19:21 szczurkosmic Zprůměruj to do nějakého odstínu hnědé.
+13oct26 19:21 Enzy-DX      Z toho dělá IKEA ty masové kuličky?
+13oct26 19:21 szczurkosmic IKEA koule jsou nový Soylent Green?
+13oct26 19:23 ☺ LVA-T114   @[Enzy-DX] Chytají a melou lidi kteří v bludišti zabloudili a zůstali tam i v době zavíračky
+13oct26 19:25 Enzy-DX      @[🇧🇪 LVA-T114] 😆  ... ještě přes zimu myslím bude dost mraženého materiálu z ulic, to by také mohli použít.
+13oct26 19:40 Petr-Lie1 ☺  @[🇧🇪 LVA-T114] 😂
+13oct26 19:41 Alkel Brostl @[Enzy-DX] jenže to je maso bez certifikátu původu.
+13oct26 19:42 Petr-Lie1 ☺  @[🇧🇪 LVA-T114] už nebudu nikdy chodit do obchodu před zavíračkou.Už nebudu nikdy chodit do obchodu před zavíračkou.😀
+13oct26 20:09 alikc/p      oioioi
+13oct26 20:09 alikc/p      klkl
+13oct26 20:10 alikc/p      k.mlkmkl
+13oct26 20:10 TheShadowCZE @[alikc/p] ?????
+13oct26 20:11 alikc/p      Uz existuje?
+13oct26 20:11 alikc/p      Chyba kanalu, sorry...
+13oct26 20:20 7ika7        asi už i funguje 🐴
+13oct26 21:07 szczurkosmic Myslím, že dnes čas na opuštění zaměstnání uzrál dříve.
+13oct26 21:07 Tady85-srv   @[szczurkosmiczny 🐀]  tomu se říká provokace.
+13oct26 21:08 szczurkosmic @[Tady85-srv] Neboj, já si tu hodinu a půl budu muset nakonec naddělat.
+13oct26 21:09 szczurkosmic Byť se tu běžně převádí záporné hodiny do dalšího měsíce.
+13oct26 21:10 Tady85-srv   A já myslel, že již máš naděláno.
+13oct26 21:11 szczurkosmic Kéž by. 15 minut. :D
+13oct26 22:09 ☺ Marcel kie hi?
+13oct26 22:09 szczurkosmic @[🪂 Marcel kiekr.app X1] Hello. :)
+13oct26 22:10 ☺ Marcel kie hi?
+13oct26 22:11 ☺ Marcel kie hi from https://maps.app.goo.gl/7wERmSYRG3NB6ATt8?g_st=ic
+13oct26 22:13 HNGZ         @[🪂 Marcel kiekr.app X1] Hi, that's a cool place.
+13oct26 22:14 ☺ Marcel kie hi from https://maps.app.goo.gl/7wERmSYRG3NB6ATt8?g_st=ic
+13oct26 22:45 Petr-Lie1 ☺  @[🪂 Marcel kiekr.app X1] Janov. Tam je moc pěkně. Zdravím zpět.
+13oct26 22:58 Rogan_Zabiny Nikdo! Nikdo přede mnou dnes nevyslovujte slovo Wordpress! 🤬
+13oct26 22:59 Tady85-WDM   Slovní lis? Proč? 😁
+13oct26 23:01 sesivany-v4  @[Rogan_Zabiny 🐸] Někdo ti hacknul to slovo na W? :)
+13oct26 23:21 Rogan_Zabiny @[sesivany-v4] ta ohavnost neměla nikdy vzniknout!
+13oct26 23:21 Rogan_Zabiny @[sesivany-v4] to ne, ale patlal jsem se v tom celé odpoledne a je to odporné!
+13oct26 23:24 Tady85-WDM   Nepřestává mě udivovat trasa Ralsko-Melechov 😁
+13oct26 23:55 JezeCore     zdar bando..nekdo kdo by byl v okoli mesta Kraliky nebo podobne?potrebuji pomoc s instalaci RTPTR..hw mam..nemam mista
+14oct26 00:05 Jean-Marc    Visiting Praga
+14oct26 00:08 Jean-Marc    That is a nice distance!
+14oct26 00:08 Petr-Lie1 ☺  @[Jean-Marc] another guy from Belgium. Welcome.
+14oct26 00:09 JezeCore     @[Jean-Marc] yes..11hops to me..
+14oct26 00:13 JezeCore     zdar bando..nekdo kdo by byl v okoli mesta Kraliky nebo podobne?potrebuji pomoc s instalaci RTPTR..hw mam..nemam mista
+14oct26 00:16 Jean-Marc    I’m visiting Praga, a lot of repeaters here, in my neighbourhood I have a repeater bud not with good connection
+14oct26 00:17 sesivany-v4  @[Jean-Marc] Hello from Brno!
+14oct26 00:17 Petr-Lie1 ☺  @[Jean-Marc] Maybe its time to build one or more. 😉
+14oct26 00:17 Jean-Marc    Cool Brno 8 hops
+14oct26 00:18 Jean-Marc    I’m just visiting this week, Friday back to Brussels
+14oct26 00:22 Peva         @[Jean-Marc] Welcome to Praha, the city 20 hops away from here, all around the country...
+14oct26 00:38 Jean-Marc    Hello Belgium here
+14oct26 00:38 Jean-Marc    Visiting Praga
+14oct26 00:38 JtheSerg_tDe @[Jean-Marc] Hi!
+14oct26 00:39 JezeCore     @[Jean-Marc] Hello from city Sumperk
+14oct26 00:59 Jean-Marc    But my connection is dropping a lot
+14oct26 00:59 Jean-Marc    Cool Brno 8 hops
+14oct26 02:06 Tady85-WDM   @[KdoTam] já tady ahoj
+14oct26 02:09 Technocrat_T @[KdoTam] hoj 👋
+14oct26 02:10 MARDO_JBC    @[KdoTam]: to tedy, podle mapy Hradec?
+14oct26 02:46 Technocrat_T @[JezeCore] praha 12 Modřany slysi
+14oct26 03:02 KdoTam       Test repeatru donjirka
+14oct26 03:09 KdoTam       @[MARDO_JBC] To je slušný dosah 🥳
+14oct26 03:09 MARDO_JBC    @[KdoTam]: to tedy, podle mapy Hradec?
+14oct26 03:20 berk76       @[Peva] 👍
+14oct26 03:47 Accent_MG    Máte nějaký ověřený filtr? Tak by se mi hodil.. :D
+14oct26 03:52 Peva         @[Merik] suchý vrch bude taky potřebovat filtr, tam je přeantenovano...
+14oct26 04:03 Merik        @[JezeCore] jj
+14oct26 04:23 Martin OK4IM @[JezeCore] Třeba OK1KOK? Anebo partyzánsky někam na strom.
+14oct26 05:28 CZ26601OK2DA Tady prochazis..
+14oct26 05:47 ☺Zeitenwende @[Peva] MeshCore 158× jinak
+14oct26 07:00 ☺Pete        Také se vám vypíná companion po odpojení od telefonu? Musím říct že to je po docela dlouhé době ale docela mě to štve
+14oct26 07:01 ☺Pete        Nedokázal jsem najít žádný řešení tak bych byl rád kdyby někdo věděl a měl jak pomoci
+14oct26 07:02 ☺Pete        A jinak teda dobrou všem 💤
+14oct26 07:07 Echo_snp_L1  Spíš mi občas zamrzne a musím ho vypnout a zapnout. Wii L1. A občas má lepší příjem T1000-e, než ta L1 s gizontem.
+14oct26 07:12 ☺Pete        Jaaj to máš trošičku lepší než já 😂. Já jsem tady jen s Heltec V3
+14oct26 07:15 ☺Pete        Jaaj tak to jsi na tom mnohem lépe než já lmao. Já tu jsem s Heltec V3
+14oct26 07:18 ☺Pete        A teď se mi jen tak rozhodl spadnout taky no. Teď ale není zrovna dobitý takže uznávám chybu :/
+14oct26 22:37 ☺Pete        Tak nevím jestli se někdo pokoušel o výpomoc, ale zprávy tady nevidím. Zas nevím jestli se mi to nevypnulo
+14oct26 22:37 BLuE ☺       @[🖥️Pete] Dnes tu píšeš jen ty, musíš si přidat jiné kanály, třeba #teplotaveskleniku
+14oct26 22:40 ☺Pete        Jj vím. Už mám #praha #czech #test atd. Jen mi přišlo nejlepší se doptat zde
+14oct26 22:48 ☺ LVA-Wio    @[🖥️Pete] Dnes je tu opravdu ticho
+14oct26 22:49 ☺Pete        Ale asi to je stejně jedno. Zkusil jsem úplně jinou baterku a už to vypadá vpoho 😂. Asi mám naprd držák na 18650 baterky
+14oct26 22:50 szczurkosmic @[🇧🇪 LVA-Wio] Všichni jsou mrtví, Dave.
+14oct26 22:51 ☺ LVA-Wio    @[szczurkosmiczny 🐀] 😂 to je škoda, HAL
+14oct26 23:00 Digit☺ Mobil Něco nového?
+14oct26 23:06 szczurkosmic Nějaká ochechule mi šlohla jogurt z firemní lednice, takže to vidím na trestnou výpravu.
+14oct26 23:38 ☺ Marcel kie hello
+14oct26 23:47 ☺ Marcel kie hi?
+14oct26 23:49 ☺ LVA-T114   @[🪂 Marcel kiekr.app X1] and with good coverage it seems🤘
+15oct26 00:19 ☺ Marcel kie @[🇧🇪 LVA-T114]: seems like it
+15oct26 01:48 Alkel Tr ☺   Hello z noveho repeateru ve Vraném nad Vltavou 👋
+15oct26 04:04 Aida-PRG     Pravčická Archway... Co se tady člověk nedozví.
+15oct26 09:12 Kankys-PRG13 dobre rano ☕
+15oct26 11:12 MARDO_JBC    @[Kankys-PRG13] dobré ráno
+15oct26 11:14 Kankys-PRG13 @[MARDO_JBC] dobre
+15oct26 12:16 Rogan_Zabiny Dobré ráno #zdravice
+15oct26 13:54 QtW☺         Dobré ráno i mimo #zdravice
+15oct26 15:29 szczurkosmic Dobrý večer vespolek.
+15oct26 15:32 CZE_VeX☺     Večer? Už je čas? aha tohle není #freebeer 😃
+15oct26 17:07 lukaskicz    Poslední minuty do odpalu Liblic
+15oct26 17:09 CZ26601OK2DA online
+15oct26 17:13 Kankys-PRG13 @[lukaskicz] amen
+15oct26 17:28 prl☺         to uz je treti odpal Liblic?
+15oct26 17:35 Peva         https://www.youtube.com/watch?v=sJF3IwKKr5o
+15oct26 17:46 prl☺         tady zaznam odpalu Liblic: https://www.youtube.com/watch?v=-6sK_e3B0aM
+15oct26 17:59 sesivany-v4  Podle toho prenosu je dnes u Liblic dobry mejdan. :)
+15oct26 18:00 covex-HTv3-m Technoparty.
+15oct26 18:17 sesivany-v4  RIP Liblice ✝️
+15oct26 18:19 Sehnsucht ☺☺ F
+15oct26 18:20 LukasBP      RIP 😥
+15oct26 18:23 Martin OK4IM A nejvyšší stavbou v ČR se stává vysílač Krašov
+15oct26 18:23 Kimitko Baza Hola
+15oct26 18:23 sesivany-v4  Je to skoda, rptr by se tam dobre vyjimal, ale 120 mio na rekonstrukci bychom z komunitniho financovani dohromady asi nedali :D
+15oct26 18:27 Rogan_Zabiny A jak si ty věže spořádaně lehly 👍
+15oct26 18:28 Kimitko Baza Po 10 mesicich jsem znovu flashnul MC a nestacim se divit jak se rozsiril za tu dobu... 🫣
+15oct26 18:29 szczurkosmic @[Kimitko Baza] Jj, taky jsem se divil. :D
+15oct26 18:30 Kimitko Baza Jak vypada spojeni do Statlu?
+15oct26 18:31 Alkel Brostl @[Kimitko Baza] Plzeň - Praha - Brno - Ostrava je dneska už zívačka
+15oct26 18:33 Alkel Brostl Teď je další milestone spojení se Slovenskem :-) (přes společný region scope)
+15oct26 18:33 szczurkosmic @[Kimitko Baza] A soudě dle tebe, tak minimálně do Blanska to chodí i zpod Radhoště.
+15oct26 18:35 prl☺         jsou tam jeste?
+15oct26 18:41 E7FF9B0F     @[sesivany-v4] Meshy mi ukazuje 10 hopu z Gdansk do Prahy. To je mozny?
+15oct26 19:01 Honzaaa      Myslel jsem si, že MC je levný koníček :D Myšlenka to byla dobrá…
+15oct26 19:31 sesivany-v4  @[E7FF9B0F] je to 1 nebo 2b? Mozne by to nemelo byt, kdyz Polsko jede na jinem presetu.
+15oct26 19:32 sesivany-v4  Jedine, ze by zase nekdo rozjel nelegalni bridge mezi CZ a EU presety.
+15oct26 19:42 E7FF9B0F     @[sesivany-v4] jestli myslis moje nastaveni, tak 1b. Mel jsem tam router "GA_DABROWA_GAC", asi fakt Gdansk
+15oct26 19:44 E7FF9B0F     *mam 2b
+15oct26 19:45 sesivany-v4  Ono jde spis o to, jak to mela nastavene ta zprava.
+15oct26 19:46 sesivany-v4  Jinak ta vzdalenost neni pro MC problem, netusim ale, jak by to mohlo projit pres 2 presety.
+15oct26 20:13 amm.ave      kolize na 2b, to uz sestalo i v ramci cr. v ramci evropy by to bylo asi casteji
+15oct26 20:17 sesivany-v4  @[amm.ave] jo no, v Evrope je cca 20 tisic rptru. Bez koordinace uz budou pri 65k kombinacich kolize.
+15oct26 20:21 berk76       V česku je cca 800? A už
+15oct26 20:21 berk76       se kolize taky stane
+15oct26 20:22 berk76       Nenulová pravděpodobnost je už při 2 repeaterech a pak už jen roste :-)
+15oct26 20:24 HonzaKoren   Mám smělý plán si vzít node na plavbu, dokážete někdo odhadnout, zda mi dojde zpráva do Španělska nebo Portugalska?
+15oct26 20:31 amm.ave      z cech urcite ne
+15oct26 20:32 HonzaKoren   Smutný, ale díky. Jsem totální noob, co přesně tomu brání?
+15oct26 20:33 D0n4ldR1     @[HonzaKoren] bohuzel ne, protoze prave staty nejsou mezi sebou propojene, proto se ted resi propojeni se SR
+15oct26 20:34 HonzaKoren   Aha, díky za vysvětlení. Budu si muset cosi dostudovat
+15oct26 20:48 sesivany-v4  @[HonzaKoren] Z Nemecka by teoreticky dojit mohla, od nas ne kvuli jinemu presetu.
+15oct26 20:48 Thomas       Ahoj, je tady někdo z Olomouce?
+15oct26 21:13 amm.ave      nekdo se odstehoval do humpolce
+15oct26 23:21 Honzaaa      Existuje nějaký způsob jak kombinovat Meshy na NTB a MeshCore One na iOSu, tak abych nepřicházel o zprávy?
+15oct26 23:22 Digit☺ Mobil @[Honzaaa] ano
+15oct26 23:23 MARDO_JBC    Také mě zajímá. Napadlo mě doma nastavit druhé zařízení
+15oct26 23:23 ☺ LVA-T114   @[Honzaaa] Ne, ale v Meshy je nová experimentální funkce, která zajišťuje synchronizaci zpráv mezi jednotlivými instancemi
+15oct26 23:24 MARDO_JBC    @[🇧🇪 LVA-T114] ty jo to by bylo super 👍
+15oct26 23:26 Digit☺ Mobil Co vím,to co ma esp32 má svi paměť.......
+15oct26 23:26 Digit☺ Mobil Zbytek sí domislite
+15oct26 23:27 Digit☺ Mobil U mě to funguje
+15oct26 23:27 Digit☺ Mobil Takže tak😉
+15oct26 23:28 amm.ave      legendarni 1b uzivatel
+15oct26 23:32 Digit☺ Mobil @[amm.ave] ahojky....jak se vědě.....nebil čas na sráz.....spousta práce atd..... znaš to
+15oct26 23:33 amm.ave      dobre diky. koukal sem, ze zase jede wiki
+15oct26 23:34 Digit☺ Mobil @[amm.ave] ??jak to?😱🫣
+15oct26 23:35 amm.ave      mel sem ji v sousedech na repeatru po navratu z brna o vikendu
+15oct26 23:37 Digit☺ Mobil @[amm.ave] ja jsem je vypnul na dálku.....ale něco je asi probudilo.....to je fakt divný 😱
+15oct26 23:38 amm.ave      zombi🧟!
+15oct26 23:38 Digit☺ Mobil @[amm.ave] bude nějaký sráz?
+15oct26 23:39 amm.ave      sou skoro kazdy tyden, ale dnes ne
+15oct26 23:40 MARDO_JBC    Také mě zajímá. Napadlo mě doma nastavit druhé zařízení
+15oct26 23:40 Digit☺ Mobil @[amm.ave] příští čtvrtek?
+15oct26 23:40 ☺ LVA-T114   @[Honzaaa] Ne, ale v Meshy je nová experimentální funkce, která zajišťuje synchronizaci zpráv mezi jednotlivými instancemi
+15oct26 23:41 Digit☺ Mobil @[amm.ave] nevidím Wiki že žije......🤔ti je vidiš?
+15oct26 23:41 amm.ave      ceo psal ze priste uz by mel zase byt
+15oct26 23:41 amm.ave      podivam se doma, sem na moste legii
+15oct26 23:42 Digit☺ Mobil @[amm.ave] aha....ok
+15oct26 23:42 Digit☺ Mobil Dík za info
+15oct26 23:43 MARDO_JBC    @[🇧🇪 LVA-T114] ty jo to by bylo super 👍
+15oct26 23:43 m4rtink      Obilnak by mel byt open online - byl blbe namireny solar, tak se to nenabijelo. :P
+15oct26 23:44 Digit☺ Mobil @[amm.ave] tak přijedu v čtvrtek......zatim pa
+15oct26 23:44 amm.ave      @[Digit📡 Mobile] 👋
+15oct26 23:48 Digit☺ Mobil Co vím,to co ma esp32 má svi paměť.......
+15oct26 23:48 Digit☺ Mobil Zbytek sí domislite
+15oct26 23:48 Digit☺ Mobil U mě to funguje
+15oct26 23:48 Digit☺ Mobil Takže tak😉
+15oct26 23:50 sesivany-v4  @[Honzaaa] Bude Meshy i pro iOS, Jarda uz na tom pracuje. Pak by mel sync jit.
+15oct26 23:51 sesivany-v4  Jinak uz nekolik dni testuju ten sync mezi domacim a pracovnim pocitacem a funguje to moc pekne.
+15oct26 23:51 amm.ave      legendarni 1b uzivatel
+15oct26 23:53 Digit☺ Mobil @[sesivany-v4] tak,,,,, vidiš ze to jde.... aspoň mě 🤷
+15oct26 23:54 Digit☺ Mobil Trošku vám pomůžu, nápověda......
+15oct26 23:55 Digit☺ Mobil claude to zvládne levou😉
+15oct26 23:56 Digit☺ Mobil claude.ai
+15oct26 23:58 Digit☺ Mobil @[amm.ave] ahojky....jak se vědě.....nebil čas na sráz.....spousta práce atd..... znaš to
+15oct26 23:58 amm.ave      dobre diky. koukal sem, ze zase jede wiki
+15oct26 23:58 Digit☺ Mobil @[amm.ave] ??jak to?😱🫣
+15oct26 23:59 sesivany-v4  Jo, Meshy pro Android a iOS dela Jarda Claudem podle predlohy puvodni Meshy.
+16oct26 00:01 sesivany-v4  Ma to stejne funkce, vypada to podobne, ale na urovni kodu to nema nic spolecneho.
+16oct26 00:03 amm.ave      mel sem ji v sousedech na repeatru po navratu z brna o vikendu
+16oct26 00:03 Digit☺ Mobil @[sesivany-v4] super....... aspoň někdo že něco udělá...... já nemám tolik času na tihle věci......ale jsem sí udělal
+16oct26 00:04 Digit☺ Mobil Sobe
+16oct26 00:05 Digit☺ Mobil @[amm.ave] ja jsem je vypnul na dálku.....ale něco je asi probudilo.....to je fakt divný 😱
+16oct26 00:08 amm.ave      zombi🧟!
+16oct26 00:08 Digit☺ Mobil @[amm.ave] bude nějaký sráz?
+16oct26 00:10 amm.ave      sou skoro kazdy tyden, ale dnes ne
+16oct26 00:11 Digit☺ Mobil @[amm.ave] příští čtvrtek?
+16oct26 00:13 Digit☺ Mobil @[amm.ave] nevidím Wiki že žije......🤔ti je vidiš?
+16oct26 00:13 amm.ave      ceo psal ze priste uz by mel zase byt
+16oct26 00:13 amm.ave      podivam se doma, sem na moste legii
+16oct26 00:13 Digit☺ Mobil @[amm.ave] aha....ok
+16oct26 00:14 Digit☺ Mobil Dík za info
+16oct26 00:15 m4rtink      Obilnak by mel byt open online - byl blbe namireny solar, tak se to nenabijelo. :P
+16oct26 00:16 Digit☺ Mobil @[amm.ave] tak přijedu v čtvrtek......zatim pa
+16oct26 00:16 amm.ave      @[Digit📡 Mobile] 👋
+16oct26 00:24 sesivany-v4  @[Honzaaa] Bude Meshy i pro iOS, Jarda uz na tom pracuje. Pak by mel sync jit.
+16oct26 00:25 sesivany-v4  Jinak uz nekolik dni testuju ten sync mezi domacim a pracovnim pocitacem a funguje to moc pekne.
+16oct26 00:26 Digit☺ Mobil @[sesivany-v4] tak,,,,, vidiš ze to jde.... aspoň mě 🤷
+16oct26 00:28 Alkel Brostl @[Digit📡 Mobile] Ahoj! Mohl bys prosím na svých repeaterech přidat region scopes? :-)
+16oct26 00:29 Digit☺ Mobil Trošku vám pomůžu, nápověda......
+16oct26 00:30 Digit☺ Mobil claude to zvládne levou😉
+16oct26 00:30 Digit☺ Mobil claude.ai
+16oct26 00:33 sesivany-v4  Jo, Meshy pro Android a iOS dela Jarda Claudem podle predlohy puvodni Meshy.
+16oct26 00:35 sesivany-v4  Ma to stejne funkce, vypada to podobne, ale na urovni kodu to nema nic spolecneho.
+16oct26 00:38 Digit☺ Mobil @[sesivany-v4] super....... aspoň někdo že něco udělá...... já nemám tolik času na tihle věci......ale jsem sí udělal
+16oct26 00:38 Digit☺ Mobil Sobe
+16oct26 00:47 amm.ave      @[Digit📡 Mobile] mam wiki v kontaktech 14. rijna v 7 vecer na primo
+16oct26 00:48 Digit☺ Mobil @[amm.ave] zajímavé.......kouknu se jak je to možné
+16oct26 00:49 Digit☺ Mobil @[Alkel Brostl 🍺] vysvětlíš mi co je špatně
+16oct26 00:50 amm.ave      @[Digit📡 Mobile] ale login ani ping nejde (0cca)
+16oct26 00:52 amm.ave      analyzer ji taky pred 20 hodinama videl
+16oct26 00:53 amm.ave      @[Digit📡 Mobile] https://analyzer.meshcore.website/#/nodes/0cca34a50405b0c422c30bfd0ea65891a44ee403a732e57812355f813185
+16oct26 00:53 Digit☺ Mobil @[amm.ave] není náhodou nejaki fake zombi?
+16oct26 00:54 amm.ave      podle analyzeru bezi 4 dny
+16oct26 00:57 Digit☺ Mobil @[amm.ave] to musel být blesk,nebo nějaké zvíře které zmacklo tlačítko reset...... nějak mí to není jasné co mohlo to..
+16oct26 00:58 Digit☺ Mobil Způsobit....
+16oct26 00:58 amm.ave      😀🦇
+16oct26 00:59 Alkel Brostl @[Digit📡 Mobile] potřebovali bychom, aby všechny repeatery znaly region scopes, aby se mohl šetřit airtime
+16oct26 00:59 Digit☺ Mobil Ja tam půjdu a natocim video co se tam děje..... protože tam se nikdo nemůže dostat
+16oct26 01:01 Alkel Brostl Tady v Praze by všechny měly mít cz, pod tím cz-pha a cz-stc, a ještě cs. Viz https://meshcore.cz/regiony
+16oct26 01:03 Alkel Brostl Ty lokální umožní třeba flood k repeaterům bez zaplavování celé ČR a region cs bude propoj se Slovenskem
+16oct26 01:03 Digit☺ Mobil @[Alkel Brostl 🍺]ok.....jinak air time je omezen na každém rpt na 10 procent.....v čem je pak problem?
+16oct26 01:03 amm.ave      no aby k omezeni airtime nedochazelo
+16oct26 01:05 Alkel Brostl 1) Když pošlu unscoped request z Holešoviček do Krče, to floodové hledání cesty doputuje až do Brna zbytečně
+16oct26 01:05 Digit☺ Mobil @[Alkel Brostl 🍺] není to zbytečně
+16oct26 01:05 Digit☺ Mobil To tak je a ma bít
+16oct26 01:05 Alkel Brostl 2) když pošlu ten samý request s cz-pha scope, zůstane ve své oblasti, kde to dává smysl a neplevelí 200 km daleko
+16oct26 01:06 amm.ave      kdyz se floodem chce po praze pripojit na repeater nemusi floodit celou republiku, to neni treba a nema byt
+16oct26 01:06 Digit☺ Mobil Když odnesem rpt do Brna.... neřeším nic.....ze jo
+16oct26 01:07 Alkel Brostl Fakt má? Taková sestavená cesta by mi byla stejně k ničemu, protože by to pak moc nejelo.
+16oct26 01:08 Alkel Brostl Druhá věc je, že i když nejsme na limitu airtime, furt to zvyšuje kolize pro ostatní traffic.
+16oct26 01:08 Digit☺ Mobil Ano,jelo.... vždy musíš aktualizovat cestu
+16oct26 01:10 Digit☺ Mobil Ok ..... více na srazů.... návrh na zlepšení, proč,jak atd.....
+16oct26 01:10 Alkel Brostl Takže souhlasíš, že ta cesta ze severu Prahy na jih Prahy byla zbytečná a musím poslat znovu flood :-)
+16oct26 01:11 Digit☺ Mobil @[Alkel Brostl 🍺] dava smisl,,,,,ale ne vždy
+16oct26 01:11 Alkel Brostl Jasně že ne vždy - proto máš *možnost* poslat packet s region scope tam, kde to dává smysl.
+16oct26 01:13 Digit☺ Mobil Piše mi Říči ze sraz bude 5.11.26
+16oct26 01:13 Alkel Brostl Předpokládám, že většina trafficu furt pojede v blízké budoucnosti unscoped.
+16oct26 01:14 Alkel Brostl Když se někdo rozhodně, že by se dobrovolně omezil na oblast, tak zatím moc nemůže, když repeatery ty regiony neznaj
+16oct26 01:14 Digit☺ Mobil @[Alkel Brostl 🍺] ja bih to projednal,jak kdo to vidí za dobře,ono každý ma svuj názor
+16oct26 01:15 Digit☺ Mobil Zvláště nový user .... který něha vše po defaultu
+16oct26 01:16 amm.ave      novy user nemusi nic resit
+16oct26 01:16 amm.ave      nic se nemeni pro uzivatele
+16oct26 01:17 Digit☺ Mobil @[amm.ave] jak to?
+16oct26 01:17 Alkel Brostl Ale tebe ani nikoho dalšího to nijak neomezí když tam ty regiony přidáš. Jen to pomůže někomu, kdo by to chtěl použít
+16oct26 01:17 amm.ave      je to jen pridani dalsi funkce, ne omezeni soucasne
+16oct26 01:19 Alkel Brostl Nikdo nikoho nenutí ty regiony používat, každý si může doberovolně přepnout jestli pošle něco scoped nebo jako doteď
+16oct26 01:19 amm.ave      kdo chce, tak se omezi, kdo nechce floodi celou republiku dal
+16oct26 01:21 Digit☺ Mobil Proberem toto na srazů,,,,, řekněme si co a jak bude dobře,nebo proč atd....ja jsem vždycky proto aby to .......
+16oct26 01:21 Digit☺ Mobil Fungovalo lépe
+16oct26 01:21 amm.ave      je to pridani zvonku na kolo. muzes ale nemusis zvonit a kolo jezdi porad stejne dal
+16oct26 01:24 Alkel Brostl Tvoje repeatery maj dobrý pokrytí, proto jsem poprosil. Fakt to na nich nic nezhorší a nám by to pomohlo v testování.
+16oct26 01:26 Digit☺ Mobil @[Alkel Brostl 🍺] probereme detaili na srazů,jsem pro všechny náměty na zlepšení
+16oct26 01:27 Digit☺ Mobil @[Alkel Brostl 🍺] už máš novou krabičkou?
+16oct26 01:27 Alkel Brostl Ale sraz je až za 4 týdny a tohle je fakt pár kliknutí... :'(
+16oct26 01:28 Alkel Brostl @[Digit📡 Mobile] Úplně ne, ale ta T114 v tom se rozbila, tak teď nosím Wio L1 Tracker.
+16oct26 01:29 Digit☺ Mobil @[Alkel Brostl 🍺] wio dobrý že?
+16oct26 01:30 Digit☺ Mobil Hetec asi lepší,nebo ne?
+16oct26 01:31 Alkel Brostl No to Wio se líp používá a hlavně to má krabičku s baterkou.
+16oct26 01:31 Alkel Brostl A taky jdou psát zprávy na něm bez mobilu.
+16oct26 01:32 Digit☺ Mobil Tam v tom wio mas esp32s3?
+16oct26 01:32 Alkel Brostl nRF52840
+16oct26 01:32 Digit☺ Mobil Takže nezere nic a fuguje dobře
+16oct26 01:33 Alkel Brostl Ale není to rozhranní jako t-deck - je to ten samý malý oled jako jinde, ale má joystick
+16oct26 01:33 Alkel Brostl Firmware na to se dá vyzkoušet online https://solo.marekzegarek.com/
+16oct26 01:36 Digit☺ Mobil Aha......ok...... zajímavé.... trochu náročné na psaní
+16oct26 01:41 Alkel Brostl Ano, taky to používám hlavně z mobilu. Ale je dobrý, že to jde použít i samostatně a vlastně to ničemu nepřekáží.
+16oct26 02:04 ZYNAPS       je tu JFC?
+16oct26 02:10 JFC          je
+16oct26 02:11 ZYNAPS       @[JFC] zdar!
+16oct26 02:12 Aida-PRG     @[Digit📡 Mobile] co chceš probírat? Nastav:
+                           *
+                           cs
+                           cz
+                           cz-pha
+                           cz-stc
+                           O nic nepřijdeš, vše bude fungovat jako dosud. Jen získáš!
+16oct26 02:14 Martin OK4IM Za forwardované packety se scopem jsou kredity navíc!
+16oct26 02:21 Aida-PRG     @[ZYNAPS] tvé zprávy přicházejí s datem z rokur 2023. Zkus si syncnout čas.
+16oct26 02:22 JFC          @[ZYNAPS] jsi z minulosti?
+16oct26 02:24 Aida-PRG     @[JFC] škoda, že není z budoucnosti, zeptal bych se na čísla do lotynky...
+16oct26 02:24 Honzaaa      @[ZYNAPS] zdravíme z roku 2026
+16oct26 02:28 QtW☺         @[Aida-PRG] Mám dojem, že z budoucnosti byl včera, nebo předevčírem
+16oct26 02:29 4EE81759     Back to the future😉😁
+16oct26 02:33 Honzaaa      My jsme pro něj v budoucnosti, tak alespoň něco
+16oct26 02:37 Aida-PRG     @[Honzaaa] pravda... @[ZYNAPS] piš si:
+                           1. tah
+                           5 9 14 22 27 42 (33)
+                           2. tah
+                           7 8 19 24 35 38 (29)
+                           Šance
+                           2 6 3 6 9 1
+16oct26 03:11 pajd0x       Ahoj
+16oct26 03:20 extr0        @[pajd0x] Zdravim
+16oct26 04:06 Blacks_Home  @[Aida-PRG]  na který den se to má podat
+16oct26 04:07 Aida-PRG     @[Blacks_Home] středa 14. 10. 2026
+16oct26 04:09 Blacks_Home  @[Aida-PRG] ti zní jako plán, dám ti z výhry 20%
+16oct26 04:10 Blacks_Home  Problém ze nevím ani co je za den.
+16oct26 04:11 PetrVelka    @[Blacks_Home] první čtvrtek v týdnu
+16oct26 04:13 Blacks_Home  Tak to by měli včera houkat sirény, mě hučí asi něco jiného.
+16oct26 04:15 PetrVelka    @[Blacks_Home] Ty houkají první středu měsíci, včera byla druhá
+16oct26 04:16 Blacks_Home  Jsem v budoucnosti , piju předem na víkend a nemám pojem o čase
+16oct26 13:38 Jakub-OVA    Dobré Ráno všem!
+16oct26 13:42 Rogan_Zabiny Dobré ráno #zdravice
+16oct26 13:50 amm.ave      zas rano
+16oct26 13:53 Zepo_olc_prc Ahoj test
+16oct26 13:59 QtW☺         Meshi meshi
+16oct26 14:08 Blacks_Home  Super ráno, dovolená
+16oct26 14:41 VitaValke2   Konečně pátek :-)
+16oct26 14:42 Tady85-srv   @[VitaValke2] na rouming.cz nechceš koukat v pátek do masa 😁
+16oct26 14:45 Brexit       Dobré ráno všem
+16oct26 14:52 TheShadowCZE dobre rano tez vsem. vcera to tady nejak zilo :D
+16oct26 14:55 Cezar Mesch  Dobré jitro
+16oct26 15:03 Aida-PRG     @[Tady85-srv] jen kdyz jsi zapskly malomestak, co se ani k veceri neprevleka. Zcestovaly gurman a fajnsmekr se tesi i na patek v mase.
+16oct26 15:16 Tyler Durden @[Aida-PRG] 😅😅
+16oct26 15:48 szczurkosmic Za chvíli tu máme pondělí, těšíte se? :))
+16oct26 15:49 Accent_MG    Docela ano, mám teď tři noční.. :D
+16oct26 15:50 szczurkosmic No fuj. :D
+16oct26 16:37 TheShadowCZE jdi nekam s pondelim
+                           uz nekolik dni nespim protoze makerfaire brno
+16oct26 17:04 Jan_B_Floren fuj, na pondeli ani pomysleni :-D
+16oct26 17:05 Jan_B_Floren ja mel patek uz vcera :-D
+16oct26 17:53 VSA☺         Oba rpt aktualizovány na OTA 2.3, fw 1.18, cs, cz, eu. Ať to sviští po strništi 😀
+16oct26 17:54 ☺ GhostNode- Nazdar všem 👋
+16oct26 18:32 VSA☺         @[👻 GhostNode-01] To už se jede na 3B ? Nejsem tedy opožděnej? 😀
+16oct26 18:43 ☺ LVA-T114   @[VSA🧭] Co je to cs - cz - eu?
+16oct26 18:44 Aida-PRG     @[🇧🇪 LVA-T114] regiony https://meshcore.cz/regiony
+16oct26 18:44 amm.ave      doomflood region eu?
+16oct26 18:46 VSA☺         @[🇧🇪 LVA-T114] kazdy by měl nastavit na svém repeateru regiony, ať je možné provoz omezit. (Zpráva bez regionu bude prochazet.)
+16oct26 18:49 ☺ LVA-T114   @[Aida-PRG] Regiony znám, jen jsem nikdy neviděl že by se používalo cs nebo eu
+16oct26 18:50 Aida-PRG     @[🇧🇪 LVA-T114] cs spojuje Česko a Slovensko. EU asi není zásadní kvůli různým presetum.
+16oct26 18:52 ☺ LVA-T114   @[Aida-PRG] Slovensko je taky pořád na jiném preset, ne?
+16oct26 18:56 Aida-PRG     @[🇧🇪 LVA-T114] ano, ale snad jsou, nebo budou hraniční mosty.
+16oct26 19:03 Alkel Tr ☺   Jiný předměty nevaděj, ale ten region scope to umožní prekydnout přes standardní seriál bridge
+16oct26 19:04 Alkel Tr ☺   Ale nejdřív potřebujeme rozšíření toho československeho super-regionu, aby se na ty bridge šlo dostat :D
+16oct26 19:19 Alkel Tr ☺   Resp. ono by to šlo říct i o těch bridgích, ale z Prahy se mi pojede pokusnej bridge na hranice instalovat blbě :-)
+16oct26 19:22 Alkel Tr ☺   s/předměty/presety/
+                           ... autocucumber.
+16oct26 19:33 Agent_3☺     Zdravim po delší odmlce 🙂
+16oct26 19:35 maxcz        Test Wadamesh z Holešovic 👋
+16oct26 19:35 agoranode    funguje ti to, @[maxcz], ale na testovani pouzivame kanal #test 😉
+                           dik✌️
+                           Kreditovy zustatek: 1
+16oct26 19:38 maxcz        @[agoranode] Omluva, nevěděl jsem. Jsou někde nějaké rules?
+16oct26 19:38 Agent_3☺     @[maxcz] meshcore.cz
+16oct26 20:40 amm.ave      takova slozita domena, jak to maj mudlove vedet
+16oct26 20:54 maxcz        Já se tam díval někdy před rokem a to tam ty kanály ještě imho nebyly 😁
+16oct26 21:01 amm.ave      tady se veci meni ze dne na den
+16oct26 21:01 Alkel Brostl Jednou za rok je docela dlouho na takoj živej projekt 😁
+16oct26 21:02 Alkel Brostl @[maxcz] koukám, že tě občas z Holešoviček chytám na direct - budeš asi na severu, co?
+16oct26 21:03 Alkel Brostl @[maxcz] mimnimálně ten 2-byte path hash si nastav
+16oct26 21:03 Honzaaa      @[Aida-PRG] Na jeden hop, slušný
+16oct26 21:04 Alkel Brostl Ale sakra, nemixujte furt ty regiony do Publicu. Prosím. :-)
+16oct26 21:05 Honzaaa      Pardon, to jsem nevěděl. Do publicu tedy bez regionu?
+16oct26 21:05 Alkel Brostl Takový "subkanály" moc nefungují, když jsou asymetrický a překrejvaj se.
+16oct26 21:07 Alkel Brostl No když tu různí lidé posílají různé scopes, různí příjemci uvidí jen část zpráv.
+16oct26 21:10 Alkel Brostl Kanál by měl mít IMHO jeden konkrétní scope (zde aspoň zatím unscoped). Prostě když něco napíšeš, tak pro všechny.
+16oct26 21:11 Alkel Brostl #regiony je výjimka, samozřejmě, ale to je kanál na testování a ne tolik na komunikaci :-)
+16oct26 21:11 VSA☺         @[Alkel Brostl 🍺] Taky nevidím veškerou komunikaci a kanálama ani scopes to nebude. Chtělo by to natahat mezi repeaterama dráty 😁
+16oct26 21:39 maxcz        @[Alkel Brostl 🍺] Koukám, že toho budu muset dostudovat ještě dost. Jsem kousek od Libeňáku. Teď mizím, nastavím v ne/po
+16oct26 22:24 BluePeril    Hello
+16oct26 22:31 k1kBoks      @[BluePeril] Hi
+16oct26 22:43 EGG          Ahoj
+16oct26 22:45 Číkus        Zdar!
+16oct26 22:46 amm.ave      @[BluePeril] hell'o
+16oct26 22:47 prl ☺        Hmmmm, novy rptr v Bucovicich
+16oct26 23:15 MaHraFaketec Zdravice že Džbánu 👋
+16oct26 23:51 Aida-PRG     @[Honzaaa] co bylo na jeden hop? Promiň nějak jsem ztratil kontext...
+17oct26 00:46 Bufu.3.☺     Kdyby někdo chtěl a nevěděl... Zítra Brno , Maker Faire -10% sleva s kódem LASKAKIT10
+17oct26 01:34 JezeCore     @[MaHraFaketec] 17hopu..take zdravim ze Šumperka
+17oct26 01:36 JezeCore     někdo na poslechu nebo vsichni v patek odcestovali a nechali krabicky doma?
+17oct26 01:40 VitaValke    Dnes na Vodojem a BnPl nahráno na test 1.18 přes OTA. Zatím bez problémů
+17oct26 02:37 JLpodHost-B☺ @[JezeCore] odcestoval jsem s krabičkou do Beskyd
+17oct26 03:11 Honzaaa      @[Aida-PRG] chtěl jsem tagnout @[Alkel Brostl 🍺], pardon
+17oct26 03:17 Alkel Brostl @[Honzaaa] Jeden hop pro mne potenciálně pokrejvá obrovský kus Prahy - mám stabilní obousměrný 10dB link na FSV1 :D
+17oct26 03:20 amm.ave      odcestovat bez krabicky je nezodpovednost
+17oct26 03:32 Echo_snp_L1  @[amm.ave] Ba přímo technohereze!
+17oct26 03:43 Alkel Brostl @[Echo_snp_L1] Je na to nějaká společná divize Inquisition × Adeptus Mechanicus?
+17oct26 04:39 Echo_snp_L1  @[Alkel Brostl 🍺] To si hlídají Mechanici sami.
+17oct26 06:31 sesivany-v4  Je mazec dojet do zapadle vesnice v Jesenikach a zjistit, ze ma vlastni rptr 😄
+17oct26 07:34 642A493D     Je běžné používat na androidu Meshcore aplikaci, nebo se používá nějaká lepší?
+17oct26 07:40 Alkel Brostl @[642A493D] Má to ještě pár rough edges, ale už pár týdnů používám https://codeberg.org/jreznik/meshy-android/
+17oct26 07:41 Alkel Brostl Ofi appku si nechávám pořád nainstalovanou, když je na něco potřeba
+17oct26 18:05 sesivany-sc  Jsem ve Velkém Vrbnu, mobilní signál tu není, ale MC jede. 💪
+17oct26 18:09 berk76       @[sesivany-😎
+17oct26 18:10 MARDO_JBC    @[sesivany-sc] super. Já jsem uživatelem od LinuxDays 😀 je to super síť 👍
+17oct26 19:01 MaHraFaketec Pozdrav z Kounovských řad
+17oct26 19:14 4EE81759     @[MaHraFaketec] Pozdrav doskákal do Pardubic. Taky zdravím.
+                           5153,8828,5eb5,6744
+17oct26 19:17 Rogan_Zabiny @[MaHraFaketec] svítily v noci?
+17oct26 20:31 EmFa         Zdravím z ČB
+17oct26 20:38 4EE81759     @[EmFa] pozdrav doskákal do Pardubic
+                           f8eb,0319,7569,edaf,568f,fe60,e6f6,5eb5,6744
+                           Jinak tu je #zdravice na zdravení 😉😎
+17oct26 20:40 Kankys-PRG13 @[4EE81759] 👍
+17oct26 20:45 4EE81759     Pro neznalé
+                           https://meshcore.cz/kanaly
+17oct26 21:17 MaHraFaketec @[Rogan_Zabiny 🐸] Nesvítily, asi šetří kredity.
+17oct26 21:49 XIAO MM      Špičák v J. horach
+17oct26 22:02 MaHraFaketec @[XIAO MM] 3 hopy na Pravdu
+17oct26 22:15 Echo_snp_L1  @[MaHraFaketec] na dva hopy na RZB.
+17oct26 22:34 Sob          Jsou nějaká pravidla, k čemu (ne)používat channel Public? (kromě zdravice)
+17oct26 22:39 OK1SIM       hlavne to neres a pis @[Sob]
+17oct26 22:40 OK1SIM       zdravim od plzne
+17oct26 22:50 Alkel Brostl Srdečné pozdravy z Prahy. Testování a pingání do #test, senzory #teplotaveskleniku, alkoholismus #freebeer. :D
+17oct26 22:50 Alkel Brostl Nějaký vícestránkový kodex tu úplně není.
+17oct26 22:51 Bufu.3.☺     @[Alkel Brostl 🍺] alkoholismus 😅👍 si zabil 😁😁
+17oct26 22:55 QtW☺         Pozdravy do zdravice jsou také jen doporučení
+17oct26 23:03 Sob          Super. Díky. Dneska jsem pověsil SenseCAP Solar Node P1-Pro na střechu. Jsem mile překvapenej dosahem.
+17oct26 23:07 Sob          Jenom mi příjde zajímavý, že se mi v companion appce (app.meshcore.nz) na mapě nezobrazujou ty vůbec nejbližší repeatery.
+17oct26 23:11 Alkel Brostl Dej tomu nějaký čas, než nachytáš repeatery.
+17oct26 23:11 Alkel Brostl Teda, adverty.
+17oct26 23:12 Alkel Brostl Slušný repeater posílá flood advert jednou za 2 nebo více dnů a zerohop musíš slyšet companionem přímo
+17oct26 23:13 Rogan_Zabiny @[Alkel Brostl 🍺] jakej alkoholismus? Hydratace!
+17oct26 23:14 Sob          Jj, vidim že se to postupně plní (můj repeater má nastavenej advert za 47 hodin).
+17oct26 23:14 Alkel Brostl Alternativně můžeš použít appku jako Meshy, která umožňuje ty adverty stáhnout z internetové databáze.
+17oct26 23:15 Alkel Brostl Osobně dávám spíš 54 h - ať ten čas advertu rotuje po čtvrtdnu.
+17oct26 23:16 Alkel Brostl Pak jsou ale repeatery, co mají přesný násobek 24 h a floodvert posílají vždycky v 5 ráno - na PC je nikdy nechytnu :D
+17oct26 23:17 Sob          Tak těch 47 bylo výchozí nastavení, tak jsem to ponechal.
+17oct26 23:18 Alkel Brostl Není to vyloženě špatný default.
+17oct26 23:19 Sob          Zlepší se to až můj repeater pochytá adverty? Nebo si je musí pochytat i companion?
+17oct26 23:20 Sob          Zatím je úspěšnost doručení tam i zpět asi 50/50.
+17oct26 23:21 Alkel Brostl Advert musí slyšet tvůj companion, když je zrovna připojená appka - samotný MC nod to neukládá.
+17oct26 23:22 Alkel Brostl Appka má k dispozici o dost víc RAM/storage, tak si to může držet. Companion drží jen striktně uložené kontakty
+17oct26 23:22 Alkel Brostl Samozřejmě, můžeš nechat zaplý autoadd na repeatery, ale brzy ti dojdou volné sloty na kontakty.
+17oct26 23:23 Alkel Brostl Repeater max. zobrazí zerohop adverty, které přímo slyšel, jako sousedy ve své administraci.
+17oct26 23:24 amm.ave      a max 50 kusu
+17oct26 23:48 IvoDeck      u me uspesnost Tx asi 0
+18oct26 03:20 amm.ave      @[IvoDeck] prosek te slysi
+18oct26 03:23 berk76-tag   @[IvoDeck] Košík taky
+18oct26 03:38 Vlada☺       @[IvoDeck] Dobříš také
+18oct26 03:39 Blek         @[IvoDeck] Dejvice taky slyší
+18oct26 03:40 Hellhound    @[IvoDeck] Řepy taky
+18oct26 03:40 Otakar Herme Zizkov slysi
+18oct26 03:41 LibSlapanice Slapanice taky
+18oct26 03:43 QtW☺         And my axe
