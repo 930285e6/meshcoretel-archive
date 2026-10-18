@@ -1,15 +1,18 @@
-﻿10oct26 08:48 tltOG☺       Ping
-10oct26 08:48 ☺InfoBot     Hey, tltOG📻!
-                           Pong direct
-10oct26 08:48 METAR Bot    Понг @[tltOG📻] | Напрямую | SNR: 7.0 дБ | RSSI: -105 дБм | 462ms
-10oct26 09:01 ☺Ivan TLT    Ping
-10oct26 09:01 ☺InfoBot     Hey, 📟Ivan TLT!
-                           Pong with 1 hop: TLT R6 MQTT
-10oct26 09:01 DA ☺ Home Br Hello @[📟Ivan TLT]!
-                           5 hops to SMR_Maslennikov (ce0a, feda, e8af, 2b63, acca)
-10oct26 09:02 METAR Bot    Понг @[📟Ivan TLT] | Напрямую | SNR: 3.0 дБ | RSSI: -110 дБм | 2.5s
-10oct26 09:03 Sanchez☺     Ping
-10oct26 09:03 ☺InfoBot     Hey, Sanchez😎!
+﻿18oct26 09:28 1c4c Mobile  Ping
+18oct26 09:28 ☺InfoBot     Hey, 1c4c Mobile!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+18oct26 09:29 ULV-alx32-bo Pong!
+18oct26 09:29 METAR Bot    Понг @[1c4c Mobile] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 12.75 дБ | RSSI: -94 дБм | 2.6s
+-95 дБм | 4.6s
+TLT RPT Dim 1
+                   D8BE: SMR_Дыбeнкo П.E.
+                           ACCA: SMR_868S
+                           2B63: Unknown
+                           FDFD: TLT R16U
+                           1717: ULV_VT_PURPLE
+                           8751: ULV_SV_Federacii
+                           ...
+t26 09:03 ☺InfoBot     Hey, Sanchez😎!
                            Pong with 3 hops: Repeater Domashka, SMR_868S, TLT RPT Dim 1
 10oct26 09:04 METAR Bot    Понг @[Sanchez😎] | a047(Repeater Dom),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.5 дБ | RSSI: -95 дБм | 5.1s
 10oct26 09:13 Tanch☺       Ping

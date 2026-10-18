@@ -1,16 +1,17 @@
-﻿10oct26 06:28 M5_chmd☺     W
-10oct26 06:28 lexv-mesh-bo 🌡️ Сб10:🌧️,8..17C,ос.48% | Вс11:☁️,3..16C,ос.0% | Пн12:🌤️,4..21C,ос.0%
-10oct26 06:28 T-1000☺      Пенза:  ☁️Pasmurno 11°C
-                           BETEP ⬆️Ю 2m/s
-                           76%RH 💧7°C 👁️29.7km 📊746mm
-                           Segodnya: H:17°C L:8°C
-10oct26 08:48 M5_chmd☺     Multitest
-10oct26 08:48 T-1000☺      @[M5_chmd💼] found 2 unique path(s):
-                           da4a,55fe ┐
-                           ├ a840
-                           └ a840,abcd
-10oct26 08:51 M5_chmd☺     Test
-10oct26 08:51 T-1000☺      @[M5_chmd💼] da4a,a840 (2 hops) | SNR: 7.0 dB | RSSI: -78 dBm 7.5km (1 segs)
+﻿18oct26 07:49 M5_chmd☺     W
+18oct26 07:49 lexv-mesh-bo 🌡️ Вс18:☁️,9..19C,ос.10% | Пн19:☁️,4..15C,ос.0% | Вт20:☁️,0..10C,ос.0%
+3 Заход:Sun 18 21:45
+                           Полнол.:Oct 26 07:11 Новол.:Nov 09 10:02
+17oct26 23:01 M5_chmd☺     Грибы
+   @[M5_chmd💼] 🏓Pong!
+17oct26 22:59 M5_chmd☺     Path
+17oct26 22:59 T-1000☺      A840: MQTT Observer 67schoolN
+17oct26 22:59 M5_chmd☺     Погода
+17oct26 22:59 T-1000☺      Пенза:  ☁️Pasmurno 13°C
+                           BETEP ↖️ЮВ 2m/s
+                           46%RH 💧2°C 👁️32.0km 📊754mm
+                           Segodnya: H:19°C L:11°C
+ (2 hops) | SNR: 7.0 dB | RSSI: -78 dBm 7.5km (1 segs)
 10oct26 08:53 Evgeny58_chm Multitest
 10oct26 08:53 T-1000☺      @[Evgeny58_chmd💼] found 1 unique path(s):
                            6af2,da4a,a840
