@@ -1,51 +1,4 @@
-﻿18oct26 07:27 Weather_Bot  ⚠️ Репитер CHB-PVOST-05 пропал: молчит 10ч 1м (нет адвертов).
-ather_Bot  Путь: f848 → e11c → dc06 (3 прыжка)
-   !ping
-18oct26 00:07 Weather_Bot  @[BRBS] pong · 00:07 · ↯ 1 прыжок
-18oct26 00:07 Weather_Bot  Путь: dc (1 прыжок)
-уть: 5eba → 41d7 → dc06 (3 прыжка)
-�.
-10oct26 12:00 Weather_Bot  (1/3) Погода — Чебоксары
-                           +13.4°C, небольшой дождь
-                           Ощущается как +11.2°C
-                           на 3°C
-10oct26 12:00 Weather_Bot  (2/3) холоднее, чем вчера
-                           воздух: AQI 25 (хорошо), PM2.5 4, PM10 4
-                           УФ 1 (низкий)
-                           Вода ≈ +8.2°C
-10oct26 12:00 Weather_Bot  (3/3) влажность 83% · давление 754.1 мм рт.ст.
-                           ветер 4.5 м/с ЮЗ (порывы 12) · осадки 0.1 мм
-10oct26 16:46 Fuze_Home    !ping
-10oct26 16:46 Weather_Bot  @[Fuze_Home] pong · 16:46 · ↯ 3 прыжка
-10oct26 16:46 Weather_Bot  Путь: 16a1 → 41d7 → dc06 (3 прыжка)
-10oct26 16:46 Fuze_Home    Ну вот
-10oct26 16:46 HRT-MC01P    Очнулась
-10oct26 16:47 HRT-MC01P    "Вы пробовали выключить и включить?"©
-10oct26 16:47 HRT-MC01P    Классика IT😁
-10oct26 16:50 Fuze_Home    @[HRT-MC01P] нужен watchdog 🤔
-10oct26 16:51 Weather_Bot  🔧 Тест (из Telegram)
-10oct26 17:04 Weather_Bot  ⚠️ Репитер CHB-NUR-44 пропал: молчит 10ч 0м (нет адвертов).
-10oct26 17:07 Fuze_Home    @[Weather_Bot] ща услышишь
-10oct26 17:19 Weather_Bot  ✅ Репитер CHB-NUR-44 снова на связи.
-10oct26 19:00 Weather_Bot  (1/2) Погода — Чебоксары
-                           Завтра · +6…+14°C · пасмурно
-                           утро +9°C пасмурно 3% · вечер
-10oct26 19:00 Weather_Bot  (2/2) +9°C в основном ясно
-10oct26 21:27 Weather_Bot  (1/2) 🌌 Геомагнитная буря: Kp=7 (G3 (сильная)). Возможны сбои КВ-радиосвязи и GPS,
-10oct26 21:27 Weather_Bot  (2/2) полярное сияние ниже обычного.
-10oct26 22:34 Fuze_Home    /ping
-10oct26 22:34 Weather_Bot  @[Fuze_Home] pong · 22:34 · ↯ 2 прыжка
-11oct26 00:04 Weather_Bot  ⚠️ Высокая вероятность осадков сегодня в Чебоксары: 93%.
-11oct26 00:28 Weather_Bot  (1/2) 🌌 Геомагнитная буря: Kp=7 (G3 (сильная)). Возможны сбои КВ-радиосвязи и GPS,
-11oct26 00:28 Weather_Bot  (2/2) полярное сияние ниже обычного.
-11oct26 00:38 Fuze_Home    /космос
-11oct26 00:38 Weather_Bot  (1/2) @[Fuze_Home] ☀️ Космопогода: Kp=7 (G2 (умеренная)), F10.7=126, солн.ветер 763 км/с.
-11oct26 00:38 Weather_Bot  (2/2) Возможны помехи КВ-радиосвязи/GPS и полярное сияние в средних широтах.
-11oct26 00:41 Weather_Bot  🔧 Тест (из Telegram)
-11oct26 00:58 Weather_Bot  (1/2) 🌌 Геомагнитная буря: Kp=7 (G2 (умеренная)). Возможны сбои КВ-радиосвязи и GPS,
-11oct26 00:58 Weather_Bot  (2/2) полярное сияние ниже обычного.
-11oct26 01:49 Weather_Bot  ✅ Репитер CHB-SZR-03 снова на связи.
-11oct26 03:28 Weather_Bot  (1/2) 🌌 Геомагнитная буря: Kp=5 (G1 (слабая буря)). Возможны сбои КВ-радиосвязи и GPS,
+﻿11oct26 03:28 Weather_Bot  (1/2) 🌌 Геомагнитная буря: Kp=5 (G1 (слабая буря)). Возможны сбои КВ-радиосвязи и GPS,
 11oct26 03:28 Weather_Bot  (2/2) полярное сияние ниже обычного.
 11oct26 06:04 Weather_Bot  ✅ Репитер CHEB-SZR-01 снова на связи.
 11oct26 11:49 Weather_Bot  ⚠️ Репитер CHB-SZR-03 пропал: молчит 10ч 5м (нет адвертов).
@@ -563,3 +516,28 @@ ather_Bot  Путь: f848 → e11c → dc06 (3 прыжка)
 17oct26 19:00 Weather_Bot  (2/2) · вечер +12°C пасмурно 3%
 17oct26 21:26 EvgenRay     !ping
 17oct26 21:26 Weather_Bot  @[EvgenRay] pong · 21:26 · ↯ 3 прыжка
+17oct26 22:32 BRBS         !ping
+17oct26 22:32 Weather_Bot  @[BRBS] pong · 22:32 · ↯ 3 прыжка
+17oct26 23:24 Fuze_Home    /ping
+17oct26 23:24 Weather_Bot  @[Fuze_Home] pong · 23:24 · ↯ 3 прыжка
+17oct26 23:24 Weather_Bot  Путь: 068b → 41d7 → dc06 (3 прыжка)
+17oct26 23:24 EvgenRay     !ping
+17oct26 23:25 Weather_Bot  @[EvgenRay] pong · 23:24 · ↯ 3 прыжка
+17oct26 23:25 Weather_Bot  Путь: 5eba → 41d7 → dc06 (3 прыжка)
+18oct26 00:05 BRBS         !ping
+18oct26 00:05 Weather_Bot  @[BRBS] pong · 00:05 · ↯ 1 прыжок
+18oct26 00:05 Weather_Bot  Путь: dc (1 прыжок)
+18oct26 00:07 BRBS         !ping
+18oct26 00:07 Weather_Bot  @[BRBS] pong · 00:07 · ↯ 1 прыжок
+18oct26 00:07 Weather_Bot  Путь: dc (1 прыжок)
+18oct26 00:12 BRBS         !ping
+18oct26 00:12 Weather_Bot  @[BRBS] pong · 00:12 · ↯ 3 прыжка
+18oct26 00:12 Weather_Bot  Путь: 5f → 41 → dc (3 прыжка)
+18oct26 01:17 Verdandi     !ping
+18oct26 01:17 Weather_Bot  @[Verdandi] pong · 01:17 · ↯ 3 прыжка
+18oct26 01:17 Weather_Bot  Путь: f848 → e11c → dc06 (3 прыжка)
+18oct26 01:27 Weather_Bot  ✅ Репитер Verdandi снова на связи.
+18oct26 04:12 Weather_Bot  ⚠️ Репитер KZN-VAH-004 пропал: молчит 10ч 0м (нет адвертов).
+18oct26 07:27 Weather_Bot  ⚠️ Репитер CHB-PVOST-05 пропал: молчит 10ч 1м (нет адвертов).
+18oct26 09:34 HRT-MC01P    !ping
+18oct26 09:39 HRT-MC01P    !w

@@ -1,64 +1,4 @@
-﻿18oct26 09:28 1c4c Mobile  Ping
-18oct26 09:28 ☺InfoBot     Hey, 1c4c Mobile!
-                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
-18oct26 09:29 ULV-alx32-bo Pong!
-м | 4.6s
-�!
-                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
-18oct26 00:35 Dr.Elusive ☺ ping
-18oct26 00:36 METAR Bot    Понг @[Dr.Elusive 🛡] | c3db,dc64(SMR_Зeлёнaя),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 2.25 дБ | RSSI: -102 дБм | 6.5s
-
-                           FDFD: TLT R16U
-                           1717: ULV_VT_PURPLE
-                           8751: ULV_SV_Federacii
-                           ...
-Hello @[Tanch🦋]!
-                           2 hops to SMR_Maslennikov (0425, b92f)
-10oct26 11:15 tltOG☺       ping
-10oct26 11:15 DA ☺ Home Br Hello @[tltOG📻]!
-                           4 hops to SMR_Maslennikov (58b2, a6b4, 2b63, acca)
-10oct26 11:19 Pumba        Ping
-10oct26 11:19 DA ☺ Home Br Hello @[Pumba]!
-                           3 hops to SMR_Maslennikov (2a53, 474d, acca)
-10oct26 11:20 ☺InfoBot     Hey, Pumba!
-                           Pong with 4 hops: Ermakovo, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
-10oct26 12:00 Backpack☺_3  Ping
-10oct26 12:00 DA ☺ Home Br Hello @[Backpack🎒_3]!
-                           1 hops to SMR_Maslennikov (d8be)
-10oct26 12:15 ☺InfoBot     Hey, tltOG📻!
-                           Pong direct
-10oct26 12:46 hdhog-t1e    Ping
-10oct26 12:46 DA ☺ Home Br Hello @[hdhog-t1e]!
-                           2 hops to SMR_Maslennikov (0425, f751)
-10oct26 13:07 Gavinda      Ping
-10oct26 13:07 ☺InfoBot     Hey, Gavinda!
-                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
-10oct26 13:08 Smrsk        Ping
-10oct26 13:44 GC4567       Ping
-10oct26 15:18 Sanchez☺     Ping
-10oct26 15:18 DA ☺ Home Br Hello @[Sanchez😎]!
-                           2 hops to SMR_Maslennikov (a047, acca)
-10oct26 15:32 SMR_DTR      Ping
-10oct26 15:34 SMR_DTR      Ping
-10oct26 15:44 Toster ☺     Ping
-10oct26 15:48 Guardbot     Ping
-10oct26 15:48 ☺InfoBot     Hey, Guardbot!
-                           Pong with 1 hop: TLT RPT Dim 1
-10oct26 15:49 SMR_DTR      Ping
-10oct26 17:28 Guardbot     Ping
-10oct26 17:53 ☺InfoBot     Hey, TLT_RWM_3!
-                           Pong with 2 hops: PERSIK_Podstepki, TLT RM62 Test
-10oct26 19:40 ☺InfoBot     Hey, Guardbot!
-                           Pong with 2 hops: TLT RPT Dim 1, TLT R2 MQTT
-10oct26 19:40 METAR Bot    Понг @[Guardbot] | 2b63(TLT RPT Dim) (1 хоп) | SNR: 0.5 дБ | RSSI: -106 дБм | 2.5s
-10oct26 21:22 SMR_DTR      Ping
-10oct26 21:24 SMR_DTR      Ping
-10oct26 21:27 SMR_DTR      Ping
-10oct26 23:11 Pumba        Ping
-11oct26 00:28 SМR-3i5 ☺    Ping
-11oct26 00:38 モニカ          Ping
-11oct26 01:56 SMR_DTR      Ping
-11oct26 06:01 evs          Ping
+﻿11oct26 06:01 evs          Ping
 11oct26 06:01 DA ☺ Home Br Hello @[evs]!
                            5 hops to SMR_Maslennikov (6e8d, 2ffc, 8400, 474d, acca)
 11oct26 06:14 Sanchez☺     Ping
@@ -508,3 +448,48 @@ Hello @[Tanch🦋]!
                            A6B4: TLT R6a
 17oct26 22:27 SMR_DTR      Ping
 17oct26 22:27 METAR Bot    Понг @[SMR_DTR] | d8be(SMR_Дыбeнкo),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.0 дБ | RSSI: -96 дБм | 4.7s
+17oct26 22:53 ULV_Orange   Help
+17oct26 22:53 ULV-alx32-bo Bot Help: ping, path, test, wx, advert, airplanes, alert, announcements, aqi, aurora, catfact, channelpause, channels | More: 'help <command>'
+17oct26 22:54 ULV_Orange   Wx
+17oct26 22:54 ULV-alx32-bo Error fetching weather data from Open-Meteo
+17oct26 22:54 ULV_Orange   Help wx
+17oct26 23:04 ULV_Orange   Help aqi
+17oct26 23:05 ULV-alx32-bo Help for 'aqi':
+                           Usage: aqi <city|neighborhood|city country|lat,lon|help> - Get AQI for city/neighborhood in RU, intl cities, coordinates, or help
+17oct26 23:11 Dr.Elusive ☺ Ping
+17oct26 23:11 ☺InfoBot     Hey, Dr.Elusive 🛡!
+                           Pong with 5 hops: c3db, N-Demo Repeater, SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+17oct26 23:12 ULV-alx32-bo Pong!
+17oct26 23:12 METAR Bot    Понг @[Dr.Elusive 🛡] | c3db,5b6a(N-Demo Repea),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 11.25 дБ | RSSI: -96 дБм | 5.5s
+17oct26 23:39 ULV_NT_Skif_ Ping
+17oct26 23:40 ☺InfoBot     Hey, ULV_NT_Skif_2!
+                           Pong with 2 hops: ULV_VT_PURPLE, TLT RM62 Test
+17oct26 23:40 METAR Bot    Понг @[ULV_NT_Skif_2] | 1717(ULV_VT_PURPL),feda(TLT R16_2) (2 хопа) | SNR: 6.0 дБ | RSSI: -106 дБм | 2.1s
+18oct26 00:13 ULV_Orange   P
+18oct26 00:13 ULV-alx32-bo 2482: Unknown
+                           D488: ULV_NG_ewowko_promzona
+                           1717: ULV_VT_PURPLE
+                           3537: ULV_KND_Earendel
+                           2DE8: ULV-alx32-ft-rep
+18oct26 00:19 EVL ☺ 1      P
+18oct26 00:20 ULV-alx32-bo E28D: SMR	® EVL-R1
+                           D8BE: SMR_Дыбeнкo П.E.
+                           ACCA: SMR_868S
+                           2B63: Unknown
+                           FDFD: TLT R16U
+                           1717: ULV_VT_PURPLE
+                           8751: ULV_SV_Federacii
+                           ...
+18oct26 00:33 Dr.Elusive ☺ ping
+18oct26 00:33 METAR Bot    Понг @[Dr.Elusive 🛡] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 2.0 дБ | RSSI: -103 дБм | 3.3s
+18oct26 00:34 ☺InfoBot     Hey, Dr.Elusive 🛡!
+                           Pong with 3 hops: SMR_868S, TLT RPT Dim 1, TLT R6 MQTT
+18oct26 00:35 Dr.Elusive ☺ ping
+18oct26 00:36 METAR Bot    Понг @[Dr.Elusive 🛡] | c3db,dc64(SMR_Зeлёнaя),acca(SMR_868S),2b63(TLT RPT Dim) (4 хопа) | SNR: 2.25 дБ | RSSI: -102 дБм | 6.5s
+18oct26 09:19 ULV_Orange   Ping
+18oct26 09:20 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),d74b(ULV_NG_TULEN),fdfd(TLT R16U) (3 хопа) | SNR: 12.0 дБ | RSSI: -95 дБм | 4.6s
+18oct26 09:28 1c4c Mobile  Ping
+18oct26 09:28 ☺InfoBot     Hey, 1c4c Mobile!
+                           Pong with 2 hops: SMR_868S, TLT RPT Dim 1
+18oct26 09:29 ULV-alx32-bo Pong!
+18oct26 10:39 Aneto73      Пинг

@@ -1,82 +1,4 @@
-﻿18oct26 00:51 @kulibin     /ping
-18oct26 00:51 DrC4 | CEN | h:2,p:024d,5c60
-18oct26 00:51 DrC0 | PRO | h:2,p:024d,4a81
-,82bb,d766
-66
-10oct26 08:19 DrC0 | PRO | h:2,p:a8e3,dead
-10oct26 09:06 Tr1glav_home hops:direct
-10oct26 09:14 User71☺      /ping
-10oct26 09:14 Tr1glav_home hops:2, route:098b →829f
-10oct26 09:14 DrC4 | CEN | h:3,p:098b,eafd,d766
-10oct26 09:43 Seerge       /ping
-10oct26 09:43 Tr1glav_home hops:3, route:dead →b3e6 →829f
-10oct26 09:43 DrC4 | CEN | h:1,p:dead
-10oct26 10:39 Alex706☺     /ping
-10oct26 10:40 DrC4 | CEN | h:2,p:a8e3,5c60
-10oct26 10:45 Tr1glav_deck /ping
-10oct26 10:45 DrC4 | CEN | h:2,p:829f,4d9d
-10oct26 11:00 Tr1glav_deck /ping
-10oct26 11:00 DrC4 | CEN | h:4,p:4d9d,48ab,5c60,5989
-10oct26 11:00 Tr1glav_home hops:direct
-10oct26 11:00 DrC4 | CEN | h:3,p:829f,4d9d,5c60
-10oct26 11:16 Tr1glav_deck /ping
-10oct26 11:16 Tr1glav_home hops:direct
-10oct26 11:16 DrC4 | CEN | h:3,p:829f,b3e6,d766
-10oct26 11:16 DrC0 | PRO | h:3,p:829f,b3e6,dead
-10oct26 11:17 Tr1glav_deck /ping
-10oct26 11:17 DrC4 | CEN | h:4,p:829f,e7ec,40e4,4d9d
-10oct26 11:24 Tr1glav_deck /ping
-10oct26 11:24 DrC4 | CEN | h:3,p:829f,ecb4,d766
-10oct26 11:34 Tr1glav_deck /ping
-10oct26 11:40 Tr1glav_deck /ping
-10oct26 11:41 Tr1glav_home hops:direct
-10oct26 13:37 Tr1glav_deck /ping
-10oct26 13:37 Tr1glav_home hops:direct
-10oct26 13:37 DrC4 | CEN | h:2,p:829f,ecb4
-10oct26 14:07 Proector_mob hops:direct
-10oct26 14:08 Proector_mob /ping
-10oct26 14:08 Tr1glav_home hops:2, route:fa →82
-10oct26 14:08 DrC4 | CEN | h:3,p:fa,0a,4d
-10oct26 14:25 @kulibin     /ping
-10oct26 14:25 DrC4 | CEN | h:1,p:4d9d
-10oct26 15:09 @kulibin     /ping
-10oct26 15:09 DrC4 | CEN | h:1,p:1984
-10oct26 15:10 DrC0 | PRO | h:2,p:1984,33cb
-10oct26 15:25 @kulibin     /ping
-10oct26 15:25 DrC4 | CEN | h:1,p:4d9d
-10oct26 15:25 DrC0 | PRO | h:3,p:098b,dead,14f2
-10oct26 16:04 @kulibin     /ping
-10oct26 16:04 DrC4 | CEN | h:2,p:098b,dd0a
-10oct26 16:04 Tr1glav_home hops:3, route:098b →4d9d →829f
-10oct26 16:04 DrC0 | PRO | h:2,p:098b,dead
-10oct26 16:19 @kulibin     /ping
-10oct26 16:20 DrC4 | CEN | direct
-10oct26 16:20 Tr1glav_home hops:3, route:5c60 →b3e6 →829f
-10oct26 16:43 9M           Что то в последнее время стал чаще свою дугу наблюдать в пингах
-10oct26 17:04 Grayfox☺     /ping
-10oct26 17:04 DrC4 | CEN | direct
-10oct26 17:04 DrC0 | PRO | h:1,p:d766
-10oct26 20:02 @kulibin     /ping
-10oct26 20:02 DrC4 | CEN | h:1,p:4231
-10oct26 20:03 @kulibin     /ping
-10oct26 20:04 DrC4 | CEN | h:1,p:ba8f
-10oct26 21:22 User71☺      /ping
-10oct26 21:22 DrC4 | CEN | h:1,p:098b
-10oct26 21:23 Tr1glav_home hops:2, route:098b →829f
-10oct26 22:13 Kyngyr       /ping
-10oct26 22:13 DrC4 | CEN | h:3,p:4d9d,48ab,5c60
-10oct26 22:13 Tr1glav_home hops:1, route:4d9d
-10oct26 22:14 DrC0 | PRO | h:3,p:4d9d,1984,14f2
-10oct26 22:35 Mobila       /ping
-10oct26 22:35 Tr1glav_home hops:3, route:f00d →4d9d →829f
-10oct26 22:35 DrC4 | CEN | h:3,p:f00d,eafd,4a81
-11oct26 01:47 @kulibin     /ping
-11oct26 01:48 DrC4 | CEN | direct
-11oct26 01:48 Tr1glav_home hops:3, route:4a81 →ecb4 →829f
-11oct26 02:38 @kulibin     /ping
-11oct26 02:39 Tr1glav_home hops:4, route:ba8f →1984 →4d9d →829f
-11oct26 02:39 DrC4 | CEN | direct
-11oct26 09:19 User71☺      /ping
+﻿11oct26 09:19 User71☺      /ping
 11oct26 09:19 DrC4 | CEN | h:1,p:098b
 11oct26 09:19 Tr1glav_home hops:2, route:098b →829f
 11oct26 09:19 DrC0 | PRO | h:2,p:098b,33cb
@@ -291,3 +213,18 @@
 17oct26 21:16 DrC4 | CEN | h:2,p:c100,5c60
 17oct26 21:58 h3x☺0m3g4    /ping
 17oct26 21:58 DrC4 | CEN | h:3,p:40e4,eafd,d766
+17oct26 22:39 User71☺      /ping
+17oct26 22:40 DrC4 | CEN | h:2,p:1984,ba8f
+17oct26 22:40 DrC0 | PRO | h:4,p:1984,ba8f,82bb,d766
+18oct26 00:51 @kulibin     /ping
+18oct26 00:51 DrC4 | CEN | h:2,p:024d,5c60
+18oct26 00:51 DrC0 | PRO | h:2,p:024d,4a81
+18oct26 09:10 User71☺      /ping
+18oct26 09:10 DrC4 | CEN | h:1,p:098b
+18oct26 09:10 DrC0 | PRO | h:2,p:098b,d766
+18oct26 09:18 User71☺      /ping
+18oct26 09:19 DrC4 | CEN | h:1,p:098b
+18oct26 09:19 DrC0 | PRO | h:2,p:098b,4a81
+18oct26 09:49 @kulibin     /ping
+18oct26 09:49 DrC4 | CEN | direct
+18oct26 09:49 DrC0 | PRO | h:2,p:024d,4a81

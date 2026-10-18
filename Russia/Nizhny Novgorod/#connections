@@ -1,51 +1,4 @@
-﻿17oct26 22:05 ☺kurwa       mr
-17oct26 22:05 ☺kurwa       mt
-17oct26 22:05 NNO-ELN-BOT  @[🦫kurwa] found 1 unique path(s):
-                           a9c4
-17oct26 22:05 DeadFeedBot  @[🦫kurwa] found 3 unique path(s):
-                           [9182,a6f8]
-                           [d1a7,c9cd]
-                           [e59b]
-17oct26 22:05 ☺kurwa       P
-6 10:31 DZR/Bot-MM   Pong! @[rabbitr00ny] 5703,d9c8,e629,8532 (4 hops) | SNR: 12.5 dB | RSSI: -22 dBm
-10oct26 10:31 NNO-ELN-BOT  @[rabbitr00ny] | 5703,d9c8,0c11,e59b,a9c4 | 5703,d9c8,0c11,e59b,a9c4 (5 hops) | SNR: 13.5 dB | RSSI: -51 dBm
-10oct26 10:31 DeadFeedBot  @[rabbitr00ny] Pong! | 5703,d9c8,9182,a6f8 (4 hops) | SNR: 12.0 dB | RSSI: -21 dBm
-10oct26 15:23 ☺AkzNN_T096  mt
-10oct26 15:23 NNO-ELN-BOT  @[🦥AkzNN_T096] found 1 unique path(s):
-                           9182,d9c8,a9c4
-10oct26 15:23 DZR/Bot-MM   @[🦥AkzNN_T096] found 1 unique path(s):
-                           9182,d9c8,e629,8532
-10oct26 15:23 DeadFeedBot  @[🦥AkzNN_T096] found 3 unique path(s):
-                           9182 ┐
-                           ├ d9c8,a9c4
-                           └ e59b
-10oct26 15:25 ☺AkzNN_T096  mt
-10oct26 15:25 NNO-ELN-BOT  @[🦥AkzNN_T096] found 1 unique path(s):
-                           9182,d1a7,a9c4
-10oct26 15:25 DZR/Bot-MM   @[🦥AkzNN_T096] found 2 unique path(s):
-                           09a7,d9c8 ┐
-                           ├ beef
-                           └ beef,8532
-10oct26 15:25 DeadFeedBot  @[🦥AkzNN_T096] found 2 unique path(s):
-                           [09a7,e59b]
-                           [9182]
-10oct26 15:27 ☺AkzNN_T096  roll
-10oct26 15:27 NNO-ELN-BOT  🎲 Roll 1-100: 85
-10oct26 15:27 NNO-ELN-BOT  🎲 Roll 1-100: 100
-10oct26 15:27 DZR/Bot-MM   Бросок 1-100: 18
-10oct26 15:34 ☺AkzNN_T096  joke
-10oct26 15:34 NNO-ELN-BOT  🎭 Why did the ghost go inside the bar?
-                           For the boos.
-10oct26 15:34 DZR/Bot-MM   🎭 Why did the ghost go inside the bar?
-                           For the boos.
-10oct26 15:34 DZR/Bot-MM   🎭 What's it like to be kissed by a vampire?
-                           It's a pain in the neck.
-10oct26 17:06 MM/DZ        Test
-10oct26 17:13 catsquatch☺  Ping
-10oct26 17:14 NNO-ELN-BOT  @[catsquatch😼] | edaa,13be,9182,a9c4 | edaa,13be,9182,a9c4 (4 hops) | SNR: 10.75 dB | RSSI: -60 dBm
-10oct26 17:14 DeadFeedBot  @[catsquatch😼] Pong! | edaa,13be,9182 (3 hops) | SNR: -6.0 dB | RSSI: -107 dBm
-10oct26 17:14 DZR/Bot-MM   Pong! @[catsquatch😼] edaa,ce77,d9c8,beef (4 hops) | SNR: -3.75 dB | RSSI: -112 dBm
-11oct26 09:03 ☺AkzNN_T096  mt
+﻿11oct26 09:03 ☺AkzNN_T096  mt
 11oct26 09:03 DeadFeedBot  @[🦥AkzNN_T096] found 5 unique path(s):
                            09a7 ┐
                            ├ 0c11
@@ -346,3 +299,18 @@
                            9182,d1a7,a9c4
 17oct26 21:39 DZR/Bot-MM   @[🦥AkzNN_T096] found 1 unique path(s):
                            9182,0651,beef,8532
+17oct26 22:05 ☺kurwa       mr
+17oct26 22:05 ☺kurwa       mt
+17oct26 22:05 NNO-ELN-BOT  @[🦫kurwa] found 1 unique path(s):
+                           a9c4
+17oct26 22:05 DeadFeedBot  @[🦫kurwa] found 3 unique path(s):
+                           [9182,a6f8]
+                           [d1a7,c9cd]
+                           [e59b]
+17oct26 22:05 ☺kurwa       P
+18oct26 09:38 MM/DZ        Test
+18oct26 09:38 NNO-ELN-BOT  ack @[MM/DZ] | f62b,beef,9182,a9c4 (4 hops) | SNR: 11.25 dB | RSSI: -52 dBm | Received at: 09:38:24
+18oct26 09:38 DeadFeedBot  @[{sender}] {alrm}
+18oct26 09:39 MM/DZ        Ping
+18oct26 09:39 NNO-ELN-BOT  @[MM/DZ] | f62b,beef,ba98,a9c4 | f62b,beef,ba98,a9c4 (4 hops) | SNR: 13.25 dB | RSSI: -50 dBm
+18oct26 09:39 DeadFeedBot  @[MM/DZ] Pong! | f62b,beef,09a7,e59b (4 hops) | SNR: Unknown dB | RSSI: -101 dBm

@@ -1,13 +1,39 @@
-﻿18oct26 08:01 Nur          !advent
-18oct26 08:01 73lab-bot    Не знаю такую команду. Напиши !help
-18oct26 08:01 Nur          !advert
-18oct26 08:01 73lab-bot    Advert 73lab-bot отправлен.
-                           Повтор !advert — не чаще раза в 15 мин.
-18oct26 08:02 Nur          !rules
-18oct26 08:02 73lab-bot    Уважай других участников, пиши коротко, не флуди.
-                           Подробнее:
-18oct26 08:02 73lab-bot    https://t.me/Meshcore_KZN/3
-ions:
+﻿16oct26 16:59 2Qay         !ping
+16oct26 16:59 73lab-bot    ✅ Пинг принят
+                           лучший путь: 3 хопа
+                           маршрутов: 2
+                           маршрут: 2 байта
+16oct26 20:09 UF4S         !ping
+16oct26 20:09 73lab-bot    ✅ Пинг принят
+                           лучший путь: 6 хопов
+                           маршрутов: 2
+                           маршрут: 2 байта
+16oct26 20:15 UF4S         !ping
+16oct26 20:15 73lab-bot    ✅ Пинг принят
+                           лучший путь: 5 хопов
+                           маршрутов: 2
+                           маршрут: 2 байта
+16oct26 20:15 73lab-bot    Пути:
+                           374f → dd26 → acdc → 9ee7 → da26 (5 хопов)
+                           374f → dd26 → acdc → 9ee7 → da26 → db26 (6 хопов)
+16oct26 20:16 UF4S         Ping
+16oct26 20:16 73lab-bot    ✅ Пинг принят
+                           лучший путь: 5 хопов
+                           маршрутов: 2
+                           маршрут: 2 байта
+16oct26 20:16 73lab-bot    Пути:
+                           374f → dd26 → d426 → 99cf → da26 (5 хопов)
+                           374f → dd26 → d426 → 99cf → da26 → db26 (6 хопов)
+18oct26 07:33 Nur          !help
+18oct26 07:33 73lab-bot    Команды:
+                           !info — что это
+                           !rules — правила
+                           !channels — каналы сети
+18oct26 07:33 73lab-bot    !node <имя|Prefix> — кратко об узле
+                           !node+ <имя|Prefix> — подробно об узле
+18oct26 07:33 73lab-bot    !advert — advert бота
+                           !links — полезные ссылки
+18oct26 07:33 73lab-bot    #connections:
                            ping или !ping — проверка связи и маршрута
 18oct26 07:33 73lab-bot    В личке можно без !: node <Prefix>, node+ <Prefix>, help
 18oct26 07:34 Nur          !info
@@ -34,3 +60,13 @@ ions:
 18oct26 07:36 Nur          !links 4
 18oct26 07:36 73lab-bot    https://meshcoretel.ru/ru/KZN/
 18oct26 07:39 Nur          !links 2
+18oct26 07:40 73lab-bot    https://docs.google.com/spreadsheets/d/1i1NBppFNkI6PQwT3iuBjLAzYxPCgDkAi-_hzMvcXcDg/edit
+18oct26 08:01 Nur          !advent
+18oct26 08:01 73lab-bot    Не знаю такую команду. Напиши !help
+18oct26 08:01 Nur          !advert
+18oct26 08:01 73lab-bot    Advert 73lab-bot отправлен.
+                           Повтор !advert — не чаще раза в 15 мин.
+18oct26 08:02 Nur          !rules
+18oct26 08:02 73lab-bot    Уважай других участников, пиши коротко, не флуди.
+                           Подробнее:
+18oct26 08:02 73lab-bot    https://t.me/Meshcore_KZN/3

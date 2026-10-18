@@ -1,155 +1,4 @@
-﻿18oct26 11:18 Aida-PRG     Ja furt nic... Pred treti jsem cistil poblitej telefon a ted uz bych chtel zabrat. Uvidime jestli se povede, nebo pujdu spat az po snidani.
- jo to naše pozdní bdění..
-oct26 05:20 MARDO_JBC    Dobrou noc
-Lie1 ☺  @[atlas] vůbec nic nového. Jen nějaké volby a pak už budou Vánoce.
-10oct26 17:10 Alkel Tr ☺   @[atlas] region cs je nový. Ještě skoro nikde není, ale eventuálně si přes něj budeme moct psát se slovákama
-10oct26 17:11 Aida-PRG     @[Petr-Lie1 📟] i to je dost předvídatelné... Vyhrajou gauneři a Ježíšek děti obdaruje v souladu se socio eko situací rodičů
-10oct26 17:25 011111000101 @[Alkel Tr 🍺] no a nemelo by to byt prace zruseno to cs? Prave s toho duvodu?
-10oct26 17:32 Alkel Tr ☺   @[011111000101] nechápu otázku
-10oct26 17:32 Boky.PV      zdarec ve spolek
-10oct26 17:35 Kryzspin     @[Boky.PV] ahoj!
-10oct26 17:41 berk76       @[011111000101] jako že si se Slovenskem budeme povídat zrušeným regionem?
-10oct26 17:55 CZE_VeX☺     Dobré dopoledne z mlžného severu 👋
-10oct26 17:56 Kankys-PRG13 @[CZE_VeX⚜️] 👋
-10oct26 18:15 CZE_VeX☺     Planuji s kamarádem z polska bridge CZ-EU scope #eu, lze v DM nastavit scope, nebo se musí nastavit celé rádio výchozí #eu?
-10oct26 18:24 011111000101 To byl vtip jakoze si “nechceme” povidat se slovakama 😂
-10oct26 19:21 berk76       @[CZE_VeX⚜️] To by mě taky zajímalo.
-10oct26 19:40 Tady85-srv   Ne, v DM nelze nastavit scope. Scope je jen pro flood
-10oct26 19:41 Alkel Brostl @[Tady85-srv] ale flood traffic se v DM používá docela často - dáválo by smysl nastavit per-contact scope
-10oct26 19:43 Alkel Brostl Ono to teda asi nepůjde snadno přidat, protože on-device kontakt má pevnou délku a musel by se rozšířit pro scope hash
-10oct26 19:45 Alkel Brostl Proto je staticky předkompivoaný max počet kontaktů - každý slot má rezervovanou celou délku bez ohledu na využití
-10oct26 19:46 Alkel Brostl Dovedu si představit, že nějaká alt. implementace, především na PC s KISS fw by to implementovat mohla.
-10oct26 20:02 CZE_VeX☺     Nevadí, vytvoříme si privat ch. s #eu scope, akorát je blbý že člověk nevidí jestli zpráva doputovala do cíle
-10oct26 20:05 Alkel Brostl Myslím, že protlačit eu scope už tu bude politicky obtížnější, bo to má potenciál z nás udělat tranzitní území
-10oct26 20:06 Kankys-PRG13 @[CZE_VeX⚜️] je to jak holub taky nevis jestli po ceste nechcipl
-10oct26 20:07 Alkel Brostl @[CZE_VeX⚜️] Myslím, že byste měli lepší pro tenhle usecase zatím zkusit https://github.com/recrof/meshcore-forwarder
-10oct26 20:08 Alkel Brostl Jestli je teda někde na hranicích místo, kde jde unapájet raspíčko
-10oct26 20:08 CZE_VeX☺     @[Alkel Brostl 🍺] mrknu na to, dik
-10oct26 20:09 Alkel Brostl To fungovalo pro kanál #cs - prostě to forwardne bez ohledu na scope předdefinované kanály
-10oct26 20:10 CZE_VeX☺     I tak počítám že #eu bude nastavené na mých rp a pár PL v příhraničí, žádnej velkej transit
-10oct26 20:22 Tady85-srv   Podle mě scope na DM moc smysl nemá. Protože DM je dělané na komunikaci človek-člověk.
-10oct26 20:23 Tady85-srv   Flood se používá jen na nalezení cesty, dal už to jede dle Path. Pokud by i DM bylo scoped tak hrozí že si nepokecas.
-10oct26 20:24 Alkel Brostl DM dělá potenciálně flood každou chvíli, když nedostaneš ack a tvůj nod se snaží najít novou cestu
-10oct26 20:24 Alkel Brostl A není to jen pro DM - když se chci hrabat v repeaterech po Praze, nemusel bych s hledáním cesty floodovat celou ČR
-10oct26 20:25 Alkel Brostl A pak jsou právě ty superregiony jako cs - když nenastavím forwardovaný region, neprojde to přes hranice
-10oct26 20:27 CZE_VeX☺     Zkoušel jsem nastavit v zařízení def.reg.sco. #EU a pak to DM posílá skrze bridge úplně bez problémů
-10oct26 20:27 Alkel Brostl Pro většinu DMs to smysl nedává, zvlášť ty mobilní, ale mít *možnost* to *pro některé* nastavit by mi smysl dávalo
-10oct26 22:40 ☺ Marcel kie https://meshcore-analyzer.eu/#communities
-10oct26 23:04 pavel        tak pozdravuju s novym firmwarem
-10oct26 23:05 Tady85-srv   Tak gratulujeme 😉
-10oct26 23:06 pavel        dekuji. jeste to bude chtit upravy ale hw chodi
-10oct26 23:53 NONAME       testuji novy repeater LIBCICE-slysi mne nekdo?dekuji
-10oct26 23:53 agoranode    funguje ti to, @[NONAME], ale na testovani pouzivame kanal #test 😉
-                           dik✌️
-                           Kreditovy zustatek: 0
-10oct26 23:55 Ondrys Usti  @[NONAME] slysim
-10oct26 23:58 ZYNAPS       dekuji!
-11oct26 00:54 Martin OK4IM @[NONAME] Četl jsem Liblice a chtěl upozornit, že ti ho brzo zbourají...
-11oct26 01:12 CZ1ZXS       Dobre odpoledne, nedoporucil by nekdo nejaky pigtail a antenu pro t-deck dostupne v CR? za dva tydny jasne vidim, jak je to s interni antenou hluche...
-11oct26 01:15 4EE81759     @[CZ1ZXS] mrkni na www.michaluvbrloh.cz nebo eu. Tam nekde najdes, jak to predelat i co tam dat. 😉
-11oct26 01:17 CZ1ZXS       @[4EE81759] dik, kouknu na to.
-11oct26 02:12 CZE_VeX☺     Dnes je tu klídek, tak oprášíme antény, koho jste volili? A ještě moment, jdu pro popkorn. 😄🍿
-11oct26 02:13 Aida-PRG     @[CZE_VeX⚜️] i ty provokatére :-)
-11oct26 02:14 MaHraMeshyBT @[CZE_VeX⚜️] Ty míň špatný, pochopitelně. ✌️😁
-11oct26 02:15 Echo_snp_T-D ale stejne ho asi nekomu nadelim, pul roku mi tu lezel.
-11oct26 02:16 Tomshon pwrb Já nikoho, mám to k urne daleko a jsem raněný
-11oct26 02:16 CZE_VeX☺     @[MaHraMeshyBT] Tak přesně mluvila moje babča a hodila to SPD 😃
-11oct26 02:17 Bufu.3.☺     @[CZE_VeX⚜️]  hele u nás jsme volili sportovce ale to je jsou jen lokální volby 😎
-11oct26 02:18 Tomshon pwrb @[Echo_snp_T-Deck] asi nám chybí první zpráva, nevíme, co někomu dáš
-11oct26 02:19 Aida-PRG     @[Bufu.3.👀] nejsou volby, co jsou ti nejblíže ty nejdůležitější? Já třeba řešil naší "obec" a už třeba i magoš šel mimo
-11oct26 02:19 MaHraMeshyBT @[CZE_VeX⚜️] Jestli volila v německu, tak jakž takž cajk 😀
-11oct26 02:20 Bufu.3.☺     @[Aida-PRG] něco na tom bude 👍
-11oct26 02:22 CZE_VeX☺     A na Jablonecku ať to hodíš komu chceš, kartel jede dál.
-11oct26 02:23 Echo_snp_MC_ @[Tomshon pwrbank Brno] Volil jsem Wadamesh na T-deck a přál jsem se s nastavením klávesnice.
-11oct26 02:35 Echo_snp_T-D @[CZE_VeX⚜️] nedorazilo ani na jeden companion.  Mám to tu u Karlova mostu trochu hluchý. Přečteno na analizéru.
-11oct26 02:42 CZE_VeX☺     @[Echo_snp_T-Deck] Máš aspoň motivaci posílit pokrytí ve své domovině :) Něco na střechu?
-11oct26 02:45 Echo_snp_L1  @[CZE_VeX⚜️] jeden je těsně pod střechou a pak jsou tu Terasy.
-11oct26 02:50 Dejv Bobry m Dobrý večer všem:) Nachystal jsem si hrozno na večerní kino:)
-11oct26 02:52 CZE_VeX☺     @[Echo_snp_L1] To čumím že se blbě chystáš s takovým hnizdem rptr v tvém okolí
-11oct26 02:52 Alkel Brostl Cože? Říkáte, budou volby nového presetu?
-11oct26 02:53 CZE_VeX☺     @[Alkel Brostl 🍺] 😂 a to je nápad
-11oct26 02:54 MaHraMeshyBT Už je pátek? Ale preset se má losovat, ať je to spravedlivé.
-11oct26 03:18 Aida-PRG     Jde koupit nějaké hotové nebo skoro hotové řešení na solární repeater?
-11oct26 03:19 Aida-PRG     Ideálně za méně než 10k
-11oct26 03:19 HNGZ-tmp     @[Aida-PRG]
-                           sensecap solar node p1-pro
-11oct26 03:20 Echo_snp_L1  Prostě P-1
-11oct26 03:20 ☺ LVA-Wio    @[Aida-PRG] Sensecap 👌 ~2500 all in
-11oct26 03:22 Echo_snp_L1  https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshcore-p-6741.html?warehouse_id=11
-11oct26 03:22 Aida-PRG     @[HNGZ-tmp], @[Echo_snp_L1] & @[🇧🇪 LVA-Wio] skvělé a koukám, že je to i skladem. Skvělé! Díky!
-11oct26 03:23 Kankys-PRG13 @[Aida-PRG] ve skupine na FB je klucina co stavy super bednym. ja mam teda v planu stavet , ale sam od nuly si
-11oct26 03:27 ☺ LVA-Wio    @[Aida-PRG] jestli to chceš na rptr s větším range můžeš přidat anténu Mikrotik, plus nějaké kabely a vulkanizaci
-11oct26 03:31 Aida-PRG     Vulkanizaci? Nějaké pogumování? Kabely? Anténa, co jsem našel, je součástí.
-11oct26 03:32 Aida-PRG     @[🇧🇪 LVA-Wio] ^^^
-11oct26 03:39 ☺ LVA-Wio    @[Aida-PRG] ta přiložená anténa je v pohodě ale Mikrotik je lepší. Abys ji mohl použít = nový pigtail a SMA kabel
-11oct26 03:39 ☺ LVA-Wio    @[Aida-PRG] nejsou vodotěsné, takže budeš potřebovat samovulkanizační pásku
-11oct26 03:50 HNGZ-tmp     @[🇧🇪 LVA-Wio] chybí mi možná nějaké zprávy. Ale pls co není vodotěsné? Ty mikrotik antény?
-11oct26 03:59 Tomaio_PRG1  Ahoj. Kdo máte výhled na sever, tak sledujte, je vidět polární záře 😉
-11oct26 04:15 Peva         @[Aida-PRG] doporučil bych koupit na rpishop nebo jinde v cz, řešil jsem se seed záruku, byli super, ale z Číny šla náhrada 6 týdnů.
-11oct26 04:22 Kankys-PRG13 @[Tomaio_PRG1] 😱
-11oct26 04:23 Alkel Brostl Jj, dokonce to maj na RPishopu levnějc (to od Seeed je bez DPH a dopravu maj taky mastnější)
-11oct26 04:24 Alkel Brostl @[🇧🇪 LVA-Wio] Metrový RG58 SMA-SMA kabel dostaneš s Mikrotikem, není potřeba shánět extra.
-11oct26 04:36 4EE81759     @[Alkel Brostl 🍺] RG58 bych asi nebral, kolem gigaherzu ma utlum jako prase.
-11oct26 04:42 ☺ GhostNode- Nemá někdo tip na dobrej hardware pro standalone companion?
-11oct26 04:48 4EE81759     @[👻 GhostNode-01] S tím nemam zkušenost. Mam homemade seed nRF + stabilizator a na 4 tuzkovky to běhá tejden. 😉
-11oct26 04:59 Petr-Lie1 ☺  @[👻 GhostNode-01] klasika je Wio L1 pro tracker od seeedstudio. Nabiješ a jede to týden. Neřeší se nabíjení každý den.
-11oct26 05:24 ☺ LVA-T114   @[👻 GhostNode-01] proboha živého, nikdy si nekupuj Heltec v4 s dotykovým displejem
-11oct26 05:24 Alkel Brostl @[4EE81759] Mikrotik ho specificky dává k té anténě, co se bere jako etalon a nevím, že by někdo měl problém
-11oct26 05:26 Alkel Brostl L1 Pro je super, jde to používat i semi-standalone, akorát bych asi doporučil nějakou tu 3rd-party verzi s 3Ah baterkou
-11oct26 05:26 Alkel Brostl 2Ah je docela v pohodě, ale jen s vyplou GPS
-11oct26 05:28 Alkel Brostl Ale samozřejmě se dá koupit jen board s displejem a postavit si to kolem vlastní
-11oct26 05:29 Alkel Brostl Ale T9 klávesnice by mi dávala největší smysl https://lilygo.cc/en-us/products/t-echo-lite-kit?variant=52698727022773
-11oct26 05:48 4EE81759     @[Alkel Brostl 🍺] zvláštní, s ADS-B prijimacem jsem mel problem, nechtěl přijimat. Až jsem si přečetl technicky list od RG58
-11oct26 05:49 4EE81759     @[Alkel Brostl 🍺] a pak mi to bylo jasný, RG58 letěla do kopřiv a z 3 letadel bylo 30. 😉
-11oct26 05:54 Dejv Bobry m @[Alkel Brostl 🍺] mam ho a uplne v pohodě s tím Mikrotikem, útlum asi nějaký bude ale né nějak dramatický
-11oct26 05:55 OK2IPW       no,vlastne horsi coax neni.
-11oct26 05:55 4EE81759     @[Dejv Bobry mobile] no co si tak matně pamatuju tak nejakech 70 dB při 1000 MHz
-11oct26 05:56 Dejv Bobry m je to trochu paradox jak na bezdrátu záleží na drátu
-11oct26 05:57 Dejv Bobry m ale samosebou nemám s čím porovnat, lepší jsem nekupoval a teď na střechu znovu nepolezu a nechcu:D
-11oct26 05:58 4EE81759     @[Dejv Bobry mobile] tak někde se šetřit musí. 😉
-11oct26 05:59 4EE81759     Jen tak pro porovnání je dobrý se občas do technickýho listu podívat. 😎
-11oct26 06:02 Dejv Bobry m jnj ale víc útlum bude asi ten konektor navíc na pigtail, chtělo by to na t114 navařit přímo SMA:D
-11oct26 06:05 4EE81759     No to já jen tak na okraj, že jste zminil Microtik a RG58..... tak me to prekvapilo.... Takovej šílenej kabel.
-11oct26 07:01 PatE3_☺ HV4  RG58? To je takovej trochu hromosvod pro ty ruzny ESP apod, teda jestli tech rg58 neni uz nejak vic nez co si pamatuju z doby pred 30
-11oct26 07:07 CZE_VeX☺     K mikrotiku jsem dával 1m LMR400, na rovné trasy ok, na ohyb strašný, celkově parádní.
-11oct26 07:13 Alkel Brostl Co tam teda má člověk dát, co normálně sežene? Neměl by přijít LMR200 jako IPEX-SMA pigtail na modul místo RG178? :-)
-11oct26 07:14 Alkel Brostl Zkusil jsem ten metrovej RG58/U na VNA a mám kolem 868 500mDb drop včetně SMA male-male redukce. Not great, not terrible.
-11oct26 07:23 Alkel Brostl Ne že bych se bránil lepším kabelům, jen poprvé slyším, že RG58 špatný a nevím, kde koupit něco lepšího
-11oct26 07:24 CZE_VeX☺     Měnil jsem ho ze zoufalství v rámci oprav, neustálé mi hořely filtry, nakonec pomohla bleskojistka a zeměmí
-11oct26 07:24 Alkel Brostl Metrovej LMR400 se SMA, to bude asi samovýroba, ne?
-11oct26 07:28 CZE_VeX☺     Bral jsem u čonga, překvapivě dobře udělané, ještě jich pár mám https://ctrlv.cz/2c0Q
-11oct26 07:29 ☺ GhostNode- Rpt baterka už jen na 70% asi bych měl přidat mppt k soláru
-11oct26 07:29 ☺ GhostNode- Nějaký tipy?
-11oct26 07:30 ☺ GhostNode- Panel je na 5V
-11oct26 07:30 Alkel Brostl @[CZE_VeX⚜️] Nojo, to mě nenapadlo, jak už kvůli těm 3€ tolik na Ali nekoukám :D
-11oct26 07:32 CZE_VeX☺     @[Alkel Brostl 🍺] Právě, teď už ten kabel bude za dvakrát tolik 😅
-11oct26 07:32 Alkel Brostl Zrovna když se vezme pár těchhle, tak se ty 3€ celkem rozpustí - koukám, tak od 400 CZK za kus
-11oct26 07:32 CZE_VeX☺     Ale třeba něco přitáhli do EU skladů, mrknu se
-11oct26 07:34 Martin OK4IM Nejlepší kabel je co nejkratší kabel, vždyť ten hw může být hned u anteny
-11oct26 07:36 CZE_VeX☺     @[Martin OK4IMK] souhlas, ale někdy to taky úplně nejde
-11oct26 07:41 Alkel Brostl To jo, pár 30-50cm RG316,RG58 a RG142 jsem se do zásoby vybavil
-11oct26 07:42 CZE_VeX☺     @[👻 GhostNode-01] máš solár rovnou do zařízení bez mppt?
-11oct26 07:42 Alkel Brostl Zase když je krátkej loop kabelu zespoda krabice, líp se řeší hydroizolace
-11oct26 07:46 CZE_VeX☺     10m lmr400 má o chlup větší útlum než 1m rg58. To je stejně mazec 😃
-11oct26 07:52 Honzaaa      Ahojte, jaká vzdálenost od BTSek je na případný reapeter v pohodě a nedělá paseku? Jsem v oblasti, kde skoro nic nechytám
-11oct26 07:53 Tady85-WDM   napriklad me dela probem 100 m i s panelakem
-11oct26 07:53 ☺ GhostNode- @[CZE_VeX⚜️] Ano, má totiž USB-C výstup a funguje je to připojením do heltec WSL3.1 a ten má interní BMS
-11oct26 07:53 Honzaaa      Takže bych tu rád něco postavil, nemusí to být nutně na soláru, jelikož možnost elektřiny zde je.
-11oct26 07:54 Tady85-WDM   doporucuju koupit filtr a zkusit
-11oct26 07:55 ☺ GhostNode- Zkoušej spojení s companionem a až najdeš spolehlivé spojení k něčemu tak tam dej rpt
-11oct26 07:57 CZE_VeX☺     @[👻 GhostNode-01] určitě na bat. vlastní bms, mppt a solár, samo zařízení neumí využít maximum z panelu
-11oct26 08:00 Alkel Brostl Hlavně bůh ví jaký to má napětí naprázdno, to USB taky nemusí být moc šťastný, když mu tam přileze 7 V :-)
-11oct26 08:02 Alkel Brostl BMS to WSL nemá určitě, jen interface na napájení z baterky a její dobíjení z USB.
-11oct26 08:06 CZE_VeX☺     @[Honzaaa] mám v okruhu 300-400m BTSky a úplně v cajku, ideálně vyzkoušet na daném místě
-11oct26 08:08 ☺ GhostNode- A máte někdo doporučení pro MPPT modul?
-11oct26 08:11 Alkel Brostl Tohle je nejčastější pro li-ion/pol https://www.laskakit.cz/en/solarni-nabijecka-li-ion-baterie-cn3791-1s--6v-panel/
-11oct26 08:11 Alkel Brostl Na 5V panel nevím
-11oct26 08:12 Alkel Brostl Možná ten panel ještě na 6 V bude použitelnej.
-11oct26 08:14 CZE_VeX☺     Některé ty usb-c panely dávají 6V, změřit na sluníčku Voc
-11oct26 08:54 ☺ GhostNode- @[Alkel Brostl 🍺]  a co tenhle https://www.laskakit.cz/en/solarni-nabijecka-li-ion-baterie-cn3065-1s--4-4-6v-panel--usb/
-11oct26 08:56 ☺ GhostNode- @[Alkel Brostl 🍺]  a co tenhle https://www.laskakit.cz/en/solarni-nabijecka-li-ion-baterie-cn3065-1s--4-4-6v-panel--usb/
-11oct26 08:58 ☺ GhostNode- Srry že se to poslalo tak 5x, jsem si všiml až na analyzeru, nepsalo mi to rpt v apce
-11oct26 09:12 ☺ Marcel kie new https://kiekr.app version is out for ios & android
+﻿11oct26 09:12 ☺ Marcel kie new https://kiekr.app version is out for ios & android
 11oct26 10:10 Peva         @[🪂 Marcel kiekr.app X1] I have flagged the app in the store. Stop spamming here.
 11oct26 14:39 OK4SU        Za oknem větve tiše šeptají,
                            první ptáci píseň skládají.
@@ -831,3 +680,25 @@ Lie1 ☺  @[atlas] vůbec nic nového. Jen nějaké volby a pak už budou Vánoc
 18oct26 03:40 Otakar Herme Zizkov slysi
 18oct26 03:41 LibSlapanice Slapanice taky
 18oct26 03:43 QtW☺         And my axe
+18oct26 05:15 Jakub-OVA    Dobrou noc Mesh síti
+18oct26 05:16 KosDub       Dobrou
+18oct26 05:17 K-Node       Dobrou noc
+18oct26 05:19 Wolf Praha   Dobrou noc
+18oct26 05:19 Blek         Dobrou
+18oct26 05:20 MARDO_JBC    Dobrou noc
+18oct26 05:23 Aida-PRG     Co tak brzo? Přejete si dobrou noc a loučíte se, abyste se mohli v klidu věnovat nespavosti?
+18oct26 05:26 V.LULU       😂
+18oct26 05:45 Yesality.W☺  Přesně, noc je ještě mladá, skoro by se chtělo říci, že je ejště večer :D
+18oct26 08:09 lukaskicz    Však noc je ještě mladá...
+18oct26 08:54 Blbm         Hello world
+18oct26 09:50 ftn11_comp   Brýráno
+18oct26 09:51 KosDub       Ještě je noc
+18oct26 09:53 Foxtrot☺     Liška dává dobrou noc
+18oct26 09:59 ☺ GhostNode- Ach jo to naše pozdní bdění..
+18oct26 11:18 Aida-PRG     Ja furt nic... Pred treti jsem cistil poblitej telefon a ted uz bych chtel zabrat. Uvidime jestli se povede, nebo pujdu spat az po snidani.
+18oct26 15:27 rdx          uz je den?
+18oct26 15:28 Petr Chrzin  Uz hodinu
+18oct26 15:32 MaHraFaketec Bráno 👋
+18oct26 15:33 Alkel Tr ☺   Soudě podle toho, že mi z ložnice někam utekla tma, bude tomu tak.
+18oct26 15:34 Alkel Tr ☺   Brýjátro taktéž.
+18oct26 15:34 Petr Chrzin  👍

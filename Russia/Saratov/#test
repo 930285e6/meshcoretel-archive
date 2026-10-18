@@ -1,21 +1,4 @@
-﻿10oct26 10:18 FogFox       Test
-10oct26 10:18 MeshCoreBot  ack @[FogFox] | fc,64 (2 hops) | SNR: -2.25 dB | RSSI: -79 dBm | Received at: 10:18:46
-10oct26 10:20 art114       Test
-10oct26 10:20 MeshCoreBot  ack @[art114] | Direct | SNR: -13.25 dB | RSSI: -120 dBm | Received at: 10:20:04
-10oct26 11:58 R251☺        Test
-10oct26 11:58 MeshCoreBot  ack @[R251🍌] | cb,64 (2 hops) | SNR: -5.75 dB | RSSI: -82 dBm | Received at: 11:58:52
-10oct26 14:53 AS Zver0☺    Test
-10oct26 15:40 FogFox       Test
-10oct26 15:40 MeshCoreBot  ack @[FogFox] | fc,84,6a,69,d1 (5 hops) | SNR: 10.0 dB | RSSI: Unknown dBm | Received at: 15:40:08
-10oct26 15:41 R251☺        ping
-10oct26 15:41 MeshCoreBot  Pong!
-10oct26 16:45 R251☺        ping
-10oct26 16:45 MeshCoreBot  Pong!
-10oct26 16:46 R251☺        Test
-10oct26 16:46 MeshCoreBot  ack @[R251🍌] | 64 (1 hops) | SNR: 10.5 dB | RSSI: -82 dBm | Received at: 16:46:47
-10oct26 19:01 art114       Test
-10oct26 19:01 MeshCoreBot  ack @[art114] | cb,64 (2 hops) | SNR: 3.5 dB | RSSI: -71 dBm | Received at: 19:01:10
-11oct26 19:18 Wing☺Search  Ping
+﻿11oct26 19:18 Wing☺Search  Ping
 11oct26 19:18 MeshCoreBot  Pong!
 11oct26 19:19 Wing☺Search  Test
 11oct26 20:23 art114       Test

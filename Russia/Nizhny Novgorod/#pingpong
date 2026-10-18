@@ -1,64 +1,4 @@
-﻿17oct26 22:03 ☺kurwa       Ping
-17oct26 22:03 NNO-ELN-BOT  @[🦫kurwa] | d1a7,a9c4 | d1a7,a9c4 (2 hops) | SNR: 12.25 dB | RSSI: -49 dBm
-17oct26 22:03 DeadFeedBot  @[🦫kurwa] Pong! | e59b (1 hops) | SNR: 1.5 dB | RSSI: -104 dBm
-y  Ping
-10oct26 10:32 NNO-ELN-BOT  @[rabbitr00ny] | 5703,d9c8,09a7,c9cd,a9c4 | 5703,d9c8,09a7,c9cd,a9c4 (5 hops) | SNR: 12.25 dB | RSSI: -52 dBm
-10oct26 10:32 DZR/Bot-MM   Pong! @[rabbitr00ny] 5703,d9c8,beef (3 hops) | SNR: -3.5 dB | RSSI: -113 dBm
-10oct26 11:29 catsquatch☺  path
-10oct26 11:29 NNO-ELN-BOT  EDAA: BOR-2MK-43
-                           13BE: BOR-STK-37
-                           B4BE: BOR-KRG-51
-                           09A7: NN-NIZ-60
-                           0C11: NNO-CHR-52
-                           A9C4: NNO-ELN-32
-10oct26 11:29 DeadFeedBot  EDAA: BOR-2MK-43
-                           13BE: BOR-STK-37
-                           B4BE: BOR-KRG-51
-                           09A7: NN-NIZ-60
-10oct26 11:29 DZR/Bot-MM   EDAA: BOR-2MK-43
-                           13BE: BOR-STK-37
-                           B4BE: BOR-KRG-51
-                           09A7: NN-NIZ-60
-                           D9C8: NN-PRI-48
-                           B6F0: DZ-SVE-35
-                           8532: DZ-OLD-11
-10oct26 12:06 Avt_bp       Ping
-10oct26 12:07 NNO-ELN-BOT  @[Avt_bp] | 96a2,90f8,e59b,a9c4 | 96a2,90f8,e59b,a9c4 (4 hops) | SNR: 11.75 dB | RSSI: -55 dBm
-10oct26 12:07 DeadFeedBot  @[Avt_bp] Pong! | 96a2,90f8,e59b (3 hops) | SNR: 7.5 dB | RSSI: -104 dBm
-10oct26 17:05 MM/DZ        Ping
-10oct26 17:05 DZR/Bot-MM   Pong! @[MM/DZ] 8532 (1 hops) | SNR: 12.0 dB | RSSI: -27 dBm
-10oct26 17:05 DeadFeedBot  @[MM/DZ] Pong! | 8532,beef,9182 (3 hops) | SNR: Unknown dB | RSSI: -109 dBm
-10oct26 17:05 NNO-ELN-BOT  @[MM/DZ] | 8532,beef,d9c8,8d89,d1a7,a9c4 | 8532,beef,d9c8,8d89,d1a7,a9c4 (6 hops) | SNR: 12.0 dB | RSSI: -58 dBm
-10oct26 17:12 catsquatch☺  P
-10oct26 17:12 DZR/Bot-MM   EDAA: BOR-2MK-43
-                           0651: NN-KAN-47
-                           D9C8: NN-PRI-48
-                           E629: DZ-OLD-TEST-E629B19F
-                           8532: DZ-OLD-11
-10oct26 18:14 MMM          Ping
-10oct26 18:14 DeadFeedBot  @[MMM] Pong! | 0651,9182 (2 hops) | SNR: 7.0 dB | RSSI: -105 dBm
-10oct26 18:14 NNO-ELN-BOT  @[MMM] | 0651,d9c8,a9c4 | 0651,d9c8,a9c4 (3 hops) | SNR: 11.0 dB | RSSI: -61 dBm
-10oct26 18:14 DZR/Bot-MM   Pong! @[MMM] 0651,d9c8,beef (3 hops) | SNR: -3.25 dB | RSSI: -113 dBm
-10oct26 20:08 catsquatch☺  P
-10oct26 20:08 NNO-ELN-BOT  EDAA: BOR-2MK-43
-                           CE77: NN-NIZ-13
-                           9182: NN-NIZ-12
-                           D1A7: NN-FED-36
-                           C9CD: NN-FED-CHEBURNET
-                           A9C4: NNO-ELN-32
-10oct26 22:06 KSUR1        P
-10oct26 22:06 NNO-ELN-BOT  13BE: BOR-STK-37
-                           946F: BOR-PLV-45
-                           1BFF: NN-NIZ-TST1
-                           24D1: OBS-NIZ-TST
-                           9182: NN-NIZ-12
-                           A9C4: NNO-ELN-32
-10oct26 22:06 DZR/Bot-MM   13BE: BOR-STK-37
-                           5B0D: NN-KAN-20
-                           ACDC: NN-PRI-42
-                           D9C8: NN-PRI-48
-                           8532: DZ-OLD-11
-11oct26 11:10 Bee          Ping
+﻿11oct26 11:10 Bee          Ping
 11oct26 11:10 NNO-ELN-BOT  @[Bee] | e57e,d9c8,a9c4 | e57e,d9c8,a9c4 (3 hops) | SNR: 13.5 dB | RSSI: -45 dBm
 11oct26 11:11 DeadFeedBot  @[Bee] Pong! | e57e,d9c8,a9c4 (3 hops) | SNR: -8.5 dB | RSSI: -112 dBm
 11oct26 12:33 ☺☺ Siri      P
@@ -914,3 +854,12 @@ y  Ping
 17oct26 20:58 ☺kurwa       Ping
 17oct26 20:58 NNO-ELN-BOT  @[🦫kurwa] | a9c4 | a9c4 (1 hops) | SNR: 12.0 dB | RSSI: -47 dBm
 17oct26 20:58 DeadFeedBot  @[🦫kurwa] Pong! | Direct | SNR: -3.75 dB | RSSI: -119 dBm
+17oct26 22:03 ☺kurwa       Ping
+17oct26 22:03 NNO-ELN-BOT  @[🦫kurwa] | d1a7,a9c4 | d1a7,a9c4 (2 hops) | SNR: 12.25 dB | RSSI: -49 dBm
+17oct26 22:03 DeadFeedBot  @[🦫kurwa] Pong! | e59b (1 hops) | SNR: 1.5 dB | RSSI: -104 dBm
+18oct26 09:51 MM/DZ        Ping
+18oct26 09:52 DeadFeedBot  @[MM/DZ] Pong! | f62b,beef,0651,9182 (4 hops) | SNR: -4.25 dB | RSSI: -102 dBm
+18oct26 09:52 MM/DZ        Ping
+18oct26 09:53 DZR/Bot-MM   Pong! @[MM/DZ] f62b,8532 (2 hops) | SNR: 12.25 dB | RSSI: -21 dBm
+18oct26 09:53 NNO-ELN-BOT  @[MM/DZ] | f62b,beef,9182,a9c4 | f62b,beef,9182,a9c4 (4 hops) | SNR: 12.75 dB | RSSI: -54 dBm
+18oct26 09:53 DeadFeedBot  @[MM/DZ] Pong! | f62b,beef,9182 (3 hops) | SNR: 1.5 dB | RSSI: -101 dBm
