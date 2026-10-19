@@ -671,3 +671,109 @@
 18oct26 14:06 Vlada☺       @[Lp02-XiaoS3] příjem na 17 hops
 18oct26 15:08 Aidam01      Test
 18oct26 15:09 EL Pong      @[Aidam01] 🗼→138.9km ∧161.3km [3◠(2b)]Ad.✗ Zpráva doručena 💡eltest
+18oct26 17:07 CanisLatrans test maker fair brno
+18oct26 17:07 berk76-tag   @[CanisLatrans] praha hostivař slyší
+18oct26 17:08 Lisak_       @[CanisLatrans] Třeboň 6 hops
+18oct26 17:37 Honzaaa      Test Třeboň-Břilice
+18oct26 17:39 Honzaaa      Zajímavé, příjem přes 9900 (3 km vzdušně), odesílání přes A00E, které je vzdušně 27 km
+18oct26 17:42 QtW☺         Sledovat tyhle skoky často bývá zábavné
+18oct26 17:48 Nigroquadrat Traceroute
+18oct26 17:49 Nigroquadrat Ping
+18oct26 17:51 JFC          @[Nigroquadratus] statenice
+18oct26 17:55 berk76-tag   Ping
+18oct26 18:18 MaKI-TD☺     ping
+18oct26 18:18 MaKI-TD☺     test
+18oct26 18:26 berk76-tag   @[MaKI-TD📻] pong
+18oct26 19:00 Magpie Obser Test ESP32-S3 pres MeshCore
+18oct26 19:03 Peva         @[Magpie Observatory] RPS LoRa dálnice... 57f6,73ce,a99e,aad4,2ecc,d0d0
+18oct26 19:03 Magpie Obser test 3
+18oct26 19:08 CZ1ZXS       test
+18oct26 19:08 Magpie Obser test 4
+18oct26 19:10 Magpie Obser ESP32-S3 test #1
+18oct26 19:10 Magpie Obser ESP32-S3 test #2
+18oct26 19:11 Magpie Obser ESP32-S3 test #3
+18oct26 19:15 HoracWX      Test Pomezni Boudy
+18oct26 19:16 Magpie Obser ESP32-S3 test #2
+18oct26 19:16 EL Pong      @[HoracWX] 🗼→114.3km [3◠(2b)]Ad.29.4. 19:53
+                           Na příjmu. Pomezní Boudy jsou krásné místo, užij si tam parádní výhledy a čerstvý
+18oct26 19:20 CZ1ZXS       ping
+18oct26 19:23 berk76-tag   @[CZ1ZXS] pong
+18oct26 19:40 Magpie Obser Ping
+18oct26 19:42 plvs_P       @[Magpie Observatory] pong
+18oct26 19:44 OK2AWO.meshc ping
+18oct26 19:45 plvs_P       @[OK2AWO.meshcore.cz] pong
+18oct26 19:45 OK7RB        @[OK2AWO.meshcore.cz] pong
+18oct26 19:47 CZ1ZXS       ping
+18oct26 19:48 Asthma_108   test z CB - slysi pan Myval?
+18oct26 19:56 SUMAVA_3     Test
+18oct26 19:57 Bufu.3.☺     @[SUMAVA_3] na 7 skoků 👍9bec,5ffe,0319,a808,0560,90c4,672a,c213
+18oct26 20:26 EGG          ping
+18oct26 20:52 MaKI-TD☺     ping
+18oct26 20:55 Rabitex      @[MaKI-TD📻] pong
+18oct26 20:56 Foxtrot☺     @[Rabitex] Sazava pong
+18oct26 21:00 011111000101 Tes
+18oct26 21:09 Lisak_portab Test Vysoký Kámen u Kunžaku. Signál zdá se dobrý.
+18oct26 21:16 berk76-tag   @[Lisak_portable] Praha Košík 20 hops
+18oct26 21:23 Lisak_portab @[berk76-tag] zajímavý, zpáteční cesta od tebe na 7 hops
+18oct26 21:41 berk76-tag   Tady je moje cesta: 8b76,a42d,5300,ba03,ad14,cccc,bbbb,4b61,0560,568f,a78e,6816,5eb5,8828,f1ab,fa67,4d89,dd95,3287,d376
+18oct26 21:42 berk76-tag   Občas ten paket asi udělá okružní jízdu
+18oct26 21:47 EGG          Proč to tak je, že jde jinou cestou tam, než zpátky? Je to tím že repetery mají samostatný příchozí a odchozí hardware?
+18oct26 21:55 yenda ☺      test
+18oct26 21:57 QtW☺         @[EGG] Jedním směrem může být spoj lépe slyšet, třeba kvůli místnímu zarušení
+18oct26 22:00 berk76-tag   @[EGG] Nejde o hardware, je to takto implementovàno v mesh core. Asi z důvodu který zmínil @OtW
+18oct26 22:01 EGG          Díky @[QtW🦊] a @[berk76-tag]
+18oct26 22:17 plvs_2       Test
+18oct26 22:21 Maxwell      @[plvs_2] 8 hopů přes skoro celou republiku do Říčan 😀
+18oct26 22:22 Orchid☺      Zdravím ze Stezky korunami stromů. Krkonoše. 😉
+18oct26 22:24 yenda ☺      Test
+18oct26 22:24 plvs_2       @[Maxwell] díky
+18oct26 22:32 jsk_node     Nejen zpáteční cesta, prvni zprávu od @[Lisak_portable] mam 19 hopů, druhou 6.
+18oct26 22:52 LukasBP      test
+18oct26 22:53 EL Pong      @[LukasBP] [6◠(2b)]Ad.✗ Paket dorazil
+18oct26 23:46 4EE81759     Test
+18oct26 23:53 mthw         @[4EE81759] 5hops do Nuslí
+19oct26 00:00 4EE81759     Test2
+19oct26 00:39 yenda ☺      Test
+19oct26 00:39 LukasBP      @[yenda 📟]: ok. 3 hopy
+19oct26 00:40 4EE81759     @[yenda 📟]: Pardubice OK
+                           e6f6→5eb5→6744
+19oct26 00:40 Cezar Mesch  Test
+19oct26 01:05 Cezar Mesch  Test 13
+19oct26 01:05 Tady85-WDM   ping
+19oct26 01:08 JFC          @[CZ1ZXS] statenice
+19oct26 01:09 JFC          @[Cezar Mesch 2] statenice
+19oct26 01:11 Cezar Mesch  @[JFC] dík 😉
+19oct26 01:46 Martin☺Praha test2
+19oct26 01:51 OK1SIM       @[Martin⚡Praha] plzen slysi
+19oct26 01:52 Foxtrot☺     @[Martin⚡Praha] ack Sazava
+19oct26 02:32 Oreo ☺       Test
+19oct26 02:33 EL Pong      @[Oreo 📟] 🗼→6.7km ∧13.8km [2◠(2b)]Ad.14.10. 10:47 Zpráva doručena
+19oct26 02:34 LukasBP      @[Oreo 📟]: Podkrkonoší přijato přes 4 hopy
+19oct26 02:42 4EE81759     Test
+19oct26 02:43 Vdeck        test
+19oct26 02:45 4EE81759     @[Vdeck] Pardubice OK
+                           e761,9cb2,f1ab,dc0c,5eb5,6744
+19oct26 02:45 EL Pong      @[Vdeck] 🗼→31.6km ∧154.0km [4◠(2b)]Ad.✗ Přijato 💡eltest
+19oct26 03:06 4EE81759     test
+19oct26 03:13 maxcz        Test
+19oct26 03:15 EL Pong      @[maxcz] 🗼→3.1km ∧5.2km [2◠(2b)]Ad.16.10. 12:32 Slyším tě
+19oct26 03:15 maxcz        Test
+19oct26 03:16 Honzaaa      @[maxcz] někde z vlaku do Prahy příjem
+19oct26 03:20 maxcz        @[Honzaaa] Zdravím do vlaku 🚂 z Holešovic
+19oct26 03:31 EmFa ☺       Test
+19oct26 03:43 EmFa ☺       Test2
+19oct26 03:44 LukasBP      @[EmFa 📡]: přijato přes 4 hopy - Podkrkonoší
+19oct26 03:48 4EE81759     @[EmFa 📡] Pardubice OK
+                           f8eb,0319,5eb5,6744
+19oct26 04:08 QtW☺         Dobrý skok, ze Šumavy na Krkonoše
+19oct26 04:25 Vdeck        @[QtW🦊] odkud sumava? chytam tam spatne
+19oct26 05:06 sst007       ping
+19oct26 05:29 DanKaz-☺ /m  Test
+19oct26 05:30 sst007       test
+19oct26 05:31 EL Pong      @[sst007] 🗼→23.5km ∧106.2km [3◠(2b)]Ad.15.10. 22:29 Paket dorazil
+19oct26 05:32 Lisak_       @[sst007] Třeboň 8 hops
+19oct26 05:35 Lp03-XiaonRF test
+19oct26 05:37 Lisak_       @[Lp03-XiaonRFWio] Třeboň 12h
+19oct26 05:42 DanKaz-☺ /m  Ping
+19oct26 06:00 Cezar Mesch  Test 13
+19oct26 06:18 sst007       solar

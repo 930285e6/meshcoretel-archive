@@ -258,3 +258,73 @@
 18oct26 13:09 Deimos 57 St @d200
                            1 paths:
                            - 1 hops (2222)
+18oct26 16:27 d202         Ping 1
+18oct26 16:27 Deimos 57 St @d202
+                           1 paths:
+                           - 2 hops (666627d4)
+18oct26 16:27 d202         Ping 2
+18oct26 16:27 Deimos 57 St @d202
+                           3 paths:
+                           - 2 hops (666627d4)
+                           - 3 hops (666627d42222)
+                           - 2 hops (66665238)
+18oct26 18:21 Saigon       Ping
+18oct26 18:21 Deimos 57 St @Saigon
+                           2 paths:
+                           - 3 hops (0a6999998888)
+                           - 4 hops (0a699999953a5e91)
+18oct26 19:05 Saigon       Ping
+18oct26 19:05 Deimos 57 St @Saigon
+                           2 paths:
+                           - 4 hops (0a699999953a5238)
+                           - 4 hops (0a699999953a2222)
+18oct26 21:51 МиахалычЪ    Ping
+18oct26 21:52 d202         Ping test 2
+18oct26 21:52 Deimos 57 St @d202
+                           2 paths:
+                           - 2 hops (e7775e91)
+                           - 2 hops (e7776666)
+18oct26 21:53 d202         Ping test 2_5
+18oct26 21:53 Deimos 57 St @d202
+                           3 paths:
+                           - 2 hops (e7772222)
+                           - 3 hops (e77722228888)
+                           - 2 hops (e7775e91)
+18oct26 21:55 МиахалычЪ    Пинг
+18oct26 21:55 Deimos 57 St @МиахалычЪ
+                           2 paths:
+                           - 3 hops (eb09efcf5e91)
+                           - 4 hops (eb09efcf5e918888)
+18oct26 21:55 МиахалычЪ    Пинг
+18oct26 21:55 Deimos 57 St @МиахалычЪ
+                           2 paths:
+                           - 3 hops (eb09efcf5e91)
+                           - 4 hops (eb09efcf5e918888)
+18oct26 22:01 d200         Ping
+18oct26 22:01 Deimos 57 St @d200
+                           4 paths:
+                           - 1 hops (2222)
+                           - 2 hops (222227d4)
+                           - 2 hops (22225e91)
+                           - 2 hops (22226666)
+18oct26 22:02 SerG79       Ping
+18oct26 22:02 Deimos 57 St @SerG79
+                           2 paths:
+                           - 3 hops (c85544448888)
+                           - 4 hops (c855444488885238)
+18oct26 22:35 МиахалычЪ    Пинг
+18oct26 22:35 Deimos 57 St @МиахалычЪ
+                           2 paths:
+                           - 3 hops (eb09efcf5e91)
+                           - 4 hops (eb09efcf5e912222)
+19oct26 09:30 d200         Ping
+19oct26 09:30 Deimos 57 St @d200
+                           3 paths:
+                           - 1 hops (5e91)
+                           - 2 hops (5e912222)
+                           - 2 hops (5e915238)
+19oct26 13:17 SG_kalin_pic Ping
+19oct26 13:17 Deimos 57 St @SG_kalin_pico-micro 🦊
+                           2 paths:
+                           - 2 hops (a88e5e91)
+                           - 2 hops (a88e27d4)

@@ -374,3 +374,40 @@
 17oct26 23:20 DR04mc       Ping
 17oct26 23:20 Ad Astra Bot @[DR04mc] Принял!
                            3 hops (ext2:UBND Repeater:Ad Astra Repeater 1)
+18oct26 12:11 Ochlamonster Ping
+18oct26 12:11 Ad Astra Bot @[Ochlamonster] Принял!
+                           4 hops (Kosmonavtov Observer:RedBase:UBND Repeater:Ad Astra Repeater 1)
+18oct26 19:03 DR05mc       Ping
+18oct26 19:03 Ad Astra Bot @[DR05mc] Принял!
+                           3 hops (RedBase:UBND Repeater:Ad Astra Repeater 1)
+18oct26 19:03 OmniBus      1/1
+                           DR05mc
+                           Moscow Repeater
+                           ↘1490m ext2
+                           OmniBus
+19oct26 04:37 00001        Ping
+19oct26 04:37 Ad Astra Bot @[00001] Принял!
+                           5 hops (00000:T096 mobile:Univer f0:UKM MQTT Observer:Ad Astra Repeater 1)
+19oct26 04:37 OmniBus      1/1
+                           00001
+                           00000
+                           ↙8272587m Pritihla
+                           ↗8278410m Univer f0
+                           ↘6384m HEIM
+                           OmniBus
+19oct26 04:49 00001        Ping
+19oct26 04:49 Ad Astra Bot @[00001] Принял!
+                           3 hops (RedBase:HEIM:Ad Astra Repeater 1)
+19oct26 04:50 OmniBus      1/1
+                           00001
+                           RedBase
+                           ↘10196m HEIM
+                           OmniBus
+19oct26 12:18 Ochlamonster Ping
+19oct26 12:18 Ad Astra Bot @[Ochlamonster] Принял!
+                           3 hops (Alpha:ext2:Ad Astra Repeater 1)
+19oct26 12:19 Faketec4     я вчера кстати прокатился по тагильской улице, проверил связь.
+19oct26 12:19 Faketec4     вроде все ок, 2-3 репитера слышно
+19oct26 12:20 Ochlamonster Хм, Тагильская улица довольно длинная и кривая)
+19oct26 12:20 Faketec4     ну я по низу хал вдоль вокзала
+19oct26 12:21 Ochlamonster В том конце, где Желдорэкспедиция?

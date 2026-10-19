@@ -995,3 +995,108 @@
 18oct26 00:05 DOK-DVK(t096 @[MAK ZELENIY 114] ну, маршруты есть через него
 18oct26 02:39 DOK-bot1     Вы всё равно все спите :)
                            Бот уходит на апгрейд ненадолго
+18oct26 12:03 MAK ZELENIY  Test
+18oct26 12:04 DOK-bot1     @[MAK ZELENIY 114] путь:04a6,762a,13ec,eeee (4 hops),  | Шло:Sync Device Clock, услышал в: 10:53:25 | Регион:ru-dnr
+18oct26 12:40 MAK ZELENIY  Path
+18oct26 12:40 DOK-bot1     @[MAK ZELENIY 114]
+                           AA71: Hell Repeater
+18oct26 12:41 MAK ZELENIY  @[DOK-DVK(t114)] ну вот, а говорил микроволновки не слышат :)
+18oct26 12:49 DOK-DVK(t114 @[MAK ZELENIY 114] слышат, но не настолько четко, как их все слышат :)
+18oct26 12:55 MAK ZELENIY  Path
+18oct26 13:29 DOK Aragorn  help
+18oct26 14:01 DOK Voroshil Test
+18oct26 14:02 DOK-bot1     @[DOK Voroshilov] путь:897a,bbbb (2 hops), 3.5km | Шло:Sync Device Clock, услышал в: 12:51:27 | Регион:ru-dnr
+18oct26 14:53 MAK_Daki     Test
+18oct26 14:53 DOK-bot1     @[MAK_Daki] путь:6666 (1 hops),  | Шло:Sync Device Clock, услышал в: 13:42:50 | Регион:ru-dnr
+18oct26 15:07 DOK-DVK(t114 @[DOK-bot1] опа, где-то сбились часы
+18oct26 15:13 DOK-DVK(t114 А, ну да, интернета нет, синхронизировать не по чем
+18oct26 15:14 DOK-DVK(t114 А бот отстал от жизни :)
+18oct26 15:14 DOK-DVK(t114 На репах время четко стоит
+18oct26 15:23 MAK_Daki     Test
+18oct26 15:26 MAK_Daki     Path
+18oct26 15:26 DOK-bot1     @[MAK_Daki]
+                           D6E2: GOR-DON-Direct-H340
+                           CCCC: DOK Sarmat_4 Yaga H224
+18oct26 15:28 MAK ZELENIY  Path
+18oct26 15:31 MAK ZELENIY  Test
+18oct26 15:49 DOK-DVK(t096 @[MAK_Daki] можешь тест повторить?
+18oct26 15:49 MAK_Daki     Test
+18oct26 15:50 DOK-bot1     @[MAK_Daki] путь:6666 (1 hops),  | Шло:Sync Device Clock, услышал в: 15:49:50 | Регион:ru-dnr
+18oct26 15:50 MAK_Daki     @[DOK-DVK(t096)] повторил
+18oct26 15:51 DOK-DVK(t096 Не помогло часам
+18oct26 15:51 DOK-bot1     @[DOK-DVK(t096)] путь:Direct, N/A | Шло:Sync Device Clock, услышал в: 15:51:11 | Регион:ru
+18oct26 15:52 MAK_Daki     @[DOK-DVK(t096)] да я в курсе, что то не помагает
+18oct26 15:52 DOK-DVK(t096 Test
+18oct26 15:52 DOK-bot1     @[DOK-DVK(t096)] путь:Direct, N/A | Шло:Sync Device Clock, услышал в: 15:52:26 | Регион:ru
+18oct26 15:53 MAK ZELENIY  Test
+18oct26 15:53 DOK-bot1     ?
+18oct26 15:54 MAK ZELENIY  Path
+18oct26 15:56 DOK-DVK(t096 Test
+18oct26 15:56 DOK-bot1     @[DOK-DVK(t096)] путь:Direct, N/A | Шло:Sync Device Clock, услышал в: 15:55:57 | Регион:ru
+18oct26 15:56 MAK_Daki     Path
+18oct26 15:57 DOK-bot1     @[MAK_Daki]
+                           AA71: Hell Repeater
+18oct26 15:58 MAK_Daki     Test
+18oct26 16:00 MAK_Daki     Не пойму то услышано 8 ретриков а потом 3 что за байда
+18oct26 16:02 MAK ZELENIY  Path
+18oct26 16:03 DOK-bot1     @[MAK ZELENIY 114]
+                           6ED2: MAK ZELENIY REP H229
+                           FEFE: DOK-SNT_SOSNA-H139
+                           BBBB: DOK Bloxa_2 H220
+18oct26 16:03 MAK ZELENIY  На месте родимая)
+18oct26 16:05 DOK-Cleric77 Path
+18oct26 16:05 DOK-bot1     @[DOK-Cleric777]
+                           B2F9: DOK Kalinovka H210
+                           BBBB: DOK Bloxa_2 H220
+18oct26 16:37 DOK-762-Pape test
+18oct26 16:38 DOK-bot1     @[DOK-762-Paper] путь:eeee (1 hops),  | Шло:Sync Device Clock, услышал в: 16:37:53 | Регион:ru
+18oct26 17:57 DOK-DVK(t096 Test
+18oct26 17:58 DOK-bot1     @[DOK-DVK(t096)] путь:Direct, N/A | Шло:Sync Device Clock, услышал в: 17:57:47 | Регион:ru
+18oct26 19:13 DOK Voroshil Path
+18oct26 19:13 DOK-bot1     @[DOK Voroshilov]
+                           6666: DOK NaRostov Yaga H225
+18oct26 19:53 DOK-MRTK     Test
+18oct26 19:53 DOK-bot1     @[DOK-MRTK] путь:6666 (1 hops),  | Шло:6598ms, услышал в: 19:53:38 | Регион:ru-dnr
+18oct26 19:56 MAK_Daki     Test
+18oct26 20:00 DOK-DVK(t114 @[MAK_Daki] я пока гену заводить не буду,  надо масло поменять
+18oct26 20:02 DOK Mob2     Path
+18oct26 20:02 DOK-DVK(t114 Пока бот работать не будет без гены
+18oct26 20:03 MAK_Daki     @[DOK-DVK(t114)] понятно, мы ещё без света
+18oct26 20:57 DOK-DVK(t114 @[MAK_Daki] снова завёл генератор. Ибо хз...
+18oct26 20:58 DOK-DVK(t114 Ping
+18oct26 20:58 DOK-bot1     Pong!
+18oct26 21:02 MAK ZELENIY  @[DOK-DVK(t114)] мда, печально всё это( lpr пишут опять летят
+18oct26 21:03 MAK ZELENIY  Path
+18oct26 21:04 DOK_VTK_mob  Test
+18oct26 21:04 DOK-DVK(t114 Test
+18oct26 21:04 DOK-bot1     @[DOK-DVK(t114)] путь:Direct, N/A | Шло:3219ms, услышал в: 21:04:39 | Регион:ru
+18oct26 21:37 MAK_22Line☺  @[MAK ZELENIY 114] 😱
+18oct26 21:44 MAK ZELENIY  @[MAK_22LineⓂ️] о, директ)
+18oct26 21:57 MAK_Daki     Test
+18oct26 22:01 MAK_Daki     Path
+18oct26 22:01 DOK-bot1     @[MAK_Daki]
+                           7070: MAK Solnechniy-1 Н220
+                           6ED2: MAK ZELENIY REP H229
+                           AA71: Hell Repeater
+18oct26 22:02 MAK_Daki     Test
+18oct26 22:02 DOK-bot1     @[MAK_Daki] путь:1111 (1 hops),  | Шло:5298ms, услышал в: 22:02:02 | Регион:ru-dnr
+18oct26 22:31 DOK-DVK(t096 Pong
+18oct26 22:31 DOK-DVK(t096 Ping
+18oct26 22:32 DOK-DVK(t096 Кинетик долго грузится
+18oct26 22:33 DOK-DVK(t096 Pong
+18oct26 22:35 DOK-DVK(t096 Pong
+18oct26 22:41 DOK-DVK(t096 Pong
+18oct26 22:41 DOK-bot1     Ping!
+18oct26 22:41 DOK-DVK(t096 Завелся
+19oct26 07:28 VISAT        Path
+19oct26 08:40 MAK_GVRD     Света у них увы нет.
+                           Бот потух
+19oct26 09:16 DVK(LllyGo+) ping
+19oct26 09:19 DVK(LllyGo+) pong
+19oct26 09:19 DOK-bot1     Ping!
+19oct26 09:20 DVK(LllyGo+) завел генератор
+19oct26 09:41 DOK-DVK(t114 Test
+19oct26 09:41 DOK-DVK(t114 Pong
+19oct26 09:41 DOK-bot1     Ping!
+19oct26 09:42 DOK-DVK(t114 Test
+19oct26 09:48 MAK ZELENIY  Path

@@ -314,3 +314,42 @@
 18oct26 09:39 MM/DZ        Ping
 18oct26 09:39 NNO-ELN-BOT  @[MM/DZ] | f62b,beef,ba98,a9c4 | f62b,beef,ba98,a9c4 (4 hops) | SNR: 13.25 dB | RSSI: -50 dBm
 18oct26 09:39 DeadFeedBot  @[MM/DZ] Pong! | f62b,beef,09a7,e59b (4 hops) | SNR: Unknown dB | RSSI: -101 dBm
+18oct26 10:22 catsquatch☺  P
+18oct26 10:23 NNO-ELN-BOT  EDAA: BOR-2MK-43
+                           0651: NN-KAN-47
+                           9182: NN-NIZ-12
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+18oct26 16:49 MM/DZ        Ping
+18oct26 16:50 DZR/Bot-MM   Pong! @[MM/DZ] f62b,8532 (2 hops) | SNR: 12.75 dB | RSSI: -19 dBm
+18oct26 16:50 NNO-ELN-BOT  @[MM/DZ] | f62b,beef,ba98,a9c4 | f62b,beef,ba98,a9c4 (4 hops) | SNR: 12.75 dB | RSSI: -57 dBm
+18oct26 17:57 MOBI-NN-56   Ping
+18oct26 17:57 NNO-ELN-BOT  @[MOBI-NN-56] | f432,a9c4 | f432,a9c4 (2 hops) | SNR: 10.5 dB | RSSI: -67 dBm
+18oct26 17:57 DeadFeedBot  @[MOBI-NN-56] Pong! | 9182 (1 hops) | SNR: Unknown dB | RSSI: -102 dBm
+18oct26 19:30 Balumba      Ping
+18oct26 19:30 NNO-ELN-BOT  @[Balumba] | f432,a9c4 | f432,a9c4 (2 hops) | SNR: 11.75 dB | RSSI: -64 dBm
+18oct26 19:30 DeadFeedBot  @[Balumba] Pong! | f432,e59b (2 hops) | SNR: -1.0 dB | RSSI: -98 dBm
+18oct26 22:00 Cactus       Ping
+18oct26 22:00 DeadFeedBot  @[Cactus] Pong! | e59b (1 hops) | SNR: 2.5 dB | RSSI: -100 dBm
+18oct26 22:01 Cactus       P
+18oct26 22:01 NNO-ELN-BOT  A9C4: NNO-ELN-32
+19oct26 06:34 ☺☺ Siri      P
+19oct26 06:34 NNO-ELN-BOT  5500: BOR-LIN-55
+                           09A7: NN-NIZ-60
+                           9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+19oct26 06:35 ☺☺ Siri      P
+19oct26 06:36 ☺☺ Siri      Path
+19oct26 06:36 NNO-ELN-BOT  5500: BOR-LIN-55
+                           9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+19oct26 06:36 DZR/Bot-MM   5500: BOR-LIN-55
+                           9182: NN-NIZ-12
+                           F881: NN-MOS-16-OBSERVER
+                           0AF0: NN-MOS-16
+                           0651: NN-KAN-47
+                           BEEF: DZ-ZAP-03
+19oct26 06:36 DeadFeedBot  5500: BOR-LIN-55
+                           9182: NN-NIZ-12

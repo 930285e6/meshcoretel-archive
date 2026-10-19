@@ -200,3 +200,54 @@
 18oct26 09:34 ULV_Orange   - Bы moжe зaмemuлu, чmo чam GPT cmaнoвumcя mynee?
                            - Oн noдcmpauвaemcя noд noльзoвameля.
 18oct26 09:35 ULV_Orange   Ceйчac в Ульянoвcкe +12 Ceгoдня om +9 дo +16 Oблaчнo c npoяcнeнuямu Дoждь yжe uдem u зaкoнчumcя в 10
+18oct26 12:11 METAR Bot    ack @[Gin] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 1.5 дБ | RSSI: -103 дБм | 3.1s
+18oct26 12:49 Gin          test
+18oct26 12:49 ULV-alx32-bo ack @[Gin] | 485d,d8be,acca,2b63,a6b4,1717,3537,5c2d (8 hops) | SNR: 7.0 dB | RSSI: -106 dBm | Received at: 08:49:37
+18oct26 20:53 R0mka        Ping
+18oct26 20:53 UlV_ewowko_b Pong!
+18oct26 20:53 ULV-alx32-bo Pong!
+18oct26 20:57 R0mka        Test
+18oct26 20:57 UlV_ewowko_b ack @[R0mka] | feda,fdfd,075e (3 hops) | SNR: 13.0 dB | RSSI: -56 dBm | Received at: 20:57:11
+19oct26 08:45 ULV_Fox      test
+19oct26 08:45 UlV_ewowko_b ack @[ULV_Fox] | 075e (1 hops) | SNR: 10.5 dB | RSSI: -54 dBm | Received at: 08:45:50
+19oct26 08:45 ULV-alx32-bo ack @[ULV_Fox] | 075e,2017 (2 hops) | SNR: 13.75 dB | RSSI: -57 dBm | Received at: 04:45:51
+19oct26 08:47 Gaiver v3    Test
+19oct26 08:48 UlV_ewowko_b ack @[Gaiver v3] | 075e (1 hops) | SNR: 10.75 dB | RSSI: -53 dBm | Received at: 08:47:55
+19oct26 08:48 ULV-alx32-bo ack @[Gaiver v3] | ace1,3537,4614 (3 hops) | SNR: 1.5 dB | RSSI: -112 dBm | Received at: 04:47:58
+19oct26 08:48 Ulv_Muhomor☺ P
+19oct26 08:48 ULV-alx32-bo 1717: ULV_VT_PURPLE
+                           3537: ULV_KND_Earendel
+                           57F2: ULV_DZ_EVGENGR_NL
+19oct26 08:49 Ulv_Muhomor☺ Path
+19oct26 08:49 ULV-alx32-bo ACE1: ULV_VT_Olimp
+                           3537: ULV_KND_Earendel
+                           2DE8: ULV-alx32-ft-rep
+19oct26 08:49 METAR Bot    ACE1: ULV_VT_Olimp
+                           2B63: TLT RPT Dim 1
+19oct26 09:10 ULV-Green    P
+19oct26 09:10 ULV-alx32-bo 373A: ULV_SV_Rep_Repeater
+                           5546: ULV_DZ_smk0_NovGzn
+                           4614: Repeater_DK_DZ_ULV
+19oct26 09:10 UlV_ewowko_b 373A: ULV_SV_Rep_Repeater
+                           5546: ULV_DZ_smk0_NovGzn
+                           075E: ULV_NG_ewowko
+19oct26 09:13 ULV-Green    P
+19oct26 09:13 ULV-alx32-bo 373A: ULV_SV_Rep_Repeater
+                           5546: ULV_DZ_smk0_NovGzn
+                           5C2D: ULV_DZ_smk0_A.Nevskogo
+19oct26 09:26 ULV-Green    P
+19oct26 09:26 UlV_ewowko_b 373A: ULV_SV_Rep_Repeater
+                           2017: Unknown
+                           075E: ULV_NG_ewowko
+19oct26 10:15 ULV-Green    E
+19oct26 10:21 ULV-Green    Eee
+19oct26 10:26 ULV-Green    Ae
+19oct26 10:31 ULV-Green    Aeee
+19oct26 10:41 ULV_Fox      тест
+19oct26 10:52 ULV-Green    Eee
+19oct26 11:01 ULV-Green    Tecт
+19oct26 11:07 ULV_Fox      напиши мессагу, хотябы слов 5
+19oct26 11:08 ULV-Green    - Tы ктo?
+                           - Блoгep
+                           - Я тoжe ничeгo нe yмeю...
+19oct26 11:11 ULV_Fox      отлично!

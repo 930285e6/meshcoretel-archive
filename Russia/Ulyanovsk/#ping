@@ -626,3 +626,60 @@
 18oct26 09:29 METAR Bot    Понг @[1c4c Mobile] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 12.75 дБ | RSSI: -94 дБм | 2.6s
 18oct26 10:39 Aneto73      Пинг
 18oct26 10:40 METAR Bot    Понг @[Aneto73] | 075e(ULV_NG_ewowk),1717(ULV_VT_PURPL),575d(TLT RM62 Tes) (3 хопа) | SNR: 12.25 дБ | RSSI: -85 дБм | 17.8s
+18oct26 11:50 ULV_Orange   Help
+18oct26 11:50 ULV-alx32-bo Bot Help: ping, path, test, wx, help, advert, airplanes, alert, announcements, aqi, aurora, catfact, channelpause | More: 'help <command>'
+18oct26 11:50 ULV_Orange   Help airplanes
+18oct26 12:12 Gin          Ping
+18oct26 12:12 METAR Bot    Понг @[Gin] | acca(SMR_868S),2b63(TLT RPT Dim) (2 хопа) | SNR: 11.5 дБ | RSSI: -95 дБм | 2.9s
+18oct26 12:19 ULV_Ilyakr11 ping
+18oct26 12:19 ULV-alx32-bo Pong!
+18oct26 12:19 METAR Bot    Понг @[ULV_Ilyakr111] | 418a(ULV_CNT_DC09),5546(ULV_DZ_smk0_),1717(ULV_VT_PURPL),575d(TLT RM62 Tes) (4 хопа) | SNR: 12.0 дБ | RSSI: -83 д
+18oct26 12:20 ULV_Orange   Path
+18oct26 12:41 ULV-alx32-ft Catfact
+18oct26 12:41 ULV-alx32-bo Cats walk like camels and giraffes, moving both right legs then both left legs. 🐾
+18oct26 13:26 ☺Ivan TLT    Ping
+18oct26 13:26 ☺InfoBot     Hey, 📟Ivan TLT!
+                           Pong with 2 hops: TLT R16_2, TLT R6 MQTT
+18oct26 13:26 ULV-alx32-bo Pong!
+18oct26 14:05 Toster ☺     ping
+18oct26 14:05 ULV-alx32-bo Pong!
+18oct26 14:05 METAR Bot    Понг @[Toster 🍞] | 2e43(Samara Room),acca(SMR_868S),2b63(TLT RPT Dim) (3 хопа) | SNR: 11.5 дБ | RSSI: -95 дБм | 5.2s
+18oct26 18:39 ULV_Ilyakr11 ping
+18oct26 18:39 ULV-alx32-bo Pong!
+18oct26 18:39 ☺InfoBot     Hey, ULV_Ilyakr111!
+                           Pong with 6 hops: 7f22, ULV_CNT_DC09_PALKA, ULV_VT_Olimp, ULV_VT_PURPLE, TLT R16_2, TLT R6 MQTT
+18oct26 18:50 ARK-1        Ping
+18oct26 18:50 ULV-alx32-bo Pong!
+18oct26 18:53 ULV_NT_Skif_ P
+18oct26 18:53 ULV-alx32-bo 18BA: ULV_NT_Skif
+                           1717: ULV_VT_PURPLE
+                           3537: ULV_KND_Earendel
+                           5C2D: ULV_DZ_smk0_A.Nevskogo
+18oct26 20:15 DA T096      Trace
+18oct26 20:15 ULV-alx32-bo @[DA T096] Trace failed: No trace response within timeout (path: 8bf7,1717,2b63,acca,b92f,acca,2b63,1717,8bf7)
+18oct26 20:15 UlV_ewowko_b @[DA T096] Trace failed: No trace response within timeout (path: d488,1717,2b63,acca,b92f,acca,2b63,1717,d488)
+18oct26 20:16 METAR Bot    @[DA T096] Трассировка не удалась: no_event_received
+18oct26 21:25 ULV_Orange   Ping
+18oct26 21:36 Stanis       ping
+18oct26 21:36 ☺InfoBot     Hey, Stanis!
+                           Pong with 2 hops: Druz_repeater, TLT RPT Dim 1
+18oct26 21:36 ULV-alx32-bo Pong!
+18oct26 21:36 ULV_Orange   Ping
+18oct26 21:36 UlV_ewowko_b Pong!
+18oct26 21:36 ☺InfoBot     Hey, ULV_Orange!
+                           Pong with 3 hops: ULV_NG_Atmosphere, ULV_VT_PURPLE, TLT RM62 Test
+18oct26 21:36 METAR Bot    Понг @[ULV_Orange] | 2482(ULV_NG_Atmos),1717(ULV_VT_PURPL),feda(TLT R16_2) (3 хопа) | SNR: 4.25 дБ | RSSI: -108 дБм | 3.9s
+18oct26 21:47 ULV_Orange   @[Stanis] напиши мне в лс ради теста
+18oct26 21:49 ULV_Orange   Тольятти, напишите в лс
+18oct26 21:53 ᨖVLDᨖ        @[ULV_Orange] хорошо
+18oct26 22:06 ᨖVLDᨖ        @[ULV_Orange] Не хочет он почему-то отправлять
+18oct26 23:34 ARK-1        Ping
+18oct26 23:34 ☺InfoBot     Hey, ARK-1!
+                           Pong with 4 hops: OKT_toSMR_r02, SMR_ФpунзeM.B.265°, SMR_868S, TLT RPT Dim 1
+18oct26 23:34 UlV_ewowko_b Pong!
+18oct26 23:35 ulv_ewowko☺  Оо Сезаро👀
+18oct26 23:35 ulv_ewowko☺  Сызрань
+18oct26 23:36 ARK-1        Окт )
+19oct26 10:49 ULV_Ilyakr11 ping
+19oct26 10:49 UlV_ewowko_b Pong!
+19oct26 11:17 ULV-Green    P

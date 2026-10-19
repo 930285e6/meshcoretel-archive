@@ -863,3 +863,75 @@
 18oct26 09:53 DZR/Bot-MM   Pong! @[MM/DZ] f62b,8532 (2 hops) | SNR: 12.25 dB | RSSI: -21 dBm
 18oct26 09:53 NNO-ELN-BOT  @[MM/DZ] | f62b,beef,9182,a9c4 | f62b,beef,9182,a9c4 (4 hops) | SNR: 12.75 dB | RSSI: -54 dBm
 18oct26 09:53 DeadFeedBot  @[MM/DZ] Pong! | f62b,beef,9182 (3 hops) | SNR: 1.5 dB | RSSI: -101 dBm
+18oct26 12:37 gm433        P
+18oct26 12:37 NNO-ELN-BOT  C2AC: NN433-FED-23
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+18oct26 16:11 MM/DZ        Ping
+18oct26 16:12 NNO-ELN-BOT  @[MM/DZ] | f62b,beef,09a7,0c11,c9cd,a9c4 | f62b,beef,09a7,0c11,c9cd,a9c4 (6 hops) | SNR: 11.75 dB | RSSI: -53 dBm
+18oct26 16:47 JohnWick     P
+18oct26 16:47 NNO-ELN-BOT  0C11: NNO-CHR-52
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+18oct26 16:50 MM/DZ        P
+18oct26 16:50 NNO-ELN-BOT  F62B: DZ-OLD-14
+                           BEEF: DZ-ZAP-03
+                           BA98: NN-SRM-15
+                           A9C4: NNO-ELN-32
+18oct26 17:00 MM/DZ        Ping
+18oct26 17:00 DZR/Bot-MM   Pong! @[MM/DZ] f62b,8532 (2 hops) | SNR: 12.5 dB | RSSI: -20 dBm
+18oct26 17:00 DeadFeedBot  @[MM/DZ] Pong! | f62b,beef,ba98,a9c4,d1a7,c9cd (6 hops) | SNR: -4.0 dB | RSSI: -119 dBm
+18oct26 17:00 NNO-ELN-BOT  @[MM/DZ] | f62b,beef,ba98,a9c4 | f62b,beef,ba98,a9c4 (4 hops) | SNR: 11.5 dB | RSSI: -61 dBm
+18oct26 17:54 Balumba      Ping
+18oct26 17:54 NNO-ELN-BOT  @[Balumba] | ce77,9182,a6f8,a9c4 | ce77,9182,a6f8,a9c4 (4 hops) | SNR: 10.5 dB | RSSI: -59 dBm
+18oct26 17:54 DeadFeedBot  @[Balumba] Pong! | ce77,9182 (2 hops) | SNR: 4.25 dB | RSSI: -102 dBm
+18oct26 17:56 MOBI-NN-56   Ping
+18oct26 17:56 DeadFeedBot  @[MOBI-NN-56] Pong! | 9182 (1 hops) | SNR: 0.25 dB | RSSI: -103 dBm
+18oct26 18:52 JohnWick     Ping
+18oct26 18:52 NNO-ELN-BOT  @[JohnWick] | 0c11,e59b,a9c4 | 0c11,e59b,a9c4 (3 hops) | SNR: 12.25 dB | RSSI: -63 dBm
+18oct26 18:52 DeadFeedBot  @[JohnWick] Pong! | 0c11,e59b (2 hops) | SNR: 3.75 dB | RSSI: -99 dBm
+18oct26 19:34 Balumba      Ping
+18oct26 19:34 DeadFeedBot  @[Balumba] Pong! | 09a7 (1 hops) | SNR: -8.5 dB | RSSI: -114 dBm
+18oct26 20:44 JohnWick     P
+18oct26 20:44 NNO-ELN-BOT  0C11: NNO-CHR-52
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+18oct26 22:01 Cactus       P
+18oct26 22:01 DZR/Bot-MM   E59B: NN-ANK-40
+                           09A7: NN-NIZ-60
+                           ACBD: NN-SRM-09
+                           0651: NN-KAN-47
+                           CADE: DZ-ZAP-34
+                           BEEF: DZ-ZAP-03
+                           8532: DZ-OLD-11
+18oct26 23:25 JohnWick     Path
+18oct26 23:25 NNO-ELN-BOT  0C11: NNO-CHR-52
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+18oct26 23:25 DeadFeedBot  0C11: NNO-CHR-52
+                           E59B: NN-ANK-40
+19oct26 06:34 ☺☺ Siri      P
+19oct26 06:38 ☺☺ Siri      P
+19oct26 06:38 NNO-ELN-BOT  5500: BOR-LIN-55
+                           5226: NN-NIZ-57
+                           CE77: NN-NIZ-13
+                           9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+19oct26 08:14 MM/DZ        Ping
+19oct26 08:15 NNO-ELN-BOT  @[MM/DZ] | f62b,beef,eb91,e59b,a9c4 | f62b,beef,eb91,e59b,a9c4 (5 hops) | SNR: 12.25 dB | RSSI: -52 dBm
+19oct26 08:15 DeadFeedBot  @[MM/DZ] Pong! | f62b,beef,eb91,e59b (4 hops) | SNR: 4.5 dB | RSSI: -103 dBm
+19oct26 08:28 MOBI-NN-56   P
+19oct26 08:28 NNO-ELN-BOT  09A7: NN-NIZ-60
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+19oct26 08:28 DZR/Bot-MM   09A7: NN-NIZ-60
+                           ACBD: NN-SRM-09
+                           BA98: NN-SRM-15
+                           BEEF: DZ-ZAP-03
+19oct26 08:52 ☺KurwaMicro  Ping
+19oct26 08:52 DeadFeedBot  @[🦫KurwaMicro] Pong! | ce77 (1 hops) | SNR: -8.25 dB | RSSI: -119 dBm
+19oct26 08:52 DZR/Bot-MM   Pong! @[🦫KurwaMicro] ce77,beef (2 hops) | SNR: -1.25 dB | RSSI: -111 dBm
+19oct26 09:08 ☺            P
+19oct26 09:09 DZR/Bot-MM   09A7: NN-NIZ-60
+                           BEEF: DZ-ZAP-03
