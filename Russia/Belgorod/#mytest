@@ -52,3 +52,29 @@
                            🔹 Полный ID: c4
                            🟡 Статус: Асимметрия линка ❌
                            ℹ️ (За 10003.8ms от
+20oct26 08:42 XV_bel       /pingex c4
+20oct26 09:58 XV_bel       /trace c4,be,c4
+20oct26 10:00 VG_Info      Timeout error
+20oct26 10:02 VG_Info      Timeout error
+20oct26 10:05 VG_Info      🛰️ [Трейсер]: Тестирую проходимость цепочки из 3 нод для XV_bel...
+20oct26 10:08 XV_bel       /trace c4,be,c4
+20oct26 10:08 VG_Info      🛰️ [Трейсер]: Тестирую проходимость цепочки из 3 нод для XV_bel...
+20oct26 10:09 XV_bel       /trace c4,b3,c4
+20oct26 10:09 VG_Info      __XV_bel__:
+                           rrt: 11779.9ms
+                           route:
+                           🟢 1: VG_bel ➡️ ОК (718.5ms)
+                           🟡 2: BEL Vatutina H242 Omni ➡️ Асимметрия линка ❌
+                           🟢 3
+20oct26 10:23 XV_bel       /trace c4,4a,c4
+20oct26 10:23 VG_Info      __XV_bel__:
+                           rrt: 11782.7ms
+                           route:
+                           🟢 1: VG_bel ➡️ ОК (667.8ms)
+                           🟡 2: BEL_Okt_270 ➡️ Асимметрия линка ❌
+                           🟢 3: VG_bel
+20oct26 10:47 XV_bel       /trace c4,4a,c4
+20oct26 10:48 XV_bel       /trace c4,4a,c4
+20oct26 11:18 XV_bel       /trace c4,4a,c4
+20oct26 11:21 XV_bel       /trace c4,4a,c4
+20oct26 11:27 XV_bel       Ping

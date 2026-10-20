@@ -1,0 +1,28 @@
+﻿20oct26 15:58 MC26         test
+20oct26 16:01 MC26         test
+20oct26 16:04 MC26         test
+20oct26 16:04 K26Bot       ack @[MC26] | Direct | SNR: 7.5 dB | RSSI: -83 dBm | Received at: 16:04:26
+20oct26 16:06 MC26         help
+20oct26 16:09 MC26         path
+20oct26 16:09 K26Bot       Прямое соединение (0 хопов)
+20oct26 16:09 MC26         multitest
+20oct26 16:10 MC26         multitest
+20oct26 16:10 K26Bot       Found 1 unique path(s) for @[MC26]:
+                           2624
+20oct26 16:13 MC26         test
+20oct26 16:13 K26Bot       ack @[MC26] | Direct | SNR: 6.75 dB | RSSI: -85 dBm | Received at: 16:13:34
+20oct26 16:13 MC26         prefix
+20oct26 16:14 MC26         ping
+20oct26 16:16 MC26         Test
+20oct26 16:16 K26Bot       ack @[MC26] | Direct | SNR: 8.25 dB | RSSI: -82 dBm | Received at: 16:16:37
+20oct26 16:17 MC26         Тест
+20oct26 16:17 MC26         Prefix
+20oct26 16:17 MC26         Ver
+20oct26 16:17 K26Bot       @[MC26] Bot version: v1.1.0
+20oct26 16:19 MC26         @[K26Bot] t
+20oct26 16:19 K26Bot       ack @[MC26] | Direct | SNR: 8.25 dB | RSSI: -81 dBm | Received at: 16:19:27
+20oct26 16:19 K26Bot       ack @[MC26] | Direct | SNR: 8.5 dB | RSSI: -81 dBm | Received at: 16:19:44
+20oct26 16:20 MC26         !test
+20oct26 16:20 K26Bot       ack @[MC26] | Direct | SNR: 8.5 dB | RSSI: -81 dBm | Received at: 16:20:00
+20oct26 16:21 MC26         Stats
+20oct26 16:21 K26Bot       Команда stats отключена
