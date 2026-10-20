@@ -771,3 +771,63 @@
 19oct26 15:27 Matyas Vetrn Zdravím z Českých Budějovic
 19oct26 15:30 Jan_B_Floren Ahoj z Praglu
 19oct26 15:46 Petr Vcelna  @[Matyas Vetrna] Taky tě zdravím z Budějc!
+19oct26 17:45 Aida-PRG     Zas ráno... Grrr
+19oct26 17:48 White TakeAw Máte někdo namontovaný companion napevno v autě? Přemýšlím kam s ním kuli signálu.
+19oct26 17:54 szczurkosmic Ráno? Vždyť je skoro čas na oběd!
+19oct26 18:01 amm.ave      @[White TakeAway        🌀] na vejfuk? jako u spravneho Multiterrain Commuteru. https://m.or.cz/?FxNLn3w9.png
+19oct26 18:02 Alkel Brostl Kdysi dávno si lidi pochvalovali nějaké magnetické antény na střechu.
+19oct26 18:06 011111000101 @[White TakeAway        🌀] koupil jsem nejakou magnetickou antenu z alika. Not good not terrible. Ale lepsi nez rptr jen v aute.
+19oct26 18:43 White TakeAw @[011111000101] ale já to parkuju na ulici a nechci pořád sundávat anténu.
+19oct26 18:44 011111000101 @[White TakeAway        🌀] ja ju tam mam furt 😂 nesundavam. Stalo to 2-3 stovky. Takze to preziju kdyz se to nekomu buede libit
+19oct26 18:47 011111000101 Jakoze to nekdo ukradne 😂 budu to brat tak, ze to potreboval nekdo vic nez ja 😂
+19oct26 18:49 amm.ave      @[011111000101] kde presne parkujes? ptam se pro kamarada, chce videt jak to vypada v realu
+19oct26 18:58 White TakeAw @[011111000101] raději bych šel nalepením antény zevnitř na sklo apod.
+19oct26 19:06 Petr-Lie1 ☺  @[amm.ave] to jezdi ve vodě az po střechu, ze ma ten výfuk, nafuk tak vysoko? 😂
+19oct26 19:07 amm.ave      nikdy nevis kdy se zase prizene nejaka exmt vlna, vzdy pripraven
+19oct26 19:56 Kimitko Mobi @[White TakeAway        🌀] mam magnetickou ze Sectronu uz 3 roky na strese a kabel prelepeny paskou. Neni to hezke ale funguje
+19oct26 21:20 011111000101 @[amm.ave] dobrej pokus 😂😂😂
+20oct26 00:32 Foxtrot☺     @[amm.ave] 🦊👍
+20oct26 02:59 Jakub-OVA    Dobrý večír!
+20oct26 03:09 douby.deskto @[Jakub-OVA] Ahoj Kubo
+20oct26 03:10 Honzaaa      @[Jakub-OVA] Bo fajny večír
+20oct26 03:10 Martin OK4IM Dobrý večer od nádraží v Zábřehu
+20oct26 03:11 Honzaaa      Monitoruje tu někdo situaci ohledně 2.4 GHz v Meshcoru?
+20oct26 03:12 Cezar Mesch  @[Martin OK4IMK/P] dobrý večer ze Žižkova. 😉
+20oct26 03:13 MARDO_JBC    @[Honzaaa] jako že se plánuje jet 2.4ghz?
+20oct26 03:13 Peva         @[Martin OK4IMK/P] 👍
+20oct26 03:14 Honzaaa      @[MARDO_JBC] mezi reapetery
+20oct26 03:15 Cezar Mesch  @[Honzaaa] proč?
+20oct26 03:17 Alpaca       Nezabilo by 2.4GHz kouzlo long range vsesmeru? Penetrace by byla daleko horsi.
+20oct26 03:17 Alkel Brostl Já po 2.4 koukal jako že by byly super duální companiony s 2.4 dokrytím uvnitř budov - ale to má hodně prerekvizit
+20oct26 03:17 MARDO_JBC    to si právě myslím že dosah by byl mnohem horší
+20oct26 03:19 Alkel Brostl ESP-NOW samozřejmě něco takového už poskytuje, ale spíš jsem myslel duální LoRa rádio jako Ebyte E80
+20oct26 03:20 douby.deskto To by mohlo být zajímavé. Linkování rádií jsem zkoušel přes sériovku a jelo to. Měl jsem mescore bridge 868-169 MHz.
+20oct26 03:21 Honzaaa      2.4 pasmo je vice zarusene, hlavne wifinama no
+20oct26 03:23 douby.deskto @[Honzaaa] S řekněme 100 kHz kanálem by nemusel být problém se někam vlézt ne?
+20oct26 03:25 Honzaaa      Ale zase bych si uměl představit snazší spojení se zahraničím, že by na hranicích si to reapetery předaly po 2.4
+20oct26 03:27 Alkel Brostl @[Honzaaa] V čem je jednodušší spojit repeatery po dedikovaném 2,4GHz rádiu které ty nody obvykle nemají než po UART?
+20oct26 03:38 Honzaaa      @[Alkel Brostl 🍺] Na UART je ale potřebuješ mít vedle sebe, ne? Po 2.4 GHz by stačilo dobře namířit z obou stran anténu
+20oct26 03:38 Honzaaa      @[douby.desktop] to máš pravdu, nebo bych si asi dokázal mezi “páteřnímy” reapetery představit sektorky místo vsesmeru
+20oct26 03:38 Honzaaa      @[Alkel Brostl 🍺] Nebo jestli ten UART nemyslíš jako fyzické propojení?
+20oct26 03:43 Alkel Brostl @[Honzaaa] Zatím MC firmware stejně nepodporuje mít víc rádií, takže bys musel stejně
+20oct26 03:44 Alkel Brostl mít UART na node s 2.4
+20oct26 03:47 Alkel Brostl Akorát to bude najednou dvakrát tolik nodů, protože je potřeba ještě jeden extra radiový spoj
+20oct26 03:47 Alkel Brostl Nedovedu si předstacvit mnoho situací, kde to dává smysl
+20oct26 03:49 Honzaaa      Ano,ja vychazim spise z legislativnich duvodu, kdy je vetsi sance,ze fungovani ve 2.4 bude vice sjednocene a svobodnejsi
+20oct26 03:50 Alpaca       Trochu offtopic: tusite nekdo duvod proc je bt/usb companion ve dvou separe fw? MT to ma v jednom a uzivatelsky je to parada.
+20oct26 03:50 Alpaca       @[Honzaaa] mezinarodne asi jo no
+20oct26 03:50 douby.deskto @[Alpaca] to by me tez zajimalo
+20oct26 03:51 Honzaaa      A plus tam teda neni duty cycle
+20oct26 03:54 Peva         @[Alpaca] paměť... Velikost ble stacku
+20oct26 04:30 sesivany-v4  @[Alpaca] protoze USB je aktualne vyhrazene pro serial logging.
+20oct26 04:31 sesivany-v4  Vice k tomu tady: https://blog.meshcore.io/2026/10/15/release-1-18-0
+20oct26 05:59 CZE_VeX☺     Brý večer, tak jak je na tom 1.18ka? Nebude zas do týdne 1.18.1? Nechce se mi lítat po kopcích co 3 dny :)
+20oct26 06:01 Alkel Brostl Však nespěchej - oprava toho ack delay je sice užitečná, ale nic kritickýho tam snad není :-)
+20oct26 06:01 Cezar Mesch  Dobrý večer, no je fakt, že ty aktualizace nabírají na tempu.
+20oct26 06:07 Martin OK4IM @[CZE_VeX⚜️] podle zákona schválnosti nová verze vyjde pár dní poté, co ty kopce obejdeš
+20oct26 06:08 CZE_VeX☺     @[Martin OK4IMK/P] přesně tak to bylo u 1.17.1 :D Proto se raději ptám jestli nejsou nějaké indicie.
+20oct26 06:18 Alkel Brostl @[CZE_VeX⚜️] no tak už to běž flashnout, ať můžou vydat tu novou verzi :D
+20oct26 06:23 CZE_VeX☺     A jestli se tak stane, kupuju drona. Tu budu běhat jak jitrnice ne 😅
+20oct26 12:39 QtW☺         Pohyb na vzduchu je zdravý.
+                           Ale taky občas nadávám na toho, kdo vymyslel, že nejlepší dosah je z vysokých poloh.
+20oct26 13:55 Tlakova_Nize Ahojte, chapu spravne ze kdyz muj device ma limit 350 kontaktu, tak uz se ofiko meshcore appka zadny dalsi repeatery nenauci?

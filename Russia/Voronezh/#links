@@ -4890,3 +4890,698 @@
 19oct26 10:06 NorthBot     Ack @[Vniiss28m] | Прыжков: 3 | bbf0,9da4,de4b (3 hops) | 12.7km (1 segs, 1 no-loc) км
 19oct26 10:06 RamonBot-8M  🤖 Copy, Vniiss28m!
                            bbf0→9da4→de4b→f50c→58c6→d7e9→9999, SNR 12.3 7 hops @ 10:05
+19oct26 10:32 Vniiss28m    Ping
+19oct26 10:33 NorthBot     Ack @[Vniiss28m]
+19oct26 10:33 Lazurny_8M☺  @[Vniiss28m] 📍 T-B Vniiss8R
+                           📍 Studenovka-Ssrv-8R
+                           📍 MP-8R
+                           📍 KIT-test-8R
+                           🌤️ +14°C | ☢️ 15.0 µR/h
+                           Help: /h
+19oct26 10:33 RamonBot-8M  🤖 Copy, Vniiss28m!
+                           bbf0→9da4→f2fb→5e2b→a768→36b6→0a50, SNR -4.8 7 hops @ 10:32
+19oct26 10:54 FSS-LILYGO-4 Пинг
+19oct26 10:55 NorthBot     Принято @[FSS-LILYGO-4M]
+19oct26 10:55 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 5 hops: DB40,0FF1,58BA,4AFC,F50C
+                           📍 TVK_North_miniyagi_4R
+19oct26 11:11 Suh+8M       Ping
+19oct26 11:11 NorthBot     Ack @[Suh+8M]
+19oct26 11:12 RamonBot-8M  🤖 Copy, Suh+8M!
+                           3bd4→5e2b→8000→0a50, SNR -3.5 4 hops @ 11:11
+19oct26 11:40 Labubu☺8S    Ping
+19oct26 11:40 NorthBot     Ack @[Labubu🌺8S]
+19oct26 11:40 Scout☺8Bot   @[Labubu🌺8S] 🔀 5 hops: A326,4AB7,7CC6,4AFC,F50C
+                           📍 Labubu🌺_bridge_8R
+19oct26 11:40 Scout☺8Bot   📍 4AB7 ❗Owner❗Manage->SyncClock❗
+                           📍 VRTTZ-8R
+                           📍 MMMESH-8R-V4
+                           📍 Ceвepный-8R
+19oct26 11:40 RamonBot-8M  🤖 Copy, Labubu🌺8S!
+                           a326→4ab7→7cc6→4afc→deda→58c6→d7e9→8000→0a50, SNR -8.8 9 hops @ 11:40
+19oct26 11:53 Ra2Run-8M    ping
+19oct26 11:53 Scout☺8Bot   @[Ra2Run-8M] 🔀 3 hops: C9,DE,F5
+                           📍 MahLazer-8BR
+                           ⚠️ DE 🦫Nizhnyaya_N_Mox_8R
+                           ⚠️ DE Corona-8R-N
+19oct26 11:53 Scout☺8Bot   ⚠️ DE Mcore-8R
+                           ⚠️ DE Rheostat-4R
+                           ⚠️ DE Slavnyi_8R (East)
+                           ⚠️ F5 DEPUT_4BR
+                           ⚠️ F5 Ceвepный-8R
+19oct26 11:53 Lazurny_8M☺  @[Ra2Run-8M] 📍 MahLazer-8BR
+                           📍 Veresk-8M
+                           🌤️ +16°C | ☢️ 12.5 µR/h
+                           Help: /h
+19oct26 11:54 Ra2Run-8M    /h
+19oct26 11:54 Lazurny_8M☺  Help:
+                           /w погода
+                           /wh прогноз 3ч
+                           /wd дневной
+                           /rad радиация
+19oct26 11:54 Ra2Run-8M    /wd
+19oct26 11:55 Lazurny_8M☺  Прогноз 4д:
+                           Вт 20 🌤️ +14/+9
+                           Ср 21 🌤️ +13/+6
+                           Чт 22 🌤️ +14/+8
+                           Пт 23 🌤️ +12/+6
+19oct26 11:55 Ra2Run-8M    /wh
+19oct26 12:07 FSS-LILYGO-4 Ping
+19oct26 12:07 NorthBot     Ack @[FSS-LILYGO-4M]
+19oct26 12:07 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 3 hops: B9DA,F2FB,5A3B
+                           📍 MP-4R
+                           📍 MP-8R
+                           📍 WaCky_hap-8R-W
+19oct26 12:08 RamonBot-8M  🤖 Copy, FSS-LILYGO-4M!
+                           dead→dd00→f50c→0544→eef0, SNR -10.0 5 hops @ 12:07
+19oct26 12:09 FSS-NRF52-8M Ping
+19oct26 12:09 Scout☺8Bot   @[FSS-NRF52-8M] 🔀 2 hops: F50C,40E7
+                           📍 Ceвepный-8R
+                           📍 Kit Severniy 8R
+19oct26 12:14 FSS-NRF52-8M Ping
+19oct26 12:14 Scout☺8Bot   @[FSS-NRF52-8M] 🔀 1 hops: 5A3B
+                           📍 WaCky_hap-8R-W
+19oct26 12:14 NorthBot     Ack @[FSS-NRF52-8M]
+19oct26 12:15 Lazurny_8M☺  @[FSS-NRF52-8M] 📍 WaCky_hap-8R-W
+                           📍 MMMESH-8R-V4
+                           📍 Slavnyi_8R (East)
+                           🌤️ +16°C | ☢️ 12.9 µR/h
+                           Help: /h
+19oct26 12:15 RamonBot-8M  🤖 Copy, FSS-NRF52-8M!
+                           5a3b→4afc→b1ba→a768→9999, SNR 12.3 5 hops @ 12:14
+19oct26 12:16 FSS-NRF52-8M Ping
+19oct26 12:16 Scout☺8Bot   @[FSS-NRF52-8M] 🔀 1 hops: 40E7
+                           📍 Kit Severniy 8R
+19oct26 12:16 abrawkin-8M  Test
+19oct26 12:16 Scout☺8Bot   @[abrawkin-8M 🥷] 🔀 2 hops: F3A9,F50C
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+19oct26 12:16 NorthBot     Ack @[abrawkin-8M 🥷] | Прыжков: 2 | f3a9,f50c (2 hops) | 4.3km (1 segs) км
+19oct26 12:17 RamonBot-8M  🤖 Copy, abrawkin-8M 🥷!
+                           f3a9→f50c→b1ba→58c6→d7e9→9999, SNR 13.8 6 hops @ 12:16
+19oct26 12:17 FSS-NRF52-8M Ping
+19oct26 12:18 Scout☺8Bot   @[FSS-NRF52-8M] 🔀 4 hops: 7FBA,94F0,DE4B,5A3B
+                           📍 tbgi-8R
+                           📍 SunCore_8R
+                           📍 Corona-8R-N
+                           📍 WaCky_hap-8R-W
+19oct26 12:18 Lazurny_8M☺  @[FSS-NRF52-8M] 📍 tbgi-8R
+                           📍 tbgh-8R
+                           📍 KIT-test-8R
+                           📍 Lazurny_8R(bridge)
+                           🌤️ +16°C | ☢️ 11.6 µR/h
+                           Help: /h
+19oct26 12:18 Scout☺8Bot   @[Lazurny_8M💠] 🔀 3 hops: 5A3B,DD00,B1BA
+                           📍 WaCky_hap-8R-W
+                           📍 Rheostat-8R
+                           📍 Slavnyi_8R (North)
+19oct26 12:19 FSS-NRF52-8M Ping
+19oct26 12:19 NorthBot     Ack @[FSS-NRF52-8M]
+19oct26 12:19 Scout☺8Bot   @[FSS-NRF52-8M] 🔀 3 hops: BDD6,919D,40E7
+                           📍 SPTNK_8R👾
+                           📍 LSBR-8R
+                           📍 Kit Severniy 8R
+19oct26 12:20 RamonBot-8M  🤖 Copy, FSS-NRF52-8M!
+                           bdd6→bc88→d7e9→9999, SNR 12.3 4 hops @ 12:19
+19oct26 12:37 FSS-NRF52-8M Ping
+19oct26 12:37 Scout☺8Bot   @[FSS-NRF52-8M] 🔀 3 hops: BBF0,9DA4,DE4B
+                           📍 T-B Vniiss8R
+                           📍 Studenovka-Ssrv-8R-SE
+                           📍 Corona-8R-N
+19oct26 12:37 NorthBot     Ack @[FSS-NRF52-8M]
+19oct26 12:37 RamonBot-8M  🤖 Copy, FSS-NRF52-8M!
+                           bbf0→9da4→de4b→94f0→36b6→0a50, SNR -2.0 6 hops @ 12:36
+19oct26 12:38 FSS-NRF52-8M Ping
+19oct26 12:38 NorthBot     Ack @[FSS-NRF52-8M]
+19oct26 12:38 Scout☺8Bot   @[FSS-NRF52-8M] 🔀 4 hops: BBF0,9DA4,DE4B,40E7
+19oct26 12:38 Scout☺8Bot   📍 T-B Vniiss8R
+                           📍 Studenovka-Ssrv-8R-SE
+                           📍 Corona-8R-N
+                           📍 Kit Severniy 8R
+19oct26 12:39 Vniiss28m    @[FSS-NRF52-8M] директом принимаю.
+19oct26 12:44 FSS-NRF52-8M @[Vniiss28m] Выходи к спа!))
+19oct26 12:44 Z3+8M☺       /wh
+19oct26 12:44 Vniiss28m    Зачем?
+19oct26 12:45 FSS-NRF52-8M @[Vniiss28m] Приехал познакомиться!))) Проверить сигнал!)))
+19oct26 12:48 FSS-NRF52-8M @[Vniiss28m] Ок!))
+19oct26 12:51 Vniiss28m    Тут нет такого! Белый забор и направо.
+19oct26 12:51 FSS-NRF52-8M @[FSS-NRF52-8M] >Ок!))
+                           Тут прием лома ворота
+19oct26 12:53 FSS-NRF52-8M @[Vniiss28m] на территорию где круглый ангар?
+19oct26 12:53 Vniiss28m    Ага, красную фуру видишь?
+19oct26 12:53 FSS-NRF52-8M @[Vniiss28m] ща
+19oct26 12:54 FSS-NRF52-8M @[FSS-NRF52-8M] стою тут
+19oct26 12:55 Zebra9_8M    Пинг
+19oct26 12:55 Scout☺8Bot   @[Zebra9_8M] 🔀 2 hops: A768,DE4B
+                           📍 Artamonova a768 8R
+                           📍 Corona-8R-N
+19oct26 12:55 NorthBot     Принято @[Zebra9_8M]
+19oct26 12:55 Lazurny_8M☺  @[Zebra9_8M] 📍 Artamonova a768 8R
+                           📍 SOV04-BR-8R
+                           📍 GETAUFT-8R🕊
+                           📍 Stroyak_cr_8R
+                           Help: /h
+19oct26 13:20 Vniiss28m    Ping
+19oct26 13:21 Scout☺8Bot   @[Vniiss28m] 🔀 5 hops: BBF0,9DA4,BEC4,9005,5A3B
+19oct26 13:21 NorthBot     Ack @[Vniiss28m]
+19oct26 14:02 FSS-4S       Ping
+19oct26 14:02 NorthBot     Ack @[FSS-4S]
+19oct26 14:02 Scout☺8Bot   📍 FSS-4R
+                           📍 Podgornoe 4S (j-pol)
+                           📍 TVK_North_miniyagi_4R
+19oct26 14:02 Scout☺8Bot   📍 TVK_BabaYaga_BR_Cntr_4R
+                           📍 TVK_Bridge_Center_8R
+                           📍 MMMESH-8R-V4
+                           📍 WaCky_hap-8R-W
+19oct26 14:02 abrawkin-4M  Ping
+19oct26 14:02 NorthBot     Ack @[abrawkin-4M]
+19oct26 14:03 Lazurny_8M☺  @[FSS-4S] 📍 FSS-4R
+                           📍 Podgornoe 4…
+                           📍 TVK_North_m…
+                           📍 TVK_BabaYag…
+                           📍 TVK_Bridge_…
+                           📍 Slavnyi_8R …
+                           Help: /h
+19oct26 14:03 Lazurny_8M☺  @[abrawkin-4M] 📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 GETAUFT-8R🕊
+                           📍 Stroyak_cr_8R
+                           Help: /h
+19oct26 14:04 abrawkin-4M  Ping
+19oct26 14:04 NorthBot     Ack @[abrawkin-4M]
+19oct26 14:04 Scout☺8Bot   @[abrawkin-4M] 🔀 3 hops: 3E6C,F3A9,F50C
+                           📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+19oct26 14:04 RamonBot-8M  🤖 Copy, abrawkin-4M!
+                           3e6c→f3a9→f50c→deda→a768→36b6→0a50, SNR -2.3 7 hops @ 14:04
+19oct26 14:05 FSS-4S       Ping
+19oct26 14:05 NorthBot     Ack @[FSS-4S]
+19oct26 14:05 Scout☺8Bot   @[FSS-4S] 🔀 6 hops: 4A14,E92B,BEF4,DEAD,DD00,40E7
+                           📍 FSS-4R
+                           📍 Podgornoe 4S (j-pol)
+19oct26 14:05 Scout☺8Bot   📍 Podgornoe 4S (yagi)
+                           ⚠️ DEAD Mcore-8R
+                           ⚠️ DEAD Rheostat-4R
+                           📍 Rheostat-8R
+                           📍 Kit Severniy 8R
+19oct26 14:06 RamonBot-8M  🤖 Copy, FSS-4S!
+                           4a14→e92b→bef4→dead→dd00→f50c→a768→36b6→eef0→0a50, SNR -2.3 10 hops @ 14:05
+19oct26 14:26 Scout☺8Bot   📍 FSS-4R
+                           📍 Podgornoe 4S (j-pol)
+                           📍 Podgornoe 4S (yagi)
+                           📍 VRTTZ-4R
+                           📍 VRTTZ-8R
+                           📍 Slavnyi_8R (North)
+19oct26 14:27 RamonBot-8M  🤖 Copy, FSS-4S!
+                           4a14→e92b→bef4→03aa→94f0→bc88→d7e9→9999, SNR 11.8 8 hops @ 14:26
+19oct26 15:26 KoT_m8       Пинг
+19oct26 15:27 Scout☺8Bot   @[KoT_m8] 🔀 2 hops: F2FB,5A3B
+                           📍 MP-8R
+                           📍 WaCky_hap-8R-W
+19oct26 15:27 NorthBot     Принято @[KoT_m8]
+19oct26 16:20 abrawkin-4M  Test
+19oct26 16:20 Scout☺8Bot   @[abrawkin-4M] 🔀 4 hops: 5199,3E6C,F3A9,F50C
+19oct26 16:20 Scout☺8Bot   📍 SOV01->NORTH-4R
+                           📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+19oct26 16:20 Lazurny_8M☺  @[abrawkin-4M] 📍 SOV01->NORTH-4R
+                           📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 GETAUFT-8R🕊
+                           📍 Stroyak_cr_8R
+                           Help: /h
+19oct26 16:25 Bear☺Beer    Тест
+19oct26 16:25 Scout☺8Bot   @[Bear🐻Beer] 🔀 5 hops: EE69,DE0B,C96B,F2FB,40E7
+19oct26 16:25 Scout☺8Bot   📍 🦫Nizhnyaya_N_Yagi_8R
+                           📍 🦫Nizhnyaya_N_Mox_8R
+                           📍 MahLazer-8BR
+                           📍 MP-8R
+                           📍 Kit Severniy 8R
+19oct26 16:26 Lazurny_8M☺  @[Bear🐻Beer] 📍 🦫Nizhny…
+                           📍 🦫Nizhny…
+                           📍 MahLaze…
+                           📍 MP-8R
+                           📍 tbgi-8R
+                           📍 tbgh-8R
+                           📍 KIT-tes…
+19oct26 16:27 Bear☺Beer    Прикольно, на парковке у Черн. моста
+19oct26 16:33 FSS-4S       Ping
+19oct26 16:33 NorthBot     Ack @[FSS-4S]
+19oct26 16:34 RamonBot-8M  🤖 Copy, FSS-4S!
+                           4a14→e92b→bef4→03aa→94f0→36b6→0a50, SNR -0.5 7 hops @ 16:33
+19oct26 16:35 abrawkin-4M  Ping
+19oct26 16:35 Scout☺8Bot   @[abrawkin-4M] 🔀 3 hops: 3E6C,F3A9,F50C
+                           📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+19oct26 16:35 NorthBot     Ack @[abrawkin-4M]
+19oct26 16:35 Lazurny_8M☺  @[abrawkin-4M] 📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 GETAUFT-8R🕊
+                           📍 Stroyak_cr_8R
+                           Help: /h
+19oct26 17:15 abrawkin-8M  Ping
+19oct26 17:15 Scout☺8Bot   @[abrawkin-8M 🥷] 🔀 2 hops: F3A9,F50C
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+19oct26 17:15 NorthBot     Ack @[abrawkin-8M 🥷]
+19oct26 17:15 Rheo+8M☺     Ping
+19oct26 17:16 NorthBot     Ack @[Rheo+8M📟]
+19oct26 17:16 RamonBot-8M  🤖 Copy, abrawkin-8M 🥷!
+                           f3a9→f50c→bc88→d7e9→9999, SNR 13.5 5 hops @ 17:15
+19oct26 17:16 RamonBot-8M  🤖 Copy, Rheo+8M📟!
+                           5a3b→f50c→c0c1→8000→36b6→d7e9→9999, SNR 12.5 7 hops @ 17:15
+19oct26 17:19 Rheo+8M☺     Mt
+19oct26 17:19 NorthBot     @[Rheo+8M📟] found 5 unique path(s):
+                           [40e7]
+                           [4afc]
+                           [6583,f2fb,de4b]
+                           [dd00]
+                           [f50c]
+19oct26 17:29 Scout☺8Bot   🆕 Discovered node:
+                           Nomad-Beacon-4R [2D]
+19oct26 17:33 FSS-LILYGO-4 Пинг
+19oct26 17:33 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 5 hops: E92B,BEF4,B9DA,F2FB,5A3B
+19oct26 17:33 NorthBot     Принято @[FSS-LILYGO-4M]
+19oct26 17:33 Scout☺8Bot   📍 Podgornoe 4S (j-pol)
+                           📍 Podgornoe 4S (yagi)
+                           📍 MP-4R
+                           📍 MP-8R
+                           📍 WaCky_hap-8R-W
+19oct26 17:33 Lazurny_8M☺  @[FSS-LILYGO-4M] 📍 Podgorn…
+                           📍 Podgorn…
+                           📍 VRTTZ-4R
+                           📍 VRTTZ-8R
+                           📍 MMMESH-…
+                           📍 Slavnyi…
+                           📍 Lazurny…
+19oct26 17:39 ShDWh²+8M    Ping
+19oct26 17:39 NorthBot     Ack @[ShDWh²+8M]
+19oct26 17:39 NorthBot     Ack @[ShDWh²+8M]
+19oct26 17:39 Scout☺8Bot   @[ShDWh²+8M] 🔀 4 hops: C96B,DEDA,4A30,F50C
+19oct26 17:39 Lazurny_8M☺  @[ShDWh²+8M] 📍 MahLazer-8BR
+                           📍 Slavnyi_8R (East)
+                           🌧️ +17°C | ☢️ 12.6 µR/h
+                           Help: /h
+19oct26 17:39 RamonBot-8M  🤖 Copy, ShDWh²+8M!
+                           c96b→deda→58c6→d7e9→9999, SNR 12.3 5 hops @ 17:39
+19oct26 18:20 Zebra9_8M    Ping
+19oct26 18:20 Scout☺8Bot   @[Zebra9_8M] 🔀 5 hops: EE69,DE0B,C96B,F2FB,40E7
+19oct26 18:20 NorthBot     Ack @[Zebra9_8M]
+19oct26 18:20 RamonBot-8M  🤖 Copy, Zebra9_8M!
+                           ee69→de0b→c96b→c0c1→8000→eef0→9999, SNR 13.0 7 hops @ 18:19
+19oct26 18:26 Petrovich2_8 Ping
+19oct26 18:26 NorthBot     Ack @[Petrovich2_8M]
+19oct26 18:26 Scout☺8Bot   @[Petrovich2_8M] 🔀 6 hops: EEF0,36B6,9642,6583,4AFC,F50C
+19oct26 18:26 Lazurny_8M☺  @[Petrovich2_8M] 📍 StaroZhiv-8R-S
+                           📍 Fixer8R1🌐
+                           📍 Artamonova d7e9 8R
+                           🌤️ +16°C | ☢️ 13.2 µR/h
+                           Help: /h
+19oct26 18:32 Lazurny_8M☺  @[Zebra9_8M] 🛤️ ? hops
+                           🌤️ +16°C | ☢️ 12.9 µR/h
+                           Help: /h
+19oct26 18:37 vfk_8☺       Ping
+19oct26 18:37 NorthBot     Ack @[vfk_8👻]
+19oct26 18:37 Scout☺8Bot   @[vfk_8👻] 🔀 3 hops: BC88,DE4B,F50C
+                           📍 SPTNK_8R👾 -SE
+                           📍 Corona-8R-N
+                           📍 Ceвepный-8R
+19oct26 18:37 Lazurny_8M☺  @[vfk_8👻] 📍 SPTNK_8R👾 -SE
+                           📍 Artamonova a768 8R
+                           🌤️ +16°C | ☢️ 13.5 µR/h
+                           Help: /h
+19oct26 18:37 RamonBot-8M  🤖 Copy, vfk_8👻!
+                           bc88→a768→9999, SNR 12.3 3 hops @ 18:37
+19oct26 18:51 Scout☺8Bot   🆕 Discovered node:
+                           TVK_Gubarevo_Br_8R [6A]
+19oct26 18:57 Alex_Vrn-8M  Ping
+19oct26 18:57 NorthBot     Ack @[Alex_Vrn-8M]
+19oct26 18:57 Scout☺8Bot   @[Alex_Vrn-8M] 🔀 3 hops: 5465,9005,5A3B
+                           📍 TeX0-8R
+                           📍 PM-YAGY12-8R
+                           📍 WaCky_hap-8R-W
+19oct26 18:57 RamonBot-8M  🤖 Copy, Alex_Vrn-8M!
+                           5465→9005→5a3b→f50c→7fba→3bd4→5e2b→8000→eef0, SNR -10.5 9 hops @ 18:57
+19oct26 19:13 vfk_8☺       Ping
+19oct26 19:14 NorthBot     Ack @[vfk_8👻]
+19oct26 19:14 Scout☺8Bot   @[vfk_8👻] 🔀 3 hops: BC88,DE4B,F50C
+                           📍 SPTNK_8R👾 -SE
+                           📍 Corona-8R-N
+                           📍 Ceвepный-8R
+19oct26 19:14 Lazurny_8M☺  @[vfk_8👻] 📍 SPTNK_8R👾 -SE
+                           📍 Artamonova a768 8R
+                           🌤️ +14°C | ☢️ 12.0 µR/h
+                           Help: /h
+19oct26 19:14 RamonBot-8M  🤖 Copy, vfk_8👻!
+                           bc88→d7e9→9999, SNR 13.0 3 hops @ 19:13
+19oct26 19:35 moodroow+8M  Ping
+19oct26 19:35 NorthBot     Ack @[moodroow+8M]
+19oct26 19:35 Scout☺8Bot   @[moodroow+8M] 🔀 5 hops: 0314,BABA,DEAD,DD00,5A3B
+                           📍 Dynamo-48B
+19oct26 19:35 Scout☺8Bot   📍 Slavnyi_4R (East)
+                           ⚠️ DEAD Mcore-8R
+                           ⚠️ DEAD Rheostat-4R
+                           📍 Rheostat-8R
+                           📍 WaCky_hap-8R-W
+19oct26 19:35 Lazurny_8M☺  @[moodroow+8M] 📍 Dynamo-…
+                           📍 Slavnyi…
+                           📍 Slavnyi…
+                           📍 VRTTZ-4R
+                           📍 VRTTZ-8R
+                           📍 MMMESH-…
+                           📍 Slavnyi…
+19oct26 19:36 Scout☺8Bot   🆕 Discovered node:
+                           YamSpa 8R [CB]
+19oct26 19:47 moodroow+8M  Ping
+19oct26 19:47 NorthBot     Ack @[moodroow+8M]
+19oct26 19:47 RamonBot-8M  🤖 Copy, moodroow+8M!
+                           0314→db40→03aa→94f0→36b6→eef0, SNR -8.5 6 hops @ 19:46
+19oct26 19:59 Z0+8M☺       /wh
+19oct26 19:59 Lazurny_8M☺  Прогноз (шаг 3ч):
+                           21:00 🌤️ +12°
+                           00:00 🌧️ +12°
+                           03:00 🌤️ +11°
+                           06:00 🌤️ +9°
+                           09:00 ☀️ +9°
+19oct26 20:25 moodroow+8M  Ping
+19oct26 20:25 NorthBot     Ack @[moodroow+8M]
+19oct26 20:25 Scout☺8Bot   @[moodroow+8M] 🔀 6 hops: 0314,DB40,03AA,94F0,DE4B,5A3B
+19oct26 20:26 RamonBot-8M  🤖 Copy, moodroow+8M!
+                           0314→db40→03aa→94f0→36b6→d7e9→9999, SNR 11.8 7 hops @ 20:25
+19oct26 21:04 moodroow+8M  Ping
+19oct26 21:04 NorthBot     Ack @[moodroow+8M]
+19oct26 21:06 Zebra9_8M    Ping
+19oct26 21:06 Scout☺8Bot   @[Zebra9_8M] 🔀 2 hops: 0544,F50C
+                           📍 Stroyak_cr_8R
+                           📍 Ceвepный-8R
+19oct26 21:06 NorthBot     Ack @[Zebra9_8M]
+19oct26 21:06 RamonBot-8M  🤖 Copy, Zebra9_8M!
+                           0544→eef0→9999, SNR 12.3 3 hops @ 21:06
+19oct26 21:11 Suh+8M       /wd
+19oct26 21:13 Suh+8M       /wh
+19oct26 21:13 Lazurny_8M☺  Прогноз (шаг 3ч):
+                           00:00 🌧️ +13°
+                           03:00 🌤️ +12°
+                           06:00 🌤️ +9°
+                           09:00 ☀️ +9°
+                           12:00 🌤️ +13°
+19oct26 21:23 FSS-LILYGO-4 Пинг
+19oct26 21:23 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 8 hops: 4984,4A14,E92B,BEF4,76DC,7CC6,4AFC,F50C
+19oct26 21:23 NorthBot     Принято @[FSS-LILYGO-4M]
+19oct26 21:23 Scout☺8Bot   📍 4984 ❗Owner❗Manage->SyncClock❗
+                           📍 FSS-4R
+                           📍 Podgornoe 4S (j-pol)
+19oct26 21:23 Scout☺8Bot   📍 Podgornoe 4S (yagi)
+                           📍 VRTTZ-4R
+                           📍 VRTTZ-8R
+                           📍 MMMESH-8R-V4
+                           📍 Ceвepный-8R
+19oct26 21:24 Lazurny_8M☺  @[FSS-LILYGO-4M] 📍 4984
+                           📍 FSS-4R
+                           📍 Podgorn…
+                           📍 Podgorn…
+                           📍 VRTTZ-4R
+                           📍 VRTTZ-8R
+                           📍 MMMESH-…
+                           📍 Slavnyi…
+19oct26 21:42 User         Test
+19oct26 21:42 NorthBot     Ack @[User] | Прыжков: 2 | ed43,4afc (2 hops) | 4.9km (1 segs) км
+19oct26 21:42 Scout☺8Bot   @[User] 🔀 3 hops: ED43,4AFC,F50C
+                           📍 Fly📶8R
+                           📍 MMMESH-8R-V4
+                           📍 Ceвepный-8R
+19oct26 21:42 Lazurny_8M☺  @[User] 📍 Fly📶8R
+                           📍 MMMESH-8R-V4
+                           📍 Slavnyi_8R (East)
+                           🌧️ +13°C | ☢️ 13.7 µR/h
+                           Help: /h
+19oct26 21:43 FSS-LILYGO-4 Ping
+19oct26 21:43 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 8 hops: 4984,4A14,E92B,BEF4,03AA,94F0,F2FB,40E7
+19oct26 21:43 Scout☺8Bot   📍 4984 ❗Owner❗Manage->SyncClock❗
+                           📍 FSS-4R
+19oct26 21:43 Scout☺8Bot   📍 4984 ❗Owner❗Manage->SyncClock❗
+                           📍 FSS-4R
+19oct26 21:44 RamonBot-8M  🤖 Copy, FSS-LILYGO-4M!
+                           4984→4a14→e92b→bef4→03aa→94f0→36b6→eef0, SNR -9.5 8 hops @ 21:43
+19oct26 21:48 M133_8M      Ping
+19oct26 21:48 NorthBot     Ack @[M133_8M]
+19oct26 21:48 RamonBot-8M  🤖 Copy, M133_8M!
+                           de0b→c96b→f2fb→de4b→bc88→d7e9→9999, SNR 12.8 7 hops @ 21:47
+19oct26 21:52 abrawkin-4M  Test
+19oct26 21:52 Scout☺8Bot   @[abrawkin-4M] 🔀 3 hops: 3E6C,F3A9,F50C
+                           📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+19oct26 21:53 FSS-LILYGO-4 Ping
+19oct26 21:54 NorthBot     Ack @[FSS-LILYGO-4M]
+19oct26 21:54 Scout☺8Bot   📍 4984 ❗Owner❗Manage->SyncClock❗
+                           📍 FSS-4R
+                           📍 Podgornoe 4S (j-pol)
+                           📍 Podgornoe 4S (yagi)
+19oct26 21:54 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 8 hops: 4984,4A14,E92B,BEF4,DEAD,3E6C,F3A9,F50C
+19oct26 21:54 Scout☺8Bot   ⚠️ DEAD Mcore-8R
+                           ⚠️ DEAD Rheostat-4R
+                           📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+19oct26 21:57 Alex_Vrn-8M  Ping
+19oct26 21:57 Scout☺8Bot   @[Alex_Vrn-8M] 🔀 3 hops: 9005,F39B,40E7
+                           📍 PM-YAGY12-8R
+                           📍 Zveno-8R
+                           📍 Kit Severniy 8R
+19oct26 21:57 NorthBot     Ack @[Alex_Vrn-8M]
+19oct26 21:58 RamonBot-8M  🤖 Copy, Alex_Vrn-8M!
+                           9005→f39b→40e7→7fba→94f0→36b6→0a50, SNR -6.0 7 hops @ 21:57
+19oct26 22:04 ErrorOk-8M   ping
+19oct26 22:04 Scout☺8Bot   @[ErrorOk-8M] 🔀 2 hops: 8246,40E7
+                           📍 NONAME_00_8R
+                           📍 Kit Severniy 8R
+19oct26 22:04 NorthBot     Ack @[ErrorOk-8M]
+19oct26 22:04 RamonBot-8M  🤖 Copy, ErrorOk-8M!
+                           8246→16dc→0544→eef0→0a50, SNR -4.3 5 hops @ 22:04
+19oct26 22:10 MrGreen+8M   /wh
+19oct26 22:10 Lazurny_8M☺  Прогноз (шаг 3ч):
+                           00:00 🌧️ +12°
+                           03:00 🌤️ +11°
+                           06:00 🌤️ +9°
+                           09:00 ☀️ +9°
+                           12:00 🌤️ +13°
+19oct26 22:10 MrGreen+8M   Ping
+19oct26 22:10 NorthBot     Ack @[MrGreen+8M]
+19oct26 22:10 Scout☺8Bot   📍 tbgi-8R
+                           📍 MP-8R
+                           📍 TVK_BR_North_8R
+                           📍 Corona-8R-N
+                           📍 Ceвepный-8R
+19oct26 22:10 Scout☺8Bot   @[MrGreen+8M] 🔀 5 hops: 7FBA,F2FB,6583,DE4B,F50C
+19oct26 22:10 Lazurny_8M☺  @[MrGreen+8M] 📍 tbgi-8R
+                           📍 MP-8R
+                           📍 TVK_BR_North_8R
+                           📍 TVK_Bridge_Center…
+                           📍 Slavnyi_8R (East-…
+                           Help: /h
+19oct26 22:11 RamonBot-8M  🤖 Copy, MrGreen+8M!
+                           7fba→3bd4→5e2b→94f0→36b6→eef0, SNR -6.0 6 hops @ 22:10
+19oct26 22:16 M133_8M      Ping
+19oct26 22:17 NorthBot     Ack @[M133_8M]
+19oct26 22:17 Scout☺8Bot   @[M133_8M] 🔀 4 hops: DE0B,C96B,F2FB,5A3B
+19oct26 22:17 Scout☺8Bot   📍 🦫Nizhnyaya_N_Mox_8R
+                           📍 MahLazer-8BR
+                           📍 MP-8R
+                           📍 WaCky_hap-8R-W
+19oct26 22:17 Lazurny_8M☺  @[M133_8M] 📍 🦫Nizhnyaya_N_Mox_…
+                           📍 MahLazer-8BR
+                           📍 MP-8R
+                           📍 TVK_BR_North_8R
+                           📍 Slavnyi_8R (North)
+                           Help: /h
+19oct26 22:17 Rheo+8M☺     Ping
+19oct26 22:18 Scout☺8Bot   @[Rheo+8M📟] 🔀 1 hops: 40E7
+                           📍 Kit Severniy 8R
+19oct26 22:18 M133_8M      O, зaбaвнo, oтpaжeниe cтpoякa чyдecным oбpaзoм лoвлю. Пpямoй видимocти тoчнo нeт
+19oct26 22:18 RamonBot-8M  🤖 Copy, Rheo+8M📟!
+                           40e7→de4b→94f0→8000→eef0, SNR -5.8 5 hops @ 22:17
+19oct26 22:40 Rheo+8M☺     Ping
+19oct26 22:40 NorthBot     Ack @[Rheo+8M📟]
+19oct26 22:40 Scout☺8Bot   ⚠️ DEAD Mcore-8R
+                           ⚠️ DEAD Rheostat-4R
+                           📍 SOV03->CENTR-BR-4R
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+19oct26 22:40 Scout☺8Bot   @[Rheo+8M📟] 🔀 5 hops: DD00,DEAD,3E6C,F3A9,F50C
+                           📍 Rheostat-8R
+19oct26 22:40 Lazurny_8M☺  @[Rheo+8M📟] 📍 Rheo…
+                           📍 Rheo…
+                           📍 SOV0…
+                           📍 SOV0…
+                           📍 Севе…
+                           📍 Slav…
+                           📍 Slav…
+                           📍 Slav…
+19oct26 22:41 RamonBot-8M  🤖 Copy, Rheo+8M📟!
+                           dd00→dead→3e6c→f3a9→f50c→b1ba→a768→d7e9→9999, SNR 13.5 9 hops @ 22:40
+19oct26 22:42 Rheo+8M☺     Ping
+19oct26 22:42 NorthBot     Ack @[Rheo+8M📟]
+19oct26 22:42 Scout☺8Bot   @[Rheo+8M📟] 🔀 2 hops: DD00,5A3B
+                           📍 Rheostat-8R
+                           📍 WaCky_hap-8R-W
+19oct26 22:43 RamonBot-8M  🤖 Copy, Rheo+8M📟!
+                           dd00→4afc→c0c1→8000→0a50, SNR -3.8 5 hops @ 22:42
+19oct26 22:46 ErrorOk-8M   ping
+19oct26 22:46 NorthBot     Ack @[ErrorOk-8M]
+19oct26 22:46 Lazurny_8M☺  @[ErrorOk-8M] 📍 Zveno-8R
+                           📍 Kit Severniy 8R
+                           📍 Северный-8R
+                           📍 Slavnyi_8R (East)
+                           Help: /h
+19oct26 22:48 ErrorOk-8M   ping
+19oct26 22:48 Scout☺8Bot   @[ErrorOk-8M] 🔀 1 hops: F50C
+                           📍 Ceвepный-8R
+19oct26 22:48 Lazurny_8M☺  @[ErrorOk-8M] 📍 Северный-8R
+                           📍 Slavnyi_8R (East)
+                           🌤️ +12°C | ☢️ 11.5 µR/h
+                           Help: /h
+19oct26 22:48 RamonBot-8M  🤖 Copy, ErrorOk-8M!
+                           f50c→deda→a768→9999, SNR 12.3 4 hops @ 22:48
+19oct26 22:49 Rheo+8M☺     Ping
+19oct26 22:49 NorthBot     Ack @[Rheo+8M📟]
+19oct26 22:49 Scout☺8Bot   @[Rheo+8M📟] 🔀 1 hops: 40E7
+                           📍 Kit Severniy 8R
+19oct26 22:50 RamonBot-8M  🤖 Copy, Rheo+8M📟!
+                           5a3b→f50c→c0c1→8000→0a50, SNR -3.3 5 hops @ 22:49
+19oct26 22:50 ErrorOk-8M   ping
+19oct26 22:50 NorthBot     Ack @[ErrorOk-8M]
+19oct26 22:50 Scout☺8Bot   @[ErrorOk-8M] 🔀 5 hops: F39B,9005,7CC6,ED43,40E7
+19oct26 22:50 Scout☺8Bot   📍 Zveno-8R
+                           📍 PM-YAGY12-8R
+                           📍 VRTTZ-8R
+                           📍 Fly📶8R
+                           📍 Kit Severniy 8R
+19oct26 22:50 Lazurny_8M☺  @[ErrorOk-8M] 📍 Zveno-8R
+                           📍 PM-YAGY12-8R
+                           📍 VRTTZ-8R
+                           📍 Fly📶8R
+                           📍 MMMESH-8R-V4
+                           📍 Slavnyi_8R (East)
+                           Help: /h
+19oct26 22:51 RamonBot-8M  🤖 Copy, ErrorOk-8M!
+                           f39b→9005→7cc6→ed43→4afc→a768→9999, SNR 13.8 7 hops @ 22:50
+19oct26 22:51 GA-temp      Пинг
+19oct26 22:52 Scout☺8Bot   @[GA-temp] 🔀 3 hops: 7CC6,4AFC,F50C
+                           📍 VRTTZ-8R
+                           📍 MMMESH-8R-V4
+                           📍 Ceвepный-8R
+19oct26 22:52 NorthBot     Принято @[GA-temp]
+19oct26 22:52 Rheo+8M☺     Ping
+19oct26 22:52 NorthBot     Ack @[Rheo+8M📟]
+19oct26 22:52 Scout☺8Bot   @[Rheo+8M📟] 🔀 1 hops: F50C
+                           📍 Ceвepный-8R
+19oct26 22:53 RamonBot-8M  🤖 Copy, Rheo+8M📟!
+                           919d→de4b→94f0→8000→0a50, SNR -8.5 5 hops @ 22:52
+19oct26 22:54 Rheo+8M☺     Ping
+19oct26 22:54 Scout☺8Bot   @[Rheo+8M📟] 🔀 1 hops: 40E7
+                           📍 Kit Severniy 8R
+19oct26 22:54 NorthBot     Ack @[Rheo+8M📟]
+19oct26 23:15 vfk_8☺       Ping
+20oct26 00:33 vfk_8☺       Ping
+20oct26 00:33 NorthBot     Ack @[vfk_8👻]
+20oct26 00:33 Scout☺8Bot   @[vfk_8👻] 🔀 3 hops: BDD6,919D,40E7
+                           📍 SPTNK_8R👾
+                           📍 LSBR-8R
+                           📍 Kit Severniy 8R
+20oct26 00:33 Lazurny_8M☺  @[vfk_8👻] 📍 SPTNK_8R👾
+                           📍 Artamonova a768 8R
+                           🌤️ +11°C | ☢️ 14.4 µR/h
+                           Help: /h
+20oct26 00:34 RamonBot-8M  🤖 Copy, vfk_8👻!
+                           bdd6→94f0→36b6→0a50, SNR 0.5 4 hops @ 00:33
+20oct26 00:41 vfk_8☺       /wh
+20oct26 00:42 vfk_8☺       Test
+20oct26 00:42 Scout☺8Bot   @[vfk_8👻] 🔀 3 hops: BDD6,919D,40E7
+                           📍 SPTNK_8R👾
+                           📍 LSBR-8R
+                           📍 Kit Severniy 8R
+20oct26 00:42 NorthBot     Ack @[vfk_8👻] | Прыжков: 4 | bdd6,919d,40e7,dd00 (4 hops) | 5.0km (3 segs) км
+20oct26 00:42 Lazurny_8M☺  @[vfk_8👻] 📍 SPTNK_8R👾
+                           📍 MP-8R
+                           📍 TVK_BR_North_8R
+                           📍 TVK_Bridge_Center…
+                           📍 Dsaboot_8R
+                           Help: /h
+20oct26 00:43 vfk_8☺       @[Lazurny_8M💠] /h
+20oct26 01:06 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 8 hops: 4984,4A14,E92B,BEF4,03AA,94F0,F2FB,40E7
+20oct26 04:31 Z0+8M☺       /wh
+20oct26 04:35 Z0+8M☺       /wh
+20oct26 04:35 Lazurny_8M☺  Прогноз (шаг 3ч):
+                           06:00 🌤️ +10°
+                           09:00 🌤️ +10°
+                           12:00 🌤️ +12°
+                           15:00 🌧️ +14°
+                           18:00 🌧️ +12°
+20oct26 06:16 Z0+8M☺       Sun
+20oct26 06:16 NorthBot     Солнце:
+                           SunRise: Tue 20 06:55AM
+                           Set: Tue 20 05:19PM
+                           Daylight: 10h 24m
+                           Azimuth: 98.11°
+20oct26 06:28 Z0+8M☺       /wd
+20oct26 06:28 Lazurny_8M☺  Прогноз 4д:
+                           Ср 21 🌤️ +13/+7
+                           Чт 22 🌤️ +13/+7
+                           Пт 23 🌤️ +13/+6
+                           Сб 24 🌤️ +14/+6
+20oct26 06:39 FSS-LILYGO-4 Ping
+20oct26 06:39 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 8 hops: 4984,4A14,E92B,DB40,B9DA,F2FB,DE4B,5A3B
+20oct26 06:39 NorthBot     Ack @[FSS-LILYGO-4M]
+20oct26 06:40 Scout☺8Bot   📍 Podgornoe 4S (j-pol)
+                           📍 TVK_North_miniyagi_4R
+                           📍 MP-4R
+                           📍 MP-8R
+                           📍 Corona-8R-N
+                           📍 WaCky_hap-8R-W
+20oct26 06:40 RamonBot-8M  🤖 Copy, FSS-LILYGO-4M!
+                           4984→4a14→e92b→bef4→03aa→94f0→8000→eef0, SNR -7.0 8 hops @ 06:39
+20oct26 07:03 User         Mt
+20oct26 07:04 NorthBot     @[User] found 5 unique path(s):
+                           36,94,de ┐
+                           ├ dd
+                           ├ f5
+                           　└ c0
+                           80,a7 ┐
+                           ├ 40
+                           └ 4a
+20oct26 07:52 FSS-LILYGO-4 Ping
+20oct26 07:52 Scout☺8Bot   @[FSS-LILYGO-4M] 🔀 7 hops: 4984,4A14,E92B,DB40,0FF1,58BA,B1BA
+20oct26 07:52 NorthBot     Ack @[FSS-LILYGO-4M]
+20oct26 07:52 Lazurny_8M☺  @[FSS-LILYGO-4M] 📍 4984
+                           📍 FSS-…
+                           📍 Podg…
+                           📍 TVK_…
+                           📍 TVK_…
+                           📍 TVK_…
+                           📍 Dsab…
+                           📍 Slav…
+                           📍 Lazu…
+20oct26 07:52 RamonBot-8M  🤖 Copy, FSS-LILYGO-4M!
+                           4984→4a14→e92b→db40→03aa→94f0→36b6→eef0, SNR -5.8 8 hops @ 07:51
+20oct26 08:00 Rheo+8M☺     Mt
+20oct26 08:00 NorthBot     @[Rheo+8M📟] found 1 unique path(s):
+                           deda,40e7,f50c,4afc
+20oct26 08:01 NorthBot     @[Rheo+8M📟] found 5 unique path(s):
+                           deda ┐
+                           ├ 40e7
+                           ├ 4afc
+                           　└ dd00
+                           ├ 8e16,f50c
+                           └ b1ba
+20oct26 08:31 ErrorOk-8M   ping
+20oct26 08:32 Scout☺8Bot   @[ErrorOk-8M] 🔀 3 hops: 8246,F3A9,F50C
+                           📍 NONAME_00_8R
+                           📍 SOV04-BR-8R
+                           📍 Ceвepный-8R
+20oct26 08:32 NorthBot     Ack @[ErrorOk-8M]
+20oct26 08:32 RamonBot-8M  🤖 Copy, ErrorOk-8M!
+                           8246→f3a9→f50c→b1ba→c0c1→8000→0a50, SNR -4.0 7 hops @ 08:31
+20oct26 08:34 Vniiss28m    Test

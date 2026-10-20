@@ -353,3 +353,50 @@
                            BEEF: DZ-ZAP-03
 19oct26 06:36 DeadFeedBot  5500: BOR-LIN-55
                            9182: NN-NIZ-12
+19oct26 11:11 catsquatch☺  P
+19oct26 11:12 NNO-ELN-BOT  ACDC: NN-PRI-42
+                           330F: NN-MOS-08
+                           B87A: NN433-MOS-25
+                           96A2: Unknown
+                           90F8: NN-433-ANK-41
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+19oct26 11:12 catsquatch☺  Path
+19oct26 11:12 NNO-ELN-BOT  ACDC: NN-PRI-42
+                           ACBD: NN-SRM-09
+                           B4BE: BOR-KRG-51
+                           9182: NN-NIZ-12
+                           A9C4: NNO-ELN-32
+19oct26 11:12 DeadFeedBot  ACDC: NN-PRI-42
+                           ACBD: NN-SRM-09
+                           B4BE: BOR-KRG-51
+                           9182: NN-NIZ-12
+19oct26 11:25 catsquatch☺  Ping
+19oct26 11:26 DZR/Bot-MM   Pong! @[catsquatch😼] acdc,beef (2 hops) | SNR: 0.75 dB | RSSI: -109 dBm
+19oct26 11:26 NNO-ELN-BOT  @[catsquatch😼] | acdc,acbd,9182,a9c4 | acdc,acbd,9182,a9c4 (4 hops) | SNR: 11.75 dB | RSSI: -58 dBm
+19oct26 11:26 DeadFeedBot  @[catsquatch😼] Pong! | acdc,acbd,9182 (3 hops) | SNR: 3.0 dB | RSSI: -107 dBm
+19oct26 11:27 catsquatch☺  Ping
+19oct26 11:27 NNO-ELN-BOT  @[catsquatch😼] | acdc,ba98,a9c4 | acdc,ba98,a9c4 (3 hops) | SNR: 12.25 dB | RSSI: -55 dBm
+19oct26 11:27 DZR/Bot-MM   Pong! @[catsquatch😼] acdc,0651,beef,8532 (4 hops) | SNR: 10.75 dB | RSSI: -23 dBm
+19oct26 11:27 DeadFeedBot  @[catsquatch😼] Pong! | acdc,0651,1bff,9182 (4 hops) | SNR: 2.5 dB | RSSI: -106 dBm
+19oct26 12:29 catsquatch☺  Path
+19oct26 12:29 DeadFeedBot  ACDC: NN-PRI-42
+                           0651: NN-KAN-47
+                           B4BE: BOR-KRG-51
+                           9182: NN-NIZ-12
+19oct26 16:26 MM/DZ        Test
+19oct26 16:26 DZR/Bot-MM   ack @[MM/DZ] | beef (1 hops) | SNR: -5.5 dB | RSSI: -115 dBm | Received at: 16:26:48
+19oct26 16:27 DeadFeedBot  @[{sender}] {alrm}
+19oct26 16:27 MM/DZ        M path
+19oct26 17:12 ☺AkzNN_T096  mt
+19oct26 17:12 DeadFeedBot  @[🦥AkzNN_T096] found 4 unique path(s):
+                           9182 ┐
+                           ├ a6f8
+                           ├ a9c4
+                           └ e59b
+20oct26 08:09 ☺☺ Siri      P
+20oct26 08:09 NNO-ELN-BOT  0651: NN-KAN-47
+                           9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+20oct26 08:09 DZR/Bot-MM   0651: NN-KAN-47
+                           BEEF: DZ-ZAP-03

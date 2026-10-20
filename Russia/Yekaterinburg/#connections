@@ -411,3 +411,78 @@
 19oct26 12:20 Ochlamonster Хм, Тагильская улица довольно длинная и кривая)
 19oct26 12:20 Faketec4     ну я по низу хал вдоль вокзала
 19oct26 12:21 Ochlamonster В том конце, где Желдорэкспедиция?
+19oct26 12:22 Faketec4     ну что-то там желдор было. еще там тюменская улица была
+19oct26 12:23 Ochlamonster Понял, в тупике у пешеходного моста. Я живу за горкой оттуда.
+19oct26 12:23 Ochlamonster Короче, надо подымать пару ретров. Дома и на работе )
+19oct26 12:23 Faketec4     в смысле в низинке, если ехать в обратную сторону?
+19oct26 12:24 Faketec4     Oslo там было слышно почти всю тагильскую
+19oct26 12:24 Ochlamonster @[Faketec4] ну да. Пятиэтажный дом, боком на улицу выходит.
+19oct26 12:25 Ochlamonster Вообще там прием есть, но почему-то сильно непостоянный.
+19oct26 12:26 Faketec4     ну вот могу подогнать антенну ягу. найдешь направление где связь стабильно
+19oct26 12:26 Faketec4     там может быть неочевидно. направляешь в другую сторону
+19oct26 12:26 Faketec4     а аоно изза отражений работает лучше
+19oct26 12:37 Ochlamonster Эт да. Ну вот соберу ретранслятор хоть в какой-нибудь корпус -
+19oct26 12:38 Ochlamonster На этой неделе крепление для платы и батарейки думаю напечатать.
+19oct26 19:02 Ochlamonster Ping
+19oct26 19:02 Ad Astra Bot @[Ochlamonster] Принял!
+                           4 hops (9b2e:Alpha:UKM MQTT Observer:Ad Astra Repeater 1)
+19oct26 19:09 Ochlamonster Ping
+19oct26 19:09 Ad Astra Bot @[Ochlamonster] Принял!
+                           5 hops (9b2e:Alpha:ext2:UBND Repeater:Ad Astra Repeater 1)
+19oct26 19:10 OmniBus      1/1
+                           Ochlamonster
+                           Ochlamonster Station
+                           ↑3845m Alpha
+                           ↖399m ext2
+                           OmniBus
+19oct26 19:44 WR_blue      Ping
+19oct26 19:48 WR_blue      Ping
+19oct26 19:49 Ochlamonster Ping
+19oct26 19:49 Ad Astra Bot @[Ochlamonster] Принял!
+                           4 hops (af0b:Moscow Repeater:ISET ekb:Ad Astra Repeater 1)
+19oct26 20:11 Ochlamonster Ping
+19oct26 20:11 Ad Astra Bot @[Ochlamonster] Принял!
+                           4 hops (Oslo Repeater:R8R1:UBND Repeater:Ad Astra Repeater 1)
+19oct26 20:20 WR Blue      Ping
+19oct26 20:23 WR Blue      Ping
+19oct26 20:23 Ad Astra Bot @[WR Blue] Принял!
+                           7 hops (02f1:Jupiter:DMX Repeater 1:VIZ Repeater:Oslo Repeater:UKM MQTT Observer:Ad Astra Repeater 1)
+19oct26 20:23 OmniBus      1/2
+                           WR Blue
+                           Unknown
+                           DMX T-Deck
+                           ↑0m SCP-3125
+                           ↗8272442m VIZ Repeater
+                           ↗4976m Darfgen
+                           ↘4058m UKM MQTT Observer
+19oct26 20:23 OmniBus      2/2
+                           ↘16198m Ad Astra Repeater 1
+                           ↖17955m SashaSGK
+                           OmniBus
+19oct26 20:23 OmniBus      2/2
+                           ↘16198m Ad Astra Repeater 1
+                           ↖17955m SashaSGK
+                           OmniBus
+19oct26 20:28 London       Нифига какой круг
+19oct26 20:33 WR Blue      Ping
+19oct26 20:33 Ad Astra Bot @[WR Blue] Принял!
+                           6 hops (02f1:Jupiter:DMX Repeater 1:RedBase:UBND Repeater:HEIM)
+19oct26 21:25 WR Blue      Ping
+19oct26 21:25 Ad Astra Bot @[WR Blue] Принял!
+                           6 hops (02f1:Jupiter:DMX Repeater 1:VIZ Repeater:ext2:Ad Astra Repeater 1)
+20oct26 02:38 Gleb″        Ping
+20oct26 02:38 Ad Astra Bot @[Gleb″] Принял!
+                           3 hops (ISTOK Solar:HEIM:Ad Astra Repeater 1)
+20oct26 02:39 OmniBus      1/1
+                           Gleb″
+                           ISTOK Solar
+                           ←12169m HEIM
+                           OmniBus
+20oct26 10:30 Ochlamonster Ping
+20oct26 10:30 Ad Astra Bot @[Ochlamonster] Принял!
+                           2 hops (RedBase:HEIM)
+20oct26 10:30 OmniBus      1/1
+                           Ochlamonster
+                           RedBase
+                           ↘10196m HEIM
+                           OmniBus
