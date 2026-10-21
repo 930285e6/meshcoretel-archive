@@ -210,3 +210,49 @@
                            ветер 0.4 м/с С (порывы 1)
                            сегодня -0…+8°C ·
 20oct26 06:34 Weather_Bot  (4/4) пасмурно
+20oct26 23:18 Fuze_Home    /завтра
+20oct26 23:18 Weather_Bot  (1/2) @[Fuze_Home] Погода — Чебоксары
+                           Завтра · +1…+9°C · пасмурно
+                           утро +4°C пасмурно ·
+20oct26 23:18 Weather_Bot  (2/2) вечер +4°C ясно
+20oct26 23:25 SAV626 T114  /сейчас
+20oct26 23:25 Weather_Bot  @[SAV626 T114 WhisperOS] Неизвестная команда «/сейчас». Попробуй /help
+20oct26 23:26 Fuze_Home    /сводка
+20oct26 23:26 Weather_Bot  (1/4) @[Fuze_Home] Погода — Чебоксары
+                           +2.0°C, в основном ясно
+                           Ощущается как -1.5°C
+                           на 4°C
+20oct26 23:26 Weather_Bot  (2/4) холоднее, чем вчера
+                           воздух: AQI 20 (отлично), PM2.5 5, PM10 6
+                           УФ 0 (низкий)
+                           Вода ≈ +14.0°C
+20oct26 23:27 Weather_Bot  (3/4) влажность 57% · давление 780.1 мм рт.ст.
+                           ветер 1.3 м/с ЮЗ (порывы 4)
+                           сегодня -1…+8°C
+20oct26 23:27 Weather_Bot  (4/4) · переменная облачность
+20oct26 23:27 Fuze_Home    /космос
+20oct26 23:27 Weather_Bot  @[Fuze_Home] ☀️ Космопогода: Kp=3 (спокойно), F10.7=121, солн.ветер 390 км/с.
+20oct26 23:28 Fuze_Home    !ai
+20oct26 23:28 Weather_Bot  @[Fuze_Home] Использование: /ai <вопрос>. Например: /ai что взять в поход осенью?
+20oct26 23:29 Fuze_Home    !ai вероятность тропосферного прохода радиоволн Чебоксары
+20oct26 23:29 Weather_Bot  (1/3) @[Fuze_Home] Тропосферный проход радиоволн возможен, но вероятность невысока.
+20oct26 23:29 Weather_Bot  (2/3) Ожидается переменная облачность и небольшой ветер, что может ограничить
+20oct26 23:29 Weather_Bot  (3/3) распространение волн. Следите за прогнозом погоды.
+21oct26 07:04 Fuze_perenos !w
+21oct26 07:04 EvgenRay     /help
+21oct26 07:05 Fuze_perenos Xm🤔
+21oct26 07:06 EvgenRay     Какие команды активны?
+21oct26 07:06 Fuze_perenos Бот лежит 39 минут
+21oct26 07:06 Fuze_perenos https://meshcoretel.ru/ru/CSY/observers/DC062FBB9DE8C57D71F4F102DEBC303F97B364CAD2997BFEC63DB71FACFB235D
+21oct26 07:10 EvgenRay     😟
+21oct26 07:27 Fuze_perenos !w
+21oct26 07:27 Weather_Bot  (1/2) @[Fuze_perenoska] Погода — Чебоксары
+                           +1.5°C, пасмурно
+                           Ощущается как -1.3°C
+                           влажность
+21oct26 07:27 Weather_Bot  (2/2) 83%
+                           ветер 1.0 м/с З (порывы 3)
+21oct26 11:03 Fuze_perenos /nodes
+21oct26 11:03 Weather_Bot  (1/2) @[Fuze_perenoska] 📡 MeshCore: 85 узлов (49 реп.), активны 2ч: 11
+                           Norn (0м), MNLT Companion (0м), 📻CHB-GLAD-01
+21oct26 11:03 Weather_Bot  (2/2) (0м), 📻CHEB-SZR-01 (0м), 📻KZN-VAH-004 (0м), CHB-OPRT (22м) …ещё 5

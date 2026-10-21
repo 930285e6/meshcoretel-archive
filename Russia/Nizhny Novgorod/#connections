@@ -400,3 +400,118 @@
                            D1A7: NN-FED-36
 20oct26 08:09 DZR/Bot-MM   0651: NN-KAN-47
                            BEEF: DZ-ZAP-03
+20oct26 17:01 ☺☺ Siri      P
+20oct26 17:04 ☺☺ Siri      P
+20oct26 17:04 NNO-ELN-BOT  BA98: NN-SRM-15
+                           A9C4: NNO-ELN-32
+20oct26 17:04 DZR/Bot-MM   BA98: NN-SRM-15
+                           BEEF: DZ-ZAP-03
+20oct26 17:42 KSUR1        Path
+20oct26 17:42 NNO-ELN-BOT  13BE: BOR-STK-37
+                           9182: NN-NIZ-12
+                           A9C4: NNO-ELN-32
+20oct26 17:42 DeadFeedBot  13BE: BOR-STK-37
+                           9182: NN-NIZ-12
+21oct26 07:46 ☺☺ Siri      P
+21oct26 07:46 NNO-ELN-BOT  11BC: NN-SRM-05
+                           0651: NN-KAN-47
+                           ACBD: NN-SRM-09
+                           9182: NN-NIZ-12
+                           0C11: NNO-CHR-52
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+21oct26 07:49 ☺AkzNN_T096  mt
+21oct26 07:49 NNO-ELN-BOT  @[🦥AkzNN_T096] found 1 unique path(s):
+                           9182,d1a7,a9c4
+21oct26 07:49 DeadFeedBot  @[🦥AkzNN_T096] found 4 unique path(s):
+                           9182 ┐
+                           ├ a6f8
+                           ├ d1a7,a9c4
+                           └ f432
+21oct26 07:49 DZR/Bot-MM   @[🦥AkzNN_T096] found 2 unique path(s):
+                           9182,0303,fa17,eb41,acdc,ba98,fb1d,acbd,0651 ┐
+                           ├ beef
+                           └ beef,8532
+21oct26 08:44 SAV Mobile 2 Mt
+21oct26 08:44 DeadFeedBot  @[SAV Mobile 2 🌐] found 4 unique path(s):
+                           5b0d ┐
+                           ├ 0af0,ba98,a9c4
+                           ├ 13be,9182,a6f8
+                           ├ 13be,9182,e59b
+                           └ 13be,9182
+21oct26 08:44 DZR/Bot-MM   @[SAV Mobile 2 🌐] found 1 unique path(s):
+                           5b0d,0af0,ba98,330f,beef
+21oct26 09:00 catsquatch☺  Mt
+21oct26 09:00 NNO-ELN-BOT  @[catsquatch😼] found 1 unique path(s):
+                           acdc,ba98,a9c4
+21oct26 09:00 DZR/Bot-MM   @[catsquatch😼] found 1 unique path(s):
+                           acdc,beef,8532
+21oct26 09:00 DeadFeedBot  @[catsquatch😼] found 3 unique path(s):
+                           acdc,0af0 ┐
+                           ├ 09a7,9182
+                           ├ 09a7,9182,a6f8
+                           └ 09a7
+21oct26 10:53 ☺☺ Siri      P
+21oct26 10:53 NNO-ELN-BOT  FB1D: NN-SRM-10
+                           0651: NN-KAN-47
+                           9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+21oct26 11:45 ☺☺ Siri      P
+21oct26 11:45 DZR/Bot-MM   ACBD: NN-SRM-09
+                           9182: NN-NIZ-12
+                           BEEF: DZ-ZAP-03
+21oct26 11:45 NNO-ELN-BOT  ACBD: NN-SRM-09
+                           9182: NN-NIZ-12
+                           A9C4: NNO-ELN-32
+21oct26 14:11 catsquatch☺  P
+21oct26 14:12 catsquatch☺  P
+21oct26 14:12 DZR/Bot-MM   ACDC: NN-PRI-42
+                           BEEF: DZ-ZAP-03
+21oct26 14:12 NNO-ELN-BOT  ACDC: NN-PRI-42
+                           0651: NN-KAN-47
+                           9182: NN-NIZ-12
+                           0C11: NNO-CHR-52
+                           A9C4: NNO-ELN-32
+21oct26 14:13 ☺☺ Siri      P
+21oct26 14:23 ☺☺ Siri      P
+21oct26 14:23 NNO-ELN-BOT  B4BE: BOR-KRG-51
+                           9182: NN-NIZ-12
+                           A9C4: NNO-ELN-32
+21oct26 14:23 DZR/Bot-MM   0651: NN-KAN-47
+                           BEEF: DZ-ZAP-03
+                           8532: DZ-OLD-11
+21oct26 17:04 catsquatch☺  Ping
+21oct26 17:05 DeadFeedBot  @[catsquatch😼] Pong! | 2327,acbd,09a7 (3 hops) | SNR: -6.0 dB | RSSI: -120 dBm
+21oct26 18:34 ☺☺ Siri      P
+21oct26 18:35 NNO-ELN-BOT  BA98: NN-SRM-15
+                           0651: NN-KAN-47
+                           9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+21oct26 19:14 SAV Mobile 2 P
+21oct26 19:14 NNO-ELN-BOT  2327: NN-KAN4
+                           0AF0: NN-MOS-16
+                           13BE: BOR-STK-37
+                           9182: NN-NIZ-12
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+21oct26 19:35 catsquatch☺  P
+21oct26 19:35 NNO-ELN-BOT  EDAA: BOR-2MK-43
+                           CE77: NN-NIZ-13
+                           9182: NN-NIZ-12
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+21oct26 20:16 rabbitr00ny  Ping
+21oct26 20:16 NNO-ELN-BOT  @[rabbitr00ny] | 5703,0303,ba98,864f,9182,d1a7,a9c4 | 5703,0303,ba98,864f,9182,d1a7,a9c4 (7 hops) | SNR: 12.25 dB | RSSI: -48 dBm
+21oct26 20:16 DZR/Bot-MM   Pong! @[rabbitr00ny] 5703,65e3,acdc,f62b,8532 (5 hops) | SNR: 12.0 dB | RSSI: -21 dBm
+21oct26 20:16 DeadFeedBot  @[rabbitr00ny] Pong! | 5703,0303,ba98,864f,9182 (5 hops) | SNR: 7.75 dB | RSSI: -104 dBm
+21oct26 20:46 catsquatch☺  P
+21oct26 20:46 NNO-ELN-BOT  EDAA: BOR-2MK-43
+                           CE77: NN-NIZ-13
+                           F432: NN-SOV-56
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+21oct26 20:58 Vanya_Craft☺ P
+21oct26 20:58 Vanya_Craft☺ Ping
+21oct26 21:02 Vanya_Craft☺ Ping

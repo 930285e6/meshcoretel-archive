@@ -386,3 +386,74 @@
                            1 paths:
                            - 2 hops (e7775e91)
 20oct26 17:00 Mi6a         Hi
+20oct26 18:35 МиахалычЪ    Пинг
+20oct26 18:38 Mi6a         Пинг
+20oct26 18:38 Deimos 57 St @Mi6a
+                           2 paths:
+                           - 3 hops (7ec4efcf5e91)
+                           - 4 hops (7ec4efcf5e912222)
+20oct26 18:40 Mi6a         XYZ
+20oct26 18:41 Deimos 57 St реагирует только на ключевые слова
+20oct26 18:41 SerG79       Пинг
+20oct26 18:49 Deimos 57 St @SerG79
+                           2 paths:
+                           - 4 hops (c85571f9e0005e91)
+                           - 4 hops (c85571f9e0002222)
+20oct26 20:04 Mi6a         Ping
+20oct26 20:04 Deimos 57 St @Mi6a
+                           2 paths:
+                           - 5 hops (7ec4efcf333371f96666)
+                           - 5 hops (7ec4efcf333388885238)
+20oct26 20:15 Mi6a         Как использовать коды в скобках?
+20oct26 20:22 МиахалычЪ    Это маршрут
+20oct26 20:22 МиахалычЪ    Каждые 4 префикса репитер
+21oct26 08:17 Saigon       Ping
+21oct26 08:17 Deimos 57 St @Saigon
+                           1 paths:
+                           - 1 hops (8888)
+21oct26 10:48 BEYSUG       Ping
+21oct26 10:49 Deimos 57 St @BEYSUG
+                           2 paths:
+                           - 1 hops (8888)
+                           - 2 hops (953a5e91)
+21oct26 10:50 BEYSUG       Ping Дексобытий
+21oct26 10:50 Deimos 57 St @BEYSUG
+                           2 paths:
+                           - 2 hops (a88e5238)
+                           - 3 hops (4444e0002222)
+21oct26 10:51 BEYSUG       Пинг
+21oct26 10:51 Deimos 57 St @BEYSUG
+                           3 paths:
+                           - 1 hops (8888)
+                           - 2 hops (88885238)
+                           - 3 hops (888852382222)
+21oct26 11:02 BEYSUG       Пинг
+21oct26 11:02 Deimos 57 St @BEYSUG
+                           3 paths:
+                           - 3 hops (3e43dddd2222)
+                           - 2 hops (3e4327d4)
+                           - 3 hops (3e4327d45e91)
+21oct26 11:48 Mi6a         Hi
+21oct26 13:33 d200         Ping
+21oct26 13:33 Deimos 57 St @d200
+                           2 paths:
+                           - 2 hops (953a5e91)
+                           - 2 hops (e7772222)
+21oct26 20:14 МиахалычЪ    Пинг
+21oct26 20:14 Deimos 57 St @МиахалычЪ
+                           2 paths:
+                           - 3 hops (eb09efcf5e91)
+                           - 4 hops (eb09efcf5e912222)
+21oct26 20:46 Saigon       Ping
+21oct26 20:46 Deimos 57 St @Saigon
+                           2 paths:
+                           - 3 hops (999944445e91)
+                           - 3 hops (9999e0002222)
+21oct26 20:55 Gespenster   Понг 2 хопа
+21oct26 21:16 SerG79       Ping
+21oct26 21:16 Deimos 57 St @SerG79
+                           3 paths:
+                           - 3 hops (c85571f98888)
+                           - 4 hops (c85571f988888c33)
+                           - 4 hops (c8553e43dddd5e91)
+21oct26 21:21 Gespenster   @[SerG79] 4hops

@@ -1281,3 +1281,164 @@
 20oct26 11:07 NMC1         @[🐗 FakeTec_9000mAh] Sí amb això estem. Però això de que a MC es pugui mantenir una conversa, és un gran què.
 20oct26 11:08 NMC1         Vaig començar amb MT ja que vaig trobar millor documentació i més gent implicada (segons els canals de Telegram).
 20oct26 11:12 ☺ FakeTec_90 MT porta anys abans que MC
+20oct26 11:24 NMC1         @[🐗 FakeTec_9000mAh]  I això és nota!
+20oct26 11:29 ☺ FakeTec_90 Si ara funciona be, imagina't
+20oct26 11:31 Krom-Wismesh Buenas
+20oct26 11:36 NMC1         @[🐗 FakeTec_9000mAh] Sí veig que aquí un pot mantenir una conversa
+20oct26 11:39 E22SD Zeph   No fa falta arrivar a Sevilla si despres es perd la contestació!!...
+20oct26 11:52 Xavi T1K ☺   @[NMC1] hola pepe salutacions desde bcn diagonal mar, 2 salts arribes
+20oct26 11:53 Xavi T1K ☺   Pepe *pep puto traductor 🤣
+20oct26 11:54 Xavi T1K ☺   Tens el canal de #bot on tens bots per comprobar conexio, pots enviar /ping a canfornaca o .ping a montgat
+20oct26 12:04 ☺ FakeTec_90 @[NMC1] https://analyzer.livemap-meshcorecat.com/#/live
+20oct26 12:06 Xavi T1K ☺   @[🐗 FakeTec_9000mAh] veulve a estar activo?? No lo cerro todo gavi?
+20oct26 12:07 ☺ FakeTec_90 Va
+20oct26 12:08 Xavi T1K ☺   Que raro el otro dia ya no me iba a mi
+20oct26 12:08 ☺ FakeTec_90 Lo ha restaurado
+20oct26 12:08 Xavi T1K ☺   Ole 🥳
+20oct26 12:23 EB3GHP PORTA Buenas tardes chavalada hora de parar a tomar cafelito
+20oct26 13:22 Vicen Portab Buenas tardes!
+20oct26 13:27 ☺ FakeTec_90 @[Vicen Portable] gelooou
+20oct26 13:29 Alfonso N ☺☺ @[NMC1] ¿Cómo es que estás a 1-byte?
+20oct26 14:06 NMC1         @[🐗 FakeTec_9000mAh] Gràcies!
+20oct26 14:06 NMC1         @[Xavi T1K 🐙] Gràcies!
+20oct26 14:11 NMC1         @[Xavi T1K 🐙] No t'amoinis! Sóc asturià!
+20oct26 14:13 NMC1         @[Alfonso N 🧔‍♀️💻 BCN] A la configuració de la xarxa ho tinc a 2 (32 salts). A tu et surt 1?
+20oct26 14:14 ☺ FakeTec_90 Vicen es el que me sale a 1byte
+20oct26 14:14 ☺ FakeTec_90 @[NMC1] tu 2byte
+20oct26 14:21 XAVI.Mobil.C Buenas tardes
+20oct26 14:23 XAVI.Mobil.C @[NMC1] la cofig de 2 son 4 bytes ho has de posar a 1 que son 2 bytes 64 salts max
+20oct26 14:44 NMC1         @[XAVI.Mobil.Castellar.Valles.BCN] S mida de hash tinc 3 opcions: 1,2 i 3 bytes. Ho tenia a 1, però aquest matí ho he canviat a 2 (32 salts).
+20oct26 14:45 NMC1         @[XAVI.Mobil.Castellar.Valles.BCN] D'acord. Ho torno a posar a 1.
+20oct26 14:49 NMC1         @[XAVI.Mobil.Castellar.Valles.BCN] Ara he escollit la opció 1 que a mi m'apareix com 1 byte (màxim 64 salts). És això?
+20oct26 14:50 ☺ FakeTec_90 Jajajajaj eso es en los repes
+20oct26 14:50 ☺ FakeTec_90 Vuelve a poner 2byte
+20oct26 14:51 NMC1         @[🐗 FakeTec_9000mAh] Me tornaré boig!! Ho torno a canviar.
+20oct26 14:53 NMC1         @[🐗 FakeTec_9000mAh] Fet: mida del hash, 2 bytes (32 salts). Però ho puc tornar a canviar si convé: tinc temps.
+20oct26 14:54 XAVI.Mobil.C No,     es lo mateix als repes que als companions 2 bytes 64 salts maxim
+20oct26 14:54 XAVI.Mobil.C Que es la opció am el 1
+20oct26 14:55 Vicen Portab @[🐗 FakeTec_9000mAh]Tengo ROOM SERVER y REPE en el mismo dispositivo,que recomiendas,1byte? O la parte de ROOM se verá afectada?
+20oct26 14:55 XAVI.Mobil.C Perdó tens rao 32 salts maxim
+20oct26 14:56 Vicen Portab Hay debate…
+20oct26 15:00 Vicen Portab @[XAVI.Mobil.Castellar.Valles.BCN] entonces todo a 2bytes o repes a 1 y companions a 2?
+20oct26 15:01 XAVI.Mobil.C Es la opcio 1 que son maxim 32 salts 2 bytes
+20oct26 15:01 ☺ FakeTec_90 Todo a 2bytes
+20oct26 15:01 XAVI.Mobil.C Igual als repes que als companions
+20oct26 15:02 ☺ FakeTec_90 1-byte mode (path.hash.mode 0)
+                           2-byte path.hash.mode 1
+                           3-byte path.hash.node 2
+20oct26 15:02 ☺ FakeTec_90 @[Vicen Portable] tú el companion lo tienes en 1byte
+20oct26 15:02 XAVI.Mobil.C @[🐗 FakeTec_9000mAh] esactamente
+20oct26 15:04 Vicen Portab Ostras si! Cambiado
+20oct26 15:04 XAVI.Mobil.C Yo estaba equibocado pensaba que eran 64 saltos y son 32 🙏🏼
+20oct26 15:05 Vicen Portab En conclusión, Repes y Companions a 2bytes, no?
+20oct26 15:08 ☺ FakeTec_90 @[Vicen Portable] xi
+20oct26 15:09 Vicen Portab @[🐗 FakeTec_9000mAh] 👍🏻
+20oct26 15:09 XAVI.Mobil.C 👍🏼👍🏼
+20oct26 15:14 Vicen Portab Alguien con experiencia en ROOM SERVER + REPE? en la v1.18 han quitado la función REPE
+20oct26 15:16 NMC1         @[Xavi T1K 🐙] @[Xavi T1K 🐙]   Creat canal #bot. Ara què? Com funciona? Gràcies!
+20oct26 15:18 ☺ FakeTec_90 @[NMC1] .ping
+                           /ping
+                           -ping
+                           *ping
+                           .sol
+                           .distancia
+                           .quien abcd
+20oct26 15:19 ☺ FakeTec_90 Abcd es el id de repes
+20oct26 15:19 NMC1         @[🐗 FakeTec_9000mAh] El de Llinàs (rilla repeater) sembla que fa dos anys que no es veu.
+20oct26 15:19 NMC1         @[🐗 FakeTec_9000mAh]  Gràcies!
+20oct26 15:19 ☺ FakeTec_90 @[NMC1] 8:16 un advert
+20oct26 15:19 ☺ FakeTec_90 Hoy
+20oct26 18:28 MIR3Bot      test
+20oct26 19:40 SPL  ₍☺. .☺₎ @[MIR3Bot] 3 hops a Palau 👍
+20oct26 19:40 Krom - TDeck buenas noches
+20oct26 19:40 SPL  ₍☺. .☺₎ Buenas
+20oct26 19:41 SPL  ₍☺. .☺₎ Hoy por fin un poco de solete
+20oct26 19:45 Krom - TDeck sip por fin
+20oct26 19:47 SPL  ₍☺. .☺₎ Los repes no problem pero en casa sí nos hemos quedado sin batería esta noche... les tendré que poner un enchufe 😂
+20oct26 19:48 SPL  ₍☺. .☺₎ El tuyo parece que aguanta bien con las 2 18650 :)
+20oct26 19:58 Krom - TDeck yo tengo dos 21700 de 5000
+20oct26 20:01 SPL  ₍☺. .☺₎ Ah, no se pq pensé que le habías puesto dos de 3500. Mejor aún... ya puede estar un mes lloviendo. 👍
+20oct26 20:04 SPL  ₍☺. .☺₎ Alguien ha probado las Gizont 178? Son clavadas a las Alfa 5dBi y tipo N... igual de largas que las 20 pero deberían ir mejor
+20oct26 20:08 XAVI.Mobil.C Bones
+20oct26 20:10 SPL  ₍☺. .☺₎ Bon ditardanit
+20oct26 20:11 Krom - TDeck @[XAVI.Mobil.Castellar.Valles.BCN] buenas
+20oct26 20:11 SPL  ₍☺. .☺₎ Per cert, si a algú li entra una mica la nostàngia i vol tornar a veure Dr. Slump en Català, estàn tots a archive.org :)
+20oct26 20:15 XAVI.Mobil.C @[SPL  ₍^. .^₎⟆] 👍🏼😜
+20oct26 20:28 XAVI-Castell Bona nit
+                           Se me escolta ?
+20oct26 20:38 SPL  ₍☺. .☺₎ @[XAVI-CastellarDelValles.BCN] 2 hops 👍
+20oct26 20:39 Krom - TDeck @[XAVI-CastellarDelValles.BCN] sip
+20oct26 20:41 Socramo      @[Krom - TDeck] Bona nit!
+20oct26 20:45 Xavi T1K ☺   @[XAVI-CastellarDelValles.BCN] sii
+20oct26 20:45 Xavi T1K ☺   Bona nit
+20oct26 20:46 Xavi T1K ☺   👋
+20oct26 20:46 XAVI-Castell @[Xavi T1K 🐙] 🙋🏻‍♂️
+20oct26 22:17 XAVI-Castell Nanit
+20oct26 22:41 Alfonso N ☺☺ Se supone que cuando todos estemos a 2 bytes, incluyendo los repes, se va a eliminar el 1-byte. O al menos leí eso
+20oct26 22:45 E22SD Zeph   Bona nit
+21oct26 07:13 EA3IWB-t114- Bon dia!
+21oct26 07:14 Vlad         Hola!
+21oct26 07:14 ☺ FakeTec_90 👋👋
+21oct26 07:21 Vlad         buenos días a todos
+21oct26 08:16 Krom-Wismesh Buenas
+21oct26 08:37 Xavi T1K ☺   Bon dia
+21oct26 08:46 XAVI-Castell Bon dia companys
+21oct26 08:58 NMC1 Cardede Bon dia
+21oct26 09:07 SPL  ₍☺. .☺₎ Guten mañanen
+21oct26 09:13 T1000-E 0832 Bon dia Cardedeu
+21oct26 09:13 E22SD Zeph   Bon día !!
+21oct26 09:14 E22SD Zeph   @[Vlad] bon día vlad. Bienvenido!!👋
+21oct26 09:23 thxv3wifi    Bon dia, presente!
+21oct26 09:25 Xavi T1K ☺   El repe Tibidabo ya esta puesto?
+21oct26 09:29 ☺ FakeTec_90 @[Xavi T1K 🐙] no creo
+21oct26 09:55 Krom-Wismesh @[Xavi T1K 🐙] no, está instalado en pruebas, pero no está en el tibidabo, está en Cerdanyola en casa de un usuario
+21oct26 10:20 E22SD Zeph   Buenos días a los nuevos... Por favor...pediría que os presentarais para saber con quién hablamos y donde estáis. Saludos de mi parte
+21oct26 10:20 E22SD Zeph   Soy Toni desde Horta
+21oct26 10:29 NMC1 Cardede @[E22SD Zeph] Ara hem de fer un comanda de T114 (no cal soldar) per fer un node solar de MC. Així estarem a MT i MC.
+21oct26 10:30 E22SD Zeph   @[NMC1 Cardedeu, proves] 👍👍👍👏
+21oct26 11:21 E22SD Zeph   Hoy a ver si recupera nuvolari2.
+21oct26 11:29 ESKOL_C01    Fabio desde Barberà del Vallès 👍👍
+21oct26 11:32 E22SD Zeph   @[ESKOL_C01] Hola Fabio. Bienvenido y ponte cómodo.😜
+                           Cuando puedas ponte en 2 bytes. Ahora estás en 1.
+21oct26 11:58 Krom-Wismesh Soy Seve ahora en Diagonal, al lado del corte Inglés, o desde Cerdanyola (en casa)
+21oct26 11:59 E22SD Zeph   A ti ya te conocemos pesao😂😂😂
+21oct26 12:00 E22SD Zeph   Es broma AAA😜😜
+21oct26 12:04 Socramo      @[SPL  ₍^. .^₎⟆] ja ja Guten!
+21oct26 12:11 SPL  ₍☺. .☺₎ @[Socramo] Guten mediodien desde Palau de Plegamans. :P
+21oct26 12:13 Krom-Wismesh Ja ja ja
+21oct26 12:14 SPL  ₍☺. .☺₎ Las cajitas de 18650 van muy bien para hacer un companion... hasta el dia que sales y te llevas más baterias y no el companion
+21oct26 12:14 Krom-Wismesh Pero no sabías mi nombre 😂
+21oct26 12:15 SPL  ₍☺. .☺₎ Tenía que hacer unas cosas en Mollet y quería probar cobertura pero me lo he dejado. Sin batería no me he quedado, eso sí :P
+21oct26 12:59 E22SD Zeph   @[Krom-Wismesh Tag] cierto... No lo sabía...👍👍
+21oct26 13:00 E22SD Zeph   @[SPL  ₍^. .^₎⟆] 🤦
+21oct26 13:01 E22SD Zeph   @[Socramo] hola!! De dónde sales porfa. 👋
+21oct26 13:13 Alfonso N ☺☺ @[Vlad] Hola, Vlad! 👋 (y hola al resto también). Estás a 1 byte, ponte a 2 bytes
+21oct26 13:28 E22SD Zeph   Hola Alfonso. De dónde dijiste q salías??
+21oct26 13:42 XAVI.Mobil.C Buenas
+21oct26 13:45 XAVI.Mobil.C Me encanta esto, estoy unos dias sin salir y cuando vuelvo hay un monton de gente nueva 👏🏼
+21oct26 13:47 E22SD Zeph   👏👏👏👏
+21oct26 14:13 LWSA C8      👌👌👌
+21oct26 14:14 Xavi T1K ☺   🥳
+21oct26 14:27 Xavi T1K ☺   Holaa
+21oct26 14:27 1C1FA        @[Xavi T1K 🐙]
+                           Hola...
+                           4h a Terrasa
+21oct26 14:56 MAK-OBS      test a 3byte
+21oct26 19:54 XAVI-Castell Bona tarda
+                           Que ha sigut de CT.B CHSM R8/0 ?
+21oct26 19:55 E22P_9000mAh Se fue
+21oct26 19:55 Rtuning      Bona tarda desde Mataró
+21oct26 19:55 E22P_9000mAh @[Rtuning] 👋👋
+21oct26 19:56 ☺NMG MIX WIF Se fue se fue el murmulo de su silencioooo
+21oct26 19:56 XAVI-Castell @[Rtuning] 🙋🏻‍♂️
+21oct26 19:56 ☺NMG MIX WIF Como decia la canción...
+21oct26 19:56 E22P_9000mAh @[🎹NMG MIX WIFI🎹] 😂😂😂 te ha quedado bien con el piano en el nombre
+21oct26 19:56 XAVI-Castell 😩
+21oct26 19:57 ☺NMG MIX WIF 🤣🤣🤣
+21oct26 20:31 E22SD Zeph   Fue bonito mientras duró...😸😸
+21oct26 21:10 SPL  ₍☺. .☺₎ @[XAVI.Mobil.Castellar.Valles.BCN] No hi ha manera de tornar-te els privats... provaré més tard. 😅
+21oct26 21:27 Alfonso N ☺☺ @[E22SD Zeph] > Hola Alfonso. De dónde dijiste q salías??
+                           De La Sagrera
+21oct26 21:28 T1000-E 0832 Bona nit
+21oct26 21:28 Alfonso N ☺☺ <e20c86a5af89afaba53a833212896c908b883109a07107852e904ee703a9c194:1:Alfonso N 🧔‍♀️💻 BCN>
+21oct26 21:48 E22SD Zeph   Ooook. Estamos cerca más o menos.... Yo Horta.👍

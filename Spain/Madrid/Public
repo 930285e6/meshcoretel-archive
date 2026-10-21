@@ -9,3 +9,161 @@
 20oct26 10:07 MadMesh_Rad  Hola @todos 👋☕️🏭
 20oct26 10:53 Wemesh ☺     🖖🖖🖖
 20oct26 10:55 AlrikM9      Buenos dias gente
+20oct26 11:22 EA4ADM ☺     Buenos días Malla ☕🥐
+20oct26 14:09 4B57F927     Hola buenas tardes, probando desde Campo Real
+20oct26 14:11 rzrk v4.2    @[4B57F927] Recibido en Rivas. Podrías cambiar el path a 2 bytes para identificar correctamente los repetidores por los que pasas?
+20oct26 14:13 Naumesh      @[4B57F927] copiado en Las Rozas
+20oct26 14:16 4B57F927     Muchas gracias!
+20oct26 14:17 4B57F927     @[rzrk v4.2] hecho
+20oct26 14:20 FR_BATT      @[4B57F927] Recibido por Arganda
+20oct26 14:22 EA4ADM ☺     @[4B57F927] Recibido en Alcalá de Henares en 5 SALTOS (1a3d,c4f2,c0c0,A2B3,7795)
+20oct26 14:55 4B57F927     Genial, muchas gracias!
+20oct26 15:00 AlrikM9      @[4B57F927] recibido en vallecas
+20oct26 17:26 3s11☺        Hola!!!!
+20oct26 17:30 3s11☺        Test
+20oct26 17:32 NL-oblomow   Test with 2 bytes
+20oct26 17:33 Santiago Móv @[NL-oblomow] received via 2E3F,CEBA,D259
+20oct26 17:34 Santiago Móv @[3s11🛵] Hola! Recibido vía C0C0,200F,D259
+20oct26 18:32 3s11☺        Me funciona pero la cobertura me va justita
+20oct26 19:50 3s11☺        Poca gente por aquí?
+20oct26 19:52 EA4INL       Gente hay..
+20oct26 19:53 NL-oblomow   @[MadMesh_Rad]  the meshcore flooding you mean? Still bad, but regions help.
+20oct26 19:54 rzrk v4.2    @[3s11🛵] Somos bastantes, pero supongo que nos cuesta salir del saludo diario, jajaj
+20oct26 19:54 Fernando (EC Buenas tardes
+20oct26 19:58 3s11☺        @[rzrk v4.2] pues saludamos otra vez...
+20oct26 19:58 3s11☺        Hoooolaaaa
+20oct26 19:59 3s11☺        No hay ningún canal de la comunidad o algo para no meter todo en el público?
+20oct26 19:59 3s11☺        @[Fernando (EC4CRE) T-Deck] ooohhh 1byte!!!!
+20oct26 20:00 3s11☺        Y buenas tardes
+20oct26 20:02 Fernando (EC @[3s11🛵] si es que tengo que configurar la tdeck con 2 bytes
+20oct26 20:02 Fernando (EC Pero todavía no he podido
+20oct26 20:03 Fernando (EC Y esta con un byte
+20oct26 20:04 3s11☺        https://www.wadamesh.com
+20oct26 20:04 3s11☺        No lo he probado que no gasto tdeck
+20oct26 20:04 3s11☺        Pero por lo que me ha comentado algún conocido, muy bien
+20oct26 20:05 Fernando (EC @[3s11🛵] si no va mal
+20oct26 20:06 Fernando (EC Pero es algo complejo pasarla a 2bytes
+20oct26 20:08 NL-oblomow   https://github.com/burakcan/MeshCore-mishmesh
+20oct26 20:09 3s11☺        @[NL-oblomow] ese lo tuve yo en la tracker L1!!!
+20oct26 20:10 3s11☺        Con juego incluido
+20oct26 20:13 NL-oblomow   @[3s11🛵] Me too. I like the possibilty to 'lock'  the buttons.
+20oct26 20:19 rzrk v4.2    Yo he pedido un Wio Tracker L2 Pro. He echado un ojo a Wadamesh y tiene buena pinta
+20oct26 20:19 rzrk v4.2    El único pero antes de probarlo es que el conector de antena es RP-SMA, pero parece se puede cambiar al ser un pigtail
+20oct26 20:19 Pascasio t11 Yo lo uso con la tdeck y es el firm que más me gusta dentro de los que he probado para la tdeck
+20oct26 20:26 Fernando (EC @[Pascasio t114] cual?
+20oct26 20:27 Pascasio t11 Wadamesh
+20oct26 20:28 Fernando (EC @[Pascasio t114] mejor que el firmware de Meshcore?
+20oct26 20:28 Pascasio t11 @[Fernando (EC4CRE) T-Deck] para mi gusto si
+20oct26 20:29 Fernando (EC Mejor en funcionalidad?
+20oct26 20:31 Fernando (EC @[Pascasio t114] ok lo probaré, de donde lo descargas?
+20oct26 20:31 rzrk v4.2    @[Pascasio t114] Se pueden precargar las tiles desde el PC o las tiene que bajar según lo veas en el nivel de zoom deseado?
+20oct26 20:32 Pascasio t11 @[Fernando (EC4CRE) T-Deck] https://wadamesh.com/#standalone
+20oct26 20:33 Pascasio t11 @[rzrk v4.2] tildes? Dentro puedes elegir el tipo de teclado que quieres (español o lo que sea)
+20oct26 20:33 rzrk v4.2    @[Pascasio t114] Nono, las tiles del mapa, los recuadros/imágenes que lo van componiendo
+20oct26 20:33 Pascasio t11 Y luego la resolución del mapa te sale una pero si vas aumentando (y tienes wifi) va aumentando el detalle de ese plano
+20oct26 20:33 Pascasio t11 Pero solo de la zona que aumentas
+20oct26 20:34 Pascasio t11 @[rzrk v4.2] pues no me acuerdo. Creo que todo lo descarga de internet y viene con un mapa muy básico que luego va descargando
+20oct26 20:34 Pascasio t11 No he visto o no me acuerdo de decir como quieres el mapa de aumentos
+20oct26 20:35 rzrk v4.2    Ok, lo decía por dejar precargado el de una zona si sabes que no vas a tener Internet
+20oct26 20:36 Pascasio t11 Yo lo tengo con una tarjeta metida porque antes me descargaba los mapas con el firm original pero la verdad
+20oct26 20:36 Pascasio t11 Que luego tampoco miro mucho el mapa y solo tengo Madrid Alicante y poco más
+20oct26 20:37 Pascasio t11 Y una vez que se descarga ya se queda ahí
+20oct26 20:38 rzrk v4.2    Guay, iré buscando una microsd por ahí mientras llega, que tardará. Ya os contaré qué tal funciona
+20oct26 20:39 Pascasio t11 Ha salido también este nuevo, pero no lo he probado
+20oct26 20:39 Pascasio t11 Quería probarlo pero no he tenido tiempo
+20oct26 20:40 Pascasio t11 https://github.com/cvhviz/Cairn
+20oct26 20:41 rzrk v4.2    Está chula la UI
+20oct26 20:41 rzrk v4.2    Me lo apunto para comparar
+20oct26 20:41 1484B80AF6E8 @[Pascasio t114]
+                           >https://gi..
+                           👍
+20oct26 20:54 EC4CRE-VAN   @[Pascasio T1000]  Como le pones 2bytes?
+20oct26 20:55 Pascasio t11 Creo que hay una opción en ajustes avanzados. Yo lo tengo en 2 bytes pero hay una opción que sale 1 2 3
+20oct26 20:59 EC4CRE T-DEC la verdad es que me gusta de momento lo que veo
+20oct26 20:59 Pascasio t11 Si pruebas el otro me dices que ese quería probarlo y no he tenido tienpo
+20oct26 21:00 EC4CRE T-DEC cual?
+20oct26 21:01 EC4CRE-VAN   @[Pascasio t114] cuál es el otro?
+20oct26 21:03 Pascasio t11 Este https://github.com/cvhviz/Cairn
+20oct26 21:12 EC4CRE-VAN   @[Pascasio t114] no me funciona el webflasher de esa página
+20oct26 21:18 3s11☺        @[Fernando (EC4CRE) T-Deck]/pathsize 2
+20oct26 21:19 3s11☺        En la terminal
+20oct26 21:19 3s11☺        Y listo
+20oct26 21:20 EC4CRE T-DEC ya lo cambie
+20oct26 21:24 3s11☺        @[EC4CRE T-DECK FER] 👏
+20oct26 21:25 3s11☺        @[EC4CRE T-DECK FER] ahora te falta todavía creo que la fecha y hora
+20oct26 21:26 EC4CRE T-DEC lo miro ahora
+20oct26 21:33 3s11☺        Test
+20oct26 21:41 Pascasio t11 Cañaveral e22p actualizado
+20oct26 21:44 EC4CRE T-DEC Prueba del t-deck como companion
+20oct26 21:46 EC4CRE T-DEC Test
+20oct26 21:47 EC4CRE T-DEC @[Pascasio t114] muchas gracias
+20oct26 22:29 EA4INE VROD  cerramos por hoy
+20oct26 22:31 EC4CRE T-DEC Buenas noches malla!!!
+20oct26 22:32 EA4INE VROD  buenas noches
+20oct26 22:36 1484B80AF6E8 ✌️
+21oct26 00:27 FaroBlanco☺☺ buenas noches malla
+21oct26 05:06 3s11☺        👋
+21oct26 06:14 EC4CRE T-DEC Buenos dias malla!!!
+21oct26 06:15 Warthog-l1   Buenos días!
+21oct26 06:15 EC4CRE T-DEC @[Warthog-l1]  😀
+21oct26 07:50 ED-4FZZ      Buenos días !!!!!!!
+21oct26 07:51 ED-4FZZ      Buenos días !!!!!!!
+21oct26 08:08 EA4INE VROD  ☕ d' mornin'
+21oct26 08:13 MadMesh_Rad  Hola! ☕️👋
+21oct26 08:39 Alex ☺       Buenos dias malla!! Me acaba de saltar un nuevo repetidor pasado el alto del león 👏👏👏
+21oct26 09:19 Wemesh ☺     🖖🖖
+21oct26 09:25 MadMesh_Rad  @[Wemesh 🌐] @[Alex 🐻]  👋
+21oct26 10:12 EA4ADM ☺     Buenos días Malla ☕🥐
+21oct26 12:44 CherryTomato que tal
+21oct26 13:49 Pascasio tde WSGHL ZCNMFJK#23_+5()-8?7,.AP
+21oct26 13:49 Pascasio tde se habia vuelto loca la tdeck
+21oct26 14:05 CherryTomato @[Pascasio tdeck]
+                           >se habia v..
+                           lol
+21oct26 14:12 Something 2  @[Pascasio tdeck] jajajaj vaya tela
+21oct26 14:13 Something 2  Claro es que eso tendra un boton lock, y si se te olvida darle, pasa eso
+21oct26 14:13 Pascasio tde ahora va bien.
+21oct26 14:14 Pascasio tde no tengo claro que ha pasado
+21oct26 14:14 Pascasio tde osea intentaba escribir normal y mandaba ese mensaje directamente
+21oct26 14:14 Pascasio tde e intentaba borrar y se mandaba
+21oct26 14:31 Wemesh ☺     Firmware corrupto?
+21oct26 16:09 EC4CRE T-DEC Buenas tardes malla!!!
+21oct26 16:10 CherryTomato @[EC4CRE T-DECK FER]
+                           >Buenas tar..
+                           👋
+21oct26 16:16 3s11☺        👋
+21oct26 19:03 AlrikM9      @[Pascasio tdeck] si es wadamesh igual son los mensajes rapidos
+21oct26 19:57 Alex ☺       Que riesgos??
+21oct26 19:58 Pascasio t11 Yo tenía pensado actuales el t114 y el t1000
+21oct26 19:58 Wemesh ☺     🤔
+21oct26 20:08 Wemesh ☺     @[FaroBlanco📡⚪] no tires la piedra y nos dejes con la duda😆😆
+21oct26 20:09 Alex ☺       Está esperando a que se genere más expectación 🤣🤣
+21oct26 20:13 Wemesh ☺     🥁 trrrrrrrrrr Tsss
+21oct26 20:14 FaroBlanco☺☺ pues, algunos dispositivos se quedan con su pantalla inutil
+21oct26 20:16 Wemesh ☺     Yo actualize uno de los dos heltec v3 companion y por ahora no me ha pasado nada con la pantalla. Igual afecta otros modelos.
+21oct26 20:19 EC4CRE T-DEC Yo si tuve problemas con la pantalla de un Heltec V3, a ver si soy capaz de recuperarlo
+21oct26 20:20 EC4CRE T-DEC desconozco si ha sido casual o no
+21oct26 20:21 Wemesh ☺     Problema en que sentido? Dejo de mostrar información o que paso
+21oct26 20:22 EC4CRE T-DEC si ahora no se muestra nada en pantalla
+21oct26 20:23 Wemesh ☺     Cuanto tiempo paso desde que lo actualizaste hasta que se dio el fallo?
+21oct26 20:24 EC4CRE T-DEC justo al terminar de flasearlo
+21oct26 20:24 Wemesh ☺     Que versión le metiste la Ble?
+21oct26 20:24 EC4CRE T-DEC antes funcionaba correctamente
+21oct26 20:25 FaroBlanco☺☺ pues, voy a subir mi búsqueda (automática Deep Search, pero he leído algunas fuentes) en Telegram? puede servir?
+21oct26 20:25 EC4CRE T-DEC la ultima que hay
+21oct26 20:26 EC4CRE T-DEC Intentaré hacer un downgrade
+21oct26 20:27 Alex ☺       Pues yo de momento he actualizado el repeater y no me he subido a ver si la pantalla está viva 😅
+21oct26 20:27 Alex ☺       Pero los companion los dejo sin actualizar por si acaso
+21oct26 20:27 Wemesh ☺     Yo baje las fuentes y la compile yo noncargue en binario
+21oct26 20:27 Wemesh ☺     Tal vez el binario este mal
+21oct26 20:28 Wemesh ☺     O mis fuentes ya contenían un parche
+21oct26 20:28 EC4CRE T-DEC los repetidores los tengo con la version anterior
+21oct26 20:28 Wemesh ☺     Compilaste o cargaste el binario?
+21oct26 20:28 EC4CRE T-DEC @[Wemesh 🌐] puede ser
+21oct26 20:29 EC4CRE T-DEC lo actualice via web
+21oct26 20:34 EC4CRE T-DEC reflasheando de nuevo con la version anterior
+21oct26 20:39 FaroBlanco☺☺ pues, he subido el PDF al Telegram "MeshMadrid". Es solamente una (!) base pata discutir, no es una sentencia fija.
+21oct26 21:08 NL-oblomow   Buenas noches
+21oct26 21:10 EC4CRE T-DEC @[NL-oblomow] buenas noches
+21oct26 21:15 FaroBlanco☺☺ @[NL-oblomow]: "Oblomow"!título de la novela de Iwan Gontscharow de 1859, muy interesante!
+21oct26 21:22 Alex ☺       #bot

@@ -22,3 +22,11 @@
 19oct26 05:46 Alkel Brostl Taky jsem upgradoval každý 4 roky Ubuntu server od 14.04 - pak ale Forpsi pěkně natáhlo ceny za mašiny na VMWare :D
 19oct26 05:46 TTH          @[CEO🏷️] 7.1.5 ? 7.2.8-arch1-2
 19oct26 05:47 Alkel Brostl Takže letos jsem ten novej stroj rovnou nainstaloval s Debian 13.
+21oct26 23:52 CEO ☺        @dej
+21oct26 23:52 CEO ☺        @[Dejv Bobry mobile]  nene, ten server nemel trunk ven :)
+22oct26 00:03 sesivany-v4  Tak co, už máte záplatované PHP? :)
+22oct26 00:13 berk76-tag   No php found
+22oct26 01:27 crazyjimmy   @[sesivany-v4] kéž by... Některé repozitáře se s aktualizaci lehce loudaj :(
+22oct26 01:29 CEO ☺        kez by - jen jsem povypinal wiki a nextcloud a pockam na fixy :)
+22oct26 01:29 sesivany-v4  Já jsem na repa nečekal, stáhl jsem balíčky přímo z build serveru.
+22oct26 01:32 crazyjimmy   U Gentoo jsem take nečekal, to jsem si ebuild upravil a bylo to hned. Potíž nastala vlastně jen s Dockerem :(

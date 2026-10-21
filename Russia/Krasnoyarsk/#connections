@@ -26,3 +26,103 @@
 20oct26 16:20 K26Bot       ack @[MC26] | Direct | SNR: 8.5 dB | RSSI: -81 dBm | Received at: 16:20:00
 20oct26 16:21 MC26         Stats
 20oct26 16:21 K26Bot       Команда stats отключена
+20oct26 16:22 MC26         Hello
+20oct26 16:38 K26Bot       <aa121f26944c8e940ed033f9736e5299a71e1cef6bf93c8d557f0ec652c845ff:1:K26Bot>
+20oct26 16:42 MC26         Trace
+20oct26 16:43 MC26         Trace 2624
+20oct26 16:43 K26Bot       @[MC26] Trace failed: No trace response within timeout (path: 26,24)
+20oct26 16:44 MC26         Trace 2624
+20oct26 16:44 K26Bot       @[MC26] Trace failed: No trace response within timeout (path: 26,24)
+20oct26 16:47 MC26         Traçe 2624
+20oct26 16:48 MC26         Trace 2624
+20oct26 16:48 K26Bot       @[MC26] Trace failed: No trace response within timeout (path: 26,24)
+20oct26 16:48 MC26         Trace 26
+20oct26 16:48 K26Bot       @[MC26] [Bot] 10.0 [26] 10.8 [Bot]
+20oct26 16:52 MC26         T
+20oct26 16:52 K26Bot       ack @[MC26] | Direct | SNR: 8.5 dB | RSSI: -81 dBm | Received at: 16:52:02
+20oct26 18:44 MC26         Traçe 2624
+20oct26 18:52 MC26         T
+20oct26 19:00 MC26         Test
+20oct26 19:00 K26Bot       ack @[MC26] | Direct | SNR: 10.75 dB | RSSI: -55 dBm | Received at: 19:00:10
+20oct26 19:00 MC26         Тест
+20oct26 19:04 MC26         Тест
+20oct26 19:04 MC26         Т
+20oct26 19:06 MC26         Т
+20oct26 19:06 K26Bot       ack @[MC26] | Direct | SNR: 10.0 dB | RSSI: -54 dBm | Received at: 19:06:20
+20oct26 19:06 K26Bot       Pong!
+20oct26 19:06 MC26         Путь
+20oct26 19:06 K26Bot       📡 Direct connection (0 hops)
+20oct26 19:07 MC26         Help
+20oct26 19:08 K26Bot       123
+20oct26 19:10 K26Bot       Help for 'test':
+                           Responds to 'test' or 't' with connection info
+20oct26 19:13 MC26         Help
+20oct26 19:13 K26Bot       Команды: test, ping, path
+20oct26 19:14 MC26         Ping
+20oct26 19:14 K26Bot       Pong!
+20oct26 19:14 MC26         Path
+20oct26 19:15 K26Bot       📡 Direct connection (0 hops)
+20oct26 19:19 MC26         Test
+20oct26 19:20 MC26         !test
+20oct26 19:20 K26Bot       ack @[MC26] | Direct | SNR: 10.5 dB | RSSI: -85 dBm | Received at: 19:20:23
+20oct26 19:23 MAX          Ping
+20oct26 19:23 K26Bot       Pong!
+20oct26 19:24 MC26         Тест
+20oct26 19:24 K26Bot       ack @[MC26] | Direct | SNR: 10.5 dB | RSSI: -84 dBm | Received at: 19:24:40
+20oct26 19:25 MAX          Тест
+20oct26 19:25 K26Bot       ack @[MAX] | e3b6,d58b,e659,2624 (4 hops) | SNR: 10.75 dB | RSSI: -59 dBm | Received at: 19:25:12
+20oct26 19:25 MC26         Path
+20oct26 19:25 K26Bot       📡 Direct connection (0 hops)
+20oct26 19:26 MC26         Help
+20oct26 19:26 K26Bot       Доступны команды: test, ping, path
+20oct26 19:26 MAX          Path
+20oct26 19:26 K26Bot       E3B6: Unknown
+                           D58B: MOL MQTT Repeater
+                           E659: Unknown
+                           2624: K26 Zhel-Krsk Observer
+20oct26 19:26 MAX          path
+20oct26 19:27 K26Bot       E3B6: Unknown
+                           16E8: Unknown
+                           E659: Unknown
+                           2624: K26 Zhel-Krsk Observer
+20oct26 21:55 MOL-MeshCorе Тест
+20oct26 21:56 K26Bot       ack @[MOL-MeshCorе] | d58b,16e8,e659,2624 (4 hops) | SNR: 10.25 dB | RSSI: -56 dBm | Received at: 21:55:57
+20oct26 21:57 Mol-DarkTec  Тест
+21oct26 00:36 Tigra        !test
+21oct26 00:36 K26Bot       ack @[Tigra] | 2624 (1 hops) | SNR: 10.75 dB | RSSI: -55 dBm | Received at: 00:36:48
+21oct26 00:39 Tigra        !help
+21oct26 00:39 K26Bot       Доступны команды: test (тест), ping (пинг), path (путь)
+21oct26 00:39 Tigra        !path
+21oct26 00:39 K26Bot       2624: K26 Zhel-Krsk Observer
+21oct26 10:02 Mol-DarkTec  !path
+21oct26 10:05 Mol-DarkTec  !test
+21oct26 10:05 MC26         Бот пока еще в процессе настройки, иногда может не работать
+21oct26 10:11 MC26         Тест
+21oct26 10:14 MC26         Тест
+21oct26 10:14 K26Bot       ack @[MC26] | Direct | SNR: 12.0 dB | RSSI: -80 dBm | Received at: 10:14:50
+21oct26 11:26 MC26         Тест
+21oct26 11:26 K26Bot       ack @[MC26] | Direct | SNR: 10.75 dB | RSSI: -79 dBm | Received at: 11:26:39
+21oct26 11:33 MC26         Т
+21oct26 11:33 K26Bot       ack @[MC26] | Direct | SNR: 11.5 dB | RSSI: -81 dBm | Received at: 11:33:01
+21oct26 12:07 Mol-DarkTec  Ping
+21oct26 14:00 MC26         Т
+21oct26 14:00 K26Bot       ack @[MC26] | Direct | SNR: 11.0 dB | RSSI: -81 dBm | Received at: 14:00:09
+21oct26 14:05 Mol-DarkTec  Что то глючит бот, не отвечает :(
+21oct26 14:06 MAX          Тест
+21oct26 14:06 K26Bot       ack @[MAX] | e3b6,16e8,e659,2624 (4 hops) | SNR: 10.5 dB | RSSI: -56 dBm | Received at: 14:06:38
+21oct26 14:07 MC26         Сейчас стабильно  запустил. Не отвечать может только если теряются пакеты
+21oct26 14:08 MC26         Сейчас стабильно  запустил. Не отвечать может только если теряются пакеты
+21oct26 14:09 MAX          Тест
+21oct26 14:09 MAX          И тишина :)
+21oct26 14:10 MC26         Вечером его поближе к репитеру размещу
+21oct26 14:12 MC26         Погода нелетная сегодня чет. Или птицы опять антенну покрутили/обосрали)
+21oct26 14:15 MAX          @[MC26] птиц отгонять надо :)
+21oct26 14:16 MC26         @[MAX] это сообщение бот услышал, но ответ от бота репитер не услышал, хотя он был
+21oct26 14:16 Mol-DarkTec  @[MC26] не стабильный у нас канал, не стабильный :(
+21oct26 14:18 Mol-DarkTec  Бери ДаркТек на 2 вата, пока акция за 5 тыр.руб
+21oct26 14:21 MC26         @[Mol-DarkTec] у тебя сейчас оба сообщения дальше dsda5dRepeater не ушли. Я тут не причем)
+21oct26 14:23 MC26         Как и у меня...
+21oct26 14:33 MAX          Печаль
+22oct26 00:01 Tigra        !тест
+22oct26 00:02 Tigra        !test
+22oct26 00:02 K26Bot       ack @[Tigra] | Direct | SNR: -12.75 dB | RSSI: -115 dBm | Received at: 00:02:20

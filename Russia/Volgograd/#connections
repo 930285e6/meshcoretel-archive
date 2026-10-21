@@ -270,3 +270,52 @@
 20oct26 06:58 DmMv         T
 20oct26 10:01 SILVER       T
 20oct26 10:01 MeshCoreBot  ack [@SILVER] | df22,799d (2 hops) | SNR: 8.5 dB | RSSI: -104 dBm | Received at: 07:01:39
+20oct26 14:51 gamc         P
+20oct26 14:51 MeshCoreBot  22: Druzhba Rep
+                           F8: T734_T_T Repeater
+20oct26 16:43 Doka         Обновил FTP, снизил мощность, вроде норм?
+20oct26 17:06 Operator34   T
+20oct26 17:06 MeshCoreBot  ack [@Operator34] | 11c4 (1 hops) | SNR: -1.5 dB | RSSI: -117 dBm | Received at: 14:06:32
+20oct26 19:45 DmMv         T
+20oct26 21:22 GlaZ Victor  Пока не понятно
+20oct26 22:26 SILVER       T
+20oct26 22:26 MeshCoreBot  ack [@SILVER] | e312,87ab (2 hops) | SNR: 8.25 dB | RSSI: -105 dBm | Received at: 19:26:20
+21oct26 15:17 CRT          Mp
+21oct26 15:17 MeshCoreBot  Paths: 35/35 | Nodes: 37
+                           Length: 1-5 (avg 3.5)
+                           Best: 4A69
+                           4A69
+                           ├─174C
+                           ├─2200
+                           ├─BB91
+                           │ ├─1A87 [1/5]
+21oct26 15:17 MeshCoreBot  │ ├─87AB
+                           │ ├─A50F─A2B1
+                           │ ├─E4F3
+                           │ └─FDD3
+                           ├─DF22
+                           ├─E200─C8EF
+                           └─4E75
+                           ├─C3ED [2/5]
+21oct26 15:17 MeshCoreBot  └─F8C4
+                           ├─0845─F4E1
+                           ├─11C4
+                           ├─160B
+                           ├─20E3
+                           ├─43CB
+                           ├─7700
+                           ├─7CC2 [3/5]
+21oct26 15:17 MeshCoreBot  ├─7FBE
+                           ├─95EF
+                           ├─AABA
+                           ├─DD00
+                           ├─F9D7
+                           └─FC88
+                           ├─25A9
+                           ├─6036 [4/5]
+21oct26 15:17 MeshCoreBot  ├─6AAD
+                           ├─AE43
+                           └─F064
+                           05AF─1542 [5/5]
+21oct26 21:57 Operator34   T
+21oct26 21:57 MeshCoreBot  ack [@Operator34] | 7cc2 (1 hops) | SNR: 12.25 dB | RSSI: -18 dBm | Received at: 18:57:56
