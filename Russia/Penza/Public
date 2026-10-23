@@ -197,3 +197,23 @@
 21oct26 21:52 Почта России Здравия всем
 21oct26 22:05 Obs          @[Почта России] 👋
 21oct26 22:19 FGZ          @[Почта России] Привет!
+22oct26 00:00 lexv-mesh-bo 🪁uptime: 4d 11h 42m companions: 61 repeaters:31 rooms:2
+22oct26 06:04 LUVR1        @[Почта России] И тебе многая лета!
+22oct26 08:50 lexv☺        Пpeдлaгaю opгaнuзoвamь omnpaвкy бyмaжныx nuceм чepeз мeшкop
+22oct26 08:57 Obs          @[lexv🗿] лучше посылки. В больших фанерных ящиках как раньше)
+22oct26 11:11 MC fox ☺     Дабы не убить мештастик, может сделать мост мыш-мешкор?
+22oct26 11:23 PAL          Задумка хорошая!
+22oct26 11:24 FGZ          @[MC fox 🦊] 👍
+22oct26 11:26 MC fox ☺     А вот такая плюшко https://github.com/ALLFATHER-BV/wadamesh
+22oct26 11:37 MC fox ☺     Это опенсорсный (халявный) вариант MeshOS
+22oct26 12:00 lexv-mesh-bo 🪁uptime: 4d 23h 42m companions: 61 repeaters:31 rooms:2
+22oct26 15:55 MC fox ☺     Кто не в курсе, для iOS (iPhone и iPad) есть клиент CAIRN.
+22oct26 21:51 Obs          @[MC fox 🦊] >cдeлaть мocт
+                           B oбe cтopoны cлaть бyдeт? A тo в тeлeгe бoт тoлькo пpинимaeт
+23oct26 00:00 lexv-mesh-bo 🪁uptime: 5d 11h 42m companions: 61 repeaters:31 rooms:2
+23oct26 10:19 MC fox ☺     @[Obs]Логично копировать месаги из\в паблики обеех сетей.
+23oct26 10:22 MC fox ☺     Гейты можно метить тегом, что позволит видить откуда зашла мессага
+23oct26 10:31 MC fox ☺     Есть реализации:https://mesh-api.dev/ и https://github.com/AkitaEngineering/Akita-Meshtastic-Meshcore-Bridge
+23oct26 12:00 lexv-mesh-bo 🪁uptime: 5d 23h 42m companions: 61 repeaters:31 rooms:2
+23oct26 14:10 MC fox ☺     Akita-Meshtastic-Meshcore-Bridge самое простое и близкое нам решение.
+23oct26 14:29 MC fox ☺     Главное, чтоб мост был расположен на пересечении обеих сетей.

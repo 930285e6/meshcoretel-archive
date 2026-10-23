@@ -1406,3 +1406,346 @@
 21oct26 22:51 NNO-ELN-BOT  @[MMM] | 7d27,09a7,9182,c9cd,a9c4 | 7d27,09a7,9182,c9cd,a9c4 (5 hops) | SNR: 12.5 dB | RSSI: -51 dBm
 21oct26 22:57 Meloman868   pong
 21oct26 22:57 DeadFeedBot  Ping!
+21oct26 23:23 LambdaDelta  P
+21oct26 23:23 NNO-ELN-BOT  CD93: Test_11
+                           B127: Unknown
+                           BA98: NN-SRM-15
+                           864F: NN-SOV-ENOK🦉
+                           9182: NN-NIZ-12
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+22oct26 00:22 FF           Ping
+22oct26 00:22 NNO-ELN-BOT  @[FF] | a9c4 | a9c4 (1 hops) | SNR: 12.25 dB | RSSI: -49 dBm
+22oct26 00:22 DZR/Bot-MM   Pong! @[FF] 9182,acbd,e629,8532 (4 hops) | SNR: 12.25 dB | RSSI: -19 dBm
+22oct26 00:22 DeadFeedBot  @[FF] Pong! | Direct | SNR: -2.0 dB | RSSI: -110 dBm
+22oct26 07:48 ☺            P
+22oct26 07:51 ☺            P
+22oct26 07:52 NNO-ELN-BOT  4855: NNO-AFN-38
+                           5AFE: Unknown
+                           90F8: NN-433-ANK-41
+                           C2AC: NN433-FED-23
+                           C7FB: NN433-FED-CHEBURNET
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+22oct26 07:52 DZR/Bot-MM   4855: NNO-AFN-38
+                           5AFE: NNO433-AFN-39
+                           90F8: NN-433-ANK-41
+                           E59B: NN-ANK-40
+                           F432: NN-SOV-56
+                           CE77: NN-NIZ-13
+                           09A7: NN-NIZ-60
+                           FB1D: NN-SRM-10
+                           ...
+22oct26 07:52 DZR/Bot-MM   ...
+                           0651: NN-KAN-47
+                           BEEF: DZ-ZAP-03
+22oct26 07:54 ☺☺ Siri      P
+22oct26 07:54 NNO-ELN-BOT  11BC: NN-SRM-05
+                           0651: NN-KAN-47
+                           946F: BOR-PLV-45
+                           1BFF: NN-NIZ-TST1
+                           9182: NN-NIZ-12
+                           A9C4: NNO-ELN-32
+22oct26 08:01 ☺            P
+22oct26 08:01 NNO-ELN-BOT  F432: NN-SOV-56
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+22oct26 08:01 DZR/Bot-MM   F432: NN-SOV-56
+                           9182: NN-NIZ-12
+                           ACBD: NN-SRM-09
+                           0651: NN-KAN-47
+                           BEEF: DZ-ZAP-03
+22oct26 08:03 catsquatch☺  P
+22oct26 08:03 NNO-ELN-BOT  ACDC: NN-PRI-42
+                           2270: NN-AVT-46
+                           ACBD: NN-SRM-09
+                           9182: NN-NIZ-12
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+22oct26 08:05 FF           P
+22oct26 08:05 NNO-ELN-BOT  F432: NN-SOV-56
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+22oct26 08:05 Kaoru        P
+22oct26 08:05 NNO-ELN-BOT  2270: NN-AVT-46
+                           7D27: NN-SOV-54
+                           1BFF: NN-NIZ-TST1
+                           9182: NN-NIZ-12
+                           FEED: NN-PRI-29
+                           A9C4: NNO-ELN-32
+22oct26 10:46 Alex_AVT☺    P
+22oct26 14:28 ☺            Path
+22oct26 14:28 DeadFeedBot  CE77: NN-NIZ-13
+                           F432: NN-SOV-56
+22oct26 14:28 NNO-ELN-BOT  CE77: NN-NIZ-13
+                           F432: NN-SOV-56
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+22oct26 14:36 Kaoru        P
+22oct26 14:38 Kaoru        P
+22oct26 14:38 DZR/Bot-MM   2270: NN-AVT-46
+                           0651: NN-KAN-47
+                           BEEF: DZ-ZAP-03
+22oct26 14:38 NNO-ELN-BOT  2270: NN-AVT-46
+                           F881: NN-MOS-16-OBSERVER
+                           0AF0: NN-MOS-16
+                           09A7: NN-NIZ-60
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+22oct26 14:55 MM/DZ        P
+22oct26 14:55 NNO-ELN-BOT  F62B: DZ-OLD-14
+                           BEEF: DZ-ZAP-03
+                           0651: NN-KAN-47
+                           9182: NN-NIZ-12
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+22oct26 14:56 Kaoru        P
+22oct26 14:57 DZR/Bot-MM   2270: NN-AVT-46
+                           BA98: NN-SRM-15
+                           BEEF: DZ-ZAP-03
+22oct26 15:35 PotaskunAvt  Patch
+22oct26 16:27 rabbitr00ny  Ping
+22oct26 16:53 rabbitr00ny  Ping
+22oct26 16:53 DZR/Bot-MM   Pong! @[rabbitr00ny] 5703,c667,ba98,feed,beef (5 hops) | SNR: -3.75 dB | RSSI: -112 dBm
+22oct26 16:53 DeadFeedBot  @[rabbitr00ny] Pong! | 5703,c667,ba98,feed (4 hops) | SNR: 12.25 dB | RSSI: -66 dBm
+22oct26 17:03 Kaoru        P
+22oct26 17:03 NNO-ELN-BOT  30ED: NN-LEN-93
+                           ACDC: NN-PRI-42
+                           ACBD: NN-SRM-09
+                           09A7: NN-NIZ-60
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+22oct26 17:03 DZR/Bot-MM   30ED: NN-LEN-93
+                           ACDC: NN-PRI-42
+                           F62B: DZ-OLD-14
+                           8532: DZ-OLD-11
+22oct26 17:09 Vanya_Craft☺ Ping
+22oct26 17:29 ☺☺ Siri      P
+22oct26 17:29 NNO-ELN-BOT  BA98: NN-SRM-15
+                           FEED: NN-PRI-29
+                           A9C4: NNO-ELN-32
+22oct26 17:29 DZR/Bot-MM   BA98: NN-SRM-15
+                           FEED: NN-PRI-29
+                           E629: DZ-OLD-TEST-E629B19F
+                           8532: DZ-OLD-11
+22oct26 18:08 Kaoru        P
+22oct26 18:09 DZR/Bot-MM   0C11: NNO-CHR-52
+                           FEED: NN-PRI-29
+                           BEEF: DZ-ZAP-03
+                           8532: DZ-OLD-11
+22oct26 18:09 Meloman868   Ping
+22oct26 18:10 DZR/Bot-MM   Pong! @[Meloman868] b4be,0651,beef (3 hops) | SNR: -2.75 dB | RSSI: -112 dBm
+22oct26 18:10 DeadFeedBot  @[Meloman868] Pong! | 40f5,9182 (2 hops) | SNR: 7.75 dB | RSSI: -107 dBm
+22oct26 18:45 JohnWick     P
+22oct26 18:45 NNO-ELN-BOT  C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+22oct26 18:45 DZR/Bot-MM   C9CD: NN-FED-CHEBURNET
+                           0C11: NNO-CHR-52
+                           FEED: NN-PRI-29
+                           F62B: DZ-OLD-14
+                           8532: DZ-OLD-11
+22oct26 19:33 catsquatch☺  P
+22oct26 19:33 NNO-ELN-BOT  EDAA: BOR-2MK-43
+                           13BE: BOR-STK-37
+                           5226: NN-NIZ-57
+                           CE77: NN-NIZ-13
+                           FEED: NN-PRI-29
+                           A9C4: NNO-ELN-32
+22oct26 20:23 ☺☺ Siri      P
+22oct26 20:23 NNO-ELN-BOT  BA98: NN-SRM-15
+                           FEED: NN-PRI-29
+                           C9CD: NN-FED-CHEBURNET
+                           D1A7: NN-FED-36
+                           C2AC: NN433-FED-23
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+22oct26 20:23 DZR/Bot-MM   ...
+                           BEEF: DZ-ZAP-03
+22oct26 20:48 catsquatch☺  Ping
+22oct26 20:48 NNO-ELN-BOT  @[catsquatch😼] | edaa,13be,9182,a9c4 | edaa,13be,9182,a9c4 (4 hops) | SNR: 12.75 dB | RSSI: -48 dBm
+22oct26 20:48 DZR/Bot-MM   Pong! @[catsquatch😼] edaa,13be,9182,feed,beef,8532 (6 hops) | SNR: 13.0 dB | RSSI: -19 dBm
+22oct26 20:49 catsquatch☺  feed, beef, edaa 😆
+22oct26 22:29 Meloman868   P
+22oct26 22:29 DZR/Bot-MM   B4BE: BOR-KRG-51
+                           CE77: NN-NIZ-13
+                           FEED: NN-PRI-29
+                           BEEF: DZ-ZAP-03
+22oct26 23:45 X3_868_home  Path
+22oct26 23:45 NNO-ELN-BOT  4855: NNO-AFN-38
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+23oct26 00:12 FF           P
+23oct26 00:12 NNO-ELN-BOT  FEED: NN-PRI-29
+                           A9C4: NNO-ELN-32
+23oct26 02:56 Izec☺        P
+23oct26 02:57 NNO-ELN-BOT  278E: NN433-SRM-TEST
+                           F9EF: NN433-MOB-TST2
+                           C2AC: NN433-FED-23
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+23oct26 07:39 ☺☺ Siri      P
+23oct26 07:39 NNO-ELN-BOT  BA98: NN-SRM-15
+                           D9C8: Unknown
+                           A9C4: NNO-ELN-32
+23oct26 07:39 DZR/Bot-MM   BA98: NN-SRM-15
+                           D9C8: NN-PRI-48
+                           BEEF: DZ-ZAP-03
+23oct26 07:40 ☺☺ Siri      48-й никак Кек оживил!
+23oct26 07:41 catsquatch☺  P
+23oct26 07:41 NNO-ELN-BOT  ACDC: NN-PRI-42
+                           0303: NN-AVT-NorthStar
+                           FEED: NN-PRI-29
+                           C9CD: NN-FED-CHEBURNET
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+23oct26 07:42 V4           P
+23oct26 07:42 NNO-ELN-BOT  FEED: NN-PRI-29
+                           9182: NN-NIZ-12
+                           A9C4: NNO-ELN-32
+23oct26 07:42 DZR/Bot-MM   FEED: NN-PRI-29
+                           D9C8: NN-PRI-48
+                           CADE: DZ-ZAP-34
+                           8532: DZ-OLD-11
+23oct26 07:57 ☺            P
+23oct26 07:57 NNO-ELN-BOT  6617: Unknown
+                           09A7: NN-NIZ-60
+                           F432: NN-SOV-56
+                           8D89: Kaktuss
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+23oct26 08:02 catsquatch☺  @[🌅〄 Siri] yppaaa!
+23oct26 08:11 Kaoru        P
+23oct26 08:11 NNO-ELN-BOT  30ED: NN-LEN-93
+                           ACDC: NN-PRI-42
+                           BA98: NN-SRM-15
+                           EB91: Heltec_Repeater_test
+                           E59B: NN-ANK-40
+                           A9C4: NNO-ELN-32
+23oct26 08:14 Kaoru        P
+23oct26 08:14 NNO-ELN-BOT  30ED: NN-LEN-93
+                           ACDC: NN-PRI-42
+                           D9C8: Unknown
+                           A9C4: NNO-ELN-32
+23oct26 08:14 DZR/Bot-MM   30ED: NN-LEN-93
+                           ACDC: NN-PRI-42
+                           D9C8: NN-PRI-48
+                           BEEF: DZ-ZAP-03
+23oct26 08:32 Kaoru        P
+23oct26 08:32 NNO-ELN-BOT  30ED: NN-LEN-93
+                           ACDC: NN-PRI-42
+                           D9C8: Unknown
+                           A9C4: NNO-ELN-32
+23oct26 08:32 DZR/Bot-MM   30ED: NN-LEN-93
+                           ACDC: NN-PRI-42
+                           D9C8: NN-PRI-48
+                           BEEF: DZ-ZAP-03
+                           8532: DZ-OLD-11
+23oct26 09:01 V4           P
+23oct26 09:02 NNO-ELN-BOT  9182: NN-NIZ-12
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+23oct26 09:02 DZR/Bot-MM   9182: NN-NIZ-12
+                           D9C8: NN-PRI-48
+                           B6F0: DZ-SVE-35
+                           8532: DZ-OLD-11
+23oct26 09:35 ☺            P
+23oct26 09:35 DZR/Bot-MM   CE77: NN-NIZ-13
+                           BEEF: DZ-ZAP-03
+23oct26 09:35 NNO-ELN-BOT  1BFF: NN-NIZ-TST1
+                           9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+23oct26 09:36 ☺            P
+23oct26 09:36 DZR/Bot-MM   9182: NN-NIZ-12
+                           BEEF: DZ-ZAP-03
+23oct26 09:36 NNO-ELN-BOT  9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+23oct26 09:41 Kaoru        P
+23oct26 09:41 DZR/Bot-MM   2270: NN-AVT-46
+                           ACBD: NN-SRM-09
+                           BEEF: DZ-ZAP-03
+23oct26 10:43 catsquatch☺  P
+23oct26 10:43 DZR/Bot-MM   ACDC: NN-PRI-42
+                           F62B: DZ-OLD-14
+                           8532: DZ-OLD-11
+23oct26 10:49 FF           P
+23oct26 10:49 NNO-ELN-BOT  09A7: NN-NIZ-60
+                           FEED: NN-PRI-29
+                           A9C4: NNO-ELN-32
+23oct26 11:26 PotaskunAvt  ping
+23oct26 11:26 NNO-ELN-BOT  @[PotaskunAvt] | 09a7,d9c8,a9c4 | 09a7,d9c8,a9c4 (3 hops) | SNR: 13.0 dB | RSSI: -48 dBm
+23oct26 11:26 DZR/Bot-MM   Pong! @[PotaskunAvt] 09a7,feed,beef (3 hops) | SNR: Unknown dB | RSSI: -110 dBm
+23oct26 12:01 ☺☺ Siri      P
+23oct26 12:01 DZR/Bot-MM   FB1D: NN-SRM-10
+                           0651: NN-KAN-47
+                           BEEF: DZ-ZAP-03
+23oct26 12:01 NNO-ELN-BOT  FB1D: NN-SRM-10
+                           0651: NN-KAN-47
+                           9182: NN-NIZ-12
+                           D1A7: NN-FED-36
+                           A9C4: NNO-ELN-32
+23oct26 12:54 catsquatch☺  P
+23oct26 12:54 NNO-ELN-BOT  ACDC: NN-PRI-42
+                           BA98: NN-SRM-15
+                           A9C4: NNO-ELN-32
+23oct26 12:58 Kaoru        P
+23oct26 12:58 NNO-ELN-BOT  30ED: NN-LEN-93
+                           BA98: NN-SRM-15
+                           FEED: NN-PRI-29
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+23oct26 12:58 DZR/Bot-MM   30ED: NN-LEN-93
+                           BA98: NN-SRM-15
+                           BEEF: DZ-ZAP-03
+                           8532: DZ-OLD-11
+23oct26 13:05 durodev      p
+23oct26 13:05 NNO-ELN-BOT  5B: NN-KAN-20
+                           EB: NN-AVT-06 🎯
+                           BA: NN-SRM-15
+                           A9: NNO-ELN-32
+23oct26 13:05 DZR/Bot-MM   5B: NN-KAN-20
+                           06: NN-KAN-47
+                           BE: DZ-ZAP-03
+23oct26 13:17 durodev      p
+23oct26 13:17 NNO-ELN-BOT  5B: NN-KAN-20
+                           06: NN-KAN-47
+                           BA: NN-SRM-15
+                           A9: NNO-ELN-32
+23oct26 14:17 V4           P
+23oct26 14:17 NNO-ELN-BOT  FEED: NN-PRI-29
+                           A9C4: NNO-ELN-32
+23oct26 15:06 catsquatch☺  Path
+23oct26 15:06 NNO-ELN-BOT  FEED: NN-PRI-29
+                           A9C4: NNO-ELN-32
+23oct26 15:06 DeadFeedBot  FEED: NN-PRI-29
+23oct26 15:16 ☺☺ Siri      P
+23oct26 15:16 DZR/Bot-MM   7D27: NN-SOV-54
+                           BEEF: DZ-ZAP-03
+23oct26 15:16 NNO-ELN-BOT  09A7: NN-NIZ-60
+                           0C11: NNO-CHR-52
+                           C9CD: NN-FED-CHEBURNET
+                           A9C4: NNO-ELN-32
+23oct26 15:43 durodev      p
+23oct26 15:43 NNO-ELN-BOT  5B: NN-KAN-20
+                           B4: BOR-KRG-51
+                           09: NN-NIZ-60
+                           E5: NN-ANK-40 🎯
+                           A9: NNO-ELN-32
+23oct26 15:44 NNO-ELN-BOT  5B: NN-KAN-20
+                           13: BOR-STK-37
+                           91: NN-NIZ-12
+                           A9: NNO-ELN-32
+23oct26 15:44 DZR/Bot-MM   5B: NN-KAN-20
+                           06: NN-KAN-47
+                           BE: DZ-ZAP-03
+                           85: DZ-OLD-11
+23oct26 15:45 durodev      p
+23oct26 15:45 NNO-ELN-BOT  39: BOR-KLK-59
+                           BA: NN-SRM-15
+                           A9: NNO-ELN-32
+23oct26 15:46 catsquatch☺  P
+23oct26 15:46 NNO-ELN-BOT  D9C8: Unknown
+                           A9C4: NNO-ELN-32
+23oct26 15:46 DZR/Bot-MM   D9C8: NN-PRI-48
+                           BEEF: DZ-ZAP-03

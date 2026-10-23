@@ -356,3 +356,183 @@
 21oct26 23:54 Sava         wxx
 21oct26 23:54 Bot          Pionersky 23:53
                            4.4°, 73%, 997 hPa, 9.3 µR/h, AQ 100% (good)
+22oct26 08:16 DR04mc       Wxx
+22oct26 08:16 Bot          Pionersky 08:16
+                           1.3°, 87%, 1002 hPa, 10.6 µR/h, AQ 100% (good)
+22oct26 09:20 Faketec4     wxx
+22oct26 09:20 Bot          Pionersky 09:20
+                           3.1°, 79%, 1003 hPa, 14.7 µR/h, AQ 100% (good)
+22oct26 09:21 Faketec4     чтото AQ уже несколько дней 100%. видать что-то с датчиком
+22oct26 11:31 Sedoy        Wxx
+22oct26 11:31 Bot          Pionersky 11:30
+                           5.4°, 67%, 1004 hPa, 20.2 µR/h, AQ 100% (good)
+22oct26 11:38 Wookie-M     @[Faketec4] 100%
+22oct26 11:47 Faketec4     может просто ребутнуть его надо хз
+22oct26 13:56 Sedoy        Wxx
+22oct26 13:56 Bot          Pionersky 13:56
+                           6.8°, 60%, 1004 hPa, 20.2 µR/h, AQ 100% (good)
+22oct26 20:11 Tokyo Ghetto Wxx
+22oct26 20:11 Bot          Pionersky 20:11
+                           3.1°, 79%, 1005 hPa, 8.6 µR/h, AQ 100% (good)
+22oct26 20:49 Tokyo Ghetto Wx
+22oct26 20:49 Bot          ❌ Екатеринбург не найден
+22oct26 20:52 Tokyo Ghetto Wx
+22oct26 20:52 Bot          ❌ Екатеринбург не найден
+22oct26 20:55 Tokyo Ghetto Прогноз поломался. Разбираемся
+22oct26 20:55 OmniBus      Для пoлyчeния пoгoды, oтпpaвьтe ya для Яндeкca или ow для Openweather
+22oct26 20:55 Tokyo Ghetto Ow
+22oct26 20:55 OmniBus      Ramada 20:55: 🌡+3.4 (Oщyщ: -1.6) Дaвл: 780 💧80% ⛅0% UV 0 💨2.0 Яcнo.
+22oct26 20:56 OmniBus      3a 2ч: 🌡 -3.0°, дaвл.: +1 мм. Дaвлeниe pacтeт: oжидaeтcя пpoяcнeниe.
+22oct26 20:56 Tokyo Ghetto Вот, а у меня днс не видит openweather
+22oct26 21:21 DMX          Ya
+22oct26 21:22 OmniBus      Ramada 21:21: 🌡+3.4 (Oщyщ: -2.0) Дaвл: 600 💧67% ⛅0% UV 0 💨2.0 Яcнo.
+22oct26 21:22 OmniBus      3a 2ч: 🌡 -1.0°, дaвл.: -0 мм.
+22oct26 21:22 John Silver  Ow
+22oct26 21:22 OmniBus      Ramada 21:22: 🌡+2.8 (Oщyщ: -0.2) Дaвл: 779 💧80% ⛅0% UV 0 💨1.0 Яcнo.
+22oct26 21:23 John Silver  Wx
+22oct26 21:23 Bot          ❌ Екатеринбург не найден
+22oct26 21:23 John Silver  Ya
+22oct26 21:23 OmniBus      Ramada 21:23: 🌡+2.8 (Oщyщ: -2.0) Дaвл: 754 💧74% ⛅0% UV 0 💨2.0 Яcнo.
+22oct26 21:23 OmniBus      3a 2ч: 🌡 -1.0°, дaвл.: +154 мм. Дaвлeниe pacтeт: oжидaeтcя пpoяcнeниe.
+22oct26 21:24 John Silver  Wxx
+22oct26 21:27 Tokyo Ghetto Wxx
+22oct26 21:27 Bot          Pionersky 21:27
+                           2.4°, 81%, 1006 hPa, 9.4 µR/h, AQ 100% (good)
+22oct26 22:51 Sava         wxx
+22oct26 22:51 Bot          Pionersky 22:50
+                           3.3°, 80%, 10 hPa, 7.7 µR/h
+22oct26 23:24 Tokyo        Wxx
+22oct26 23:24 Bot          Pionersky 23:23
+                           2.8°, 80%, 1006 hPa, 8.1 µR/h
+23oct26 00:22 Tokyo        Wxx
+23oct26 00:22 Tokyo        Wx
+23oct26 00:22 Bot          ❌ Екатеринбург не найден
+23oct26 00:31 Tokyo        Wx
+23oct26 00:32 Bot          ❌ Екатеринбург не найден
+23oct26 00:32 Tokyo        Wxx
+23oct26 00:32 Bot          Pionersky 00:32
+                           1.9°, 83%, 1006 hPa, 7.4 µR/h
+23oct26 00:32 Tokyo        Wx help
+23oct26 00:32 Bot          wx (город): прогноз (по умолч. Екб.)
+                           wxx: данные датчиков за окном (Пионерский)
+23oct26 00:32 Bot          wxl: молнии за 24ч
+                           wxx full: показания датчиков мин/макс за 24 часа
+23oct26 00:33 Tokyo        Wx full
+23oct26 00:33 Tokyo        Wxx full
+23oct26 00:33 Bot          24h min/max
+                           Temp:
+                           0.6° (07:15)
+                           21.5° (22:19)
+                           Hum:
+                           48% (22:19)
+                           88% (07:10)
+                           Pres:
+                           10 hPa (22:49)
+                           1013 hPa (22:19)
+23oct26 00:33 Bot          ❌ full не найден
+23oct26 00:33 Bot          Rad:
+                           0 µR/h (22:19)
+                           25 µR/h (12:19)
+                           AQ:
+                           -- (--)
+                           -- (--)
+23oct26 00:43 Tokyo        Wx
+23oct26 00:43 Bot          Екатеринбург
+                           ☀️ -4°, 93%, 0m/s
+                           6h: ☀️ -4°..-3°, 94%, 0m/s
+                           24h: ☀️ -4°..7°, 85%, 1m/s
+23oct26 00:44 Tokyo        Прогноз починили. Правда у нас сейчас не минус. Но это же прогноз
+23oct26 00:44 OmniBus      Для пoлyчeния пoгoды, oтпpaвьтe ya для Яндeкca или ow для Openweather
+23oct26 00:44 Tokyo        Wxx
+23oct26 00:59 Tokyo        Wxx
+23oct26 01:04 Tokyo        Wxx
+23oct26 01:04 Bot          Pionersky 01:03
+                           1.7°, 83%, 1006 hPa, 7.4 µR/h, AQ 121 IAQ (bad, cal.)
+23oct26 01:09 Tokyo        Wxx
+23oct26 01:09 Bot          Pionersky 01:09
+                           1.6°, 83%, 1006 hPa, 8.9 µR/h, AQ 97 IAQ (good, cal.)
+23oct26 01:11 Tokyo        Wx
+23oct26 01:11 Bot          Екатеринбург
+                           🌫️ -4°, 93%, 1m/s
+                           6h: ☀️ -4°..-3°, 94%, 0m/s
+                           24h: ☀️ -4°..7°, 85%, 1m/s
+23oct26 01:12 Tokyo        Wx пермь
+23oct26 01:12 Bot          Пермь
+                           ☁️ -2°, 93%, 1m/s
+                           6h: ☁️ -2°..-1°, 94%, 1m/s
+                           24h: ☁️ -2°..7°, 88%, 1m/s
+23oct26 01:12 Tokyo        Wx Токио
+23oct26 01:12 Bot          Токио
+                           ☁️ 16°, 62%, 3.73m/s
+                           6h: ☁️ 16°..17°, 60%, 3m/s
+                           24h: ☁️ 16°..23°, 60%, 3m/s
+23oct26 01:12 Tokyo        Wxx
+23oct26 01:12 Bot          Pionersky 01:12
+                           1.7°, 83%, 1006 hPa, 8.6 µR/h, AQ 103 IAQ (moderate, cal.)
+23oct26 01:13 Tokyo        Wxx full
+23oct26 01:13 Bot          Rad:
+                           0 µR/h (22:19)
+                           25 µR/h (12:19)
+                           AQ:
+                           100% (00:34)
+                           100% (00:34)
+23oct26 01:13 Bot          24h min/max
+                           Temp:
+                           0.6° (07:15)
+                           21.5° (22:19)
+                           Hum:
+                           48% (22:19)
+                           88% (07:10)
+                           Pres:
+                           10 hPa (22:49)
+                           1013 hPa (22:19)
+23oct26 01:18 Tokyo        Wxx
+23oct26 01:18 Bot          Pionersky 01:17
+                           1.6°, 83%, 1006 hPa, 7.9 µR/h, AQ 109 IAQ (moderate, cal.)
+23oct26 01:24 Sava         wxx
+23oct26 01:24 Bot          Pionersky 01:24
+                           1.6°, 84%, 1006 hPa, 8.2 µR/h, AQ 117 IAQ (moderate, cal.)
+23oct26 06:42 Tokyo        Wxx
+23oct26 06:42 Bot          Pionersky 06:42
+                           -0.1°, 86%, 1007 hPa, 10.6 µR/h, AQ 132 IAQ (moderate)
+23oct26 06:47 Tokyo        Wxx full
+23oct26 06:47 Bot          24h min/max
+                           Temp:
+                           -0.1° (06:40)
+                           21.5° (22:19)
+                           Hum:
+                           48% (22:19)
+                           88% (07:10)
+                           Pres:
+                           10 hPa (22:49)
+                           1013 hPa (22:19)
+23oct26 06:47 Bot          Rad:
+                           0 µR/h (22:19)
+                           25 µR/h (12:19)
+                           AQ:
+                           58% (03:49)
+                           82% (05:35)
+23oct26 06:53 Tokyo        Wx
+23oct26 06:53 Bot          Екатеринбург
+                           🌫️ -6°, 93%, 1m/s
+                           6h: ☁️ -6°..-3°, 90%, 1m/s
+                           24h: ☀️ -6°..5°, 88%, 2m/s
+23oct26 06:59 Tokyo        Wxx full
+23oct26 07:00 Bot          Rad:
+                           0 µR/h (22:19)
+                           25 µR/h (12:19)
+                           AQ:
+                           50 IAQ (00:14)
+                           212 IAQ (03:49)
+23oct26 08:14 RAK 1W       Wxx
+23oct26 08:14 Bot          Pionersky 08:14
+                           0.3°, 86%, 1007 hPa, 11.1 µR/h, AQ 61 IAQ (good)
+23oct26 12:53 Faketec4     wxx
+23oct26 12:53 Bot          Pionersky 12:53
+                           5.8°, 68%, 1006 hPa, 28.3 µR/h, AQ 185 IAQ (poor)
+23oct26 13:41 RAK 1W       Wxx
+23oct26 13:41 Bot          Pionersky 13:41
+                           6.3°, 67%, 1006 hPa, 22.5 µR/h, AQ 162 IAQ (poor)
+23oct26 16:53 Tokyo        Wxx
+23oct26 16:53 Bot          Pionersky 16:53
+                           6.7°, 65%, 1005 hPa, 8.9 µR/h, AQ 151 IAQ (poor)

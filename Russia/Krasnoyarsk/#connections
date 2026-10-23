@@ -126,3 +126,41 @@
 22oct26 00:01 Tigra        !тест
 22oct26 00:02 Tigra        !test
 22oct26 00:02 K26Bot       ack @[Tigra] | Direct | SNR: -12.75 dB | RSSI: -115 dBm | Received at: 00:02:20
+22oct26 04:36 Tigra        !test
+22oct26 04:36 K26Bot       ack @[Tigra] | Direct | SNR: -13.0 dB | RSSI: -116 dBm | Received at: 04:36:06
+22oct26 08:38 MC26         Т
+22oct26 08:39 MC26         Т
+22oct26 08:47 MC26         Т
+22oct26 08:48 MC26         Т
+22oct26 08:49 K26Bot       ack @[MC26] | Direct | SNR: 8.0 dB | RSSI: -95 dBm | Received at: 08:49:00
+22oct26 08:50 Mol-DarkTec  Что за Т ?
+22oct26 08:51 Mol-DarkTec  Мучаешь бота ?
+22oct26 08:51 MC26         Сокращение тест
+22oct26 08:52 Mol-DarkTec  А по русски И или анг. или пофиг ?
+22oct26 08:52 Mol-DarkTec  А по русски Т или анг. или пофиг ?
+22oct26 08:52 MC26         Перенес к репитеру, теперь по wifi нестабильна связь...
+22oct26 08:53 MC26         Без разницы
+22oct26 08:53 MC26         Т
+22oct26 08:54 K26Bot       ack @[MC26] | Direct | SNR: 7.25 dB | RSSI: -96 dBm | Received at: 08:53:55
+22oct26 08:56 MC26         Роль наблюдателя на бота перенес, чтоб на репитере актуальную прошивку иметь
+22oct26 08:57 MC26         А не этот старый vbart
+22oct26 09:11 Mol-DarkTec  Т
+22oct26 09:12 K26Bot       ack @[Mol-DarkTec] | d58b,e865,e659,2926 (4 hops) | SNR: -4.75 dB | RSSI: -111 dBm | Received at: 09:12:06
+22oct26 09:12 MOL-MeshCorе Т
+22oct26 09:13 K26Bot       ack @[MOL-MeshCorе] | d58b,e659,2926 (3 hops) | SNR: -6.0 dB | RSSI: -110 dBm | Received at: 09:13:03
+23oct26 05:00 Tigra        Test
+23oct26 05:00 Tigra        !Test
+23oct26 05:00 K26Bot       ack @[Tigra] | Direct | SNR: -6.5 dB | RSSI: -112 dBm | Received at: 05:00:33
+23oct26 05:03 Tigra        !ping
+23oct26 05:03 K26Bot       Pong!
+23oct26 05:04 Tigra        Path
+23oct26 05:05 Tigra        !path
+23oct26 05:05 K26Bot       📡 Direct connection (0 hops)
+23oct26 07:30 MAX          !Test
+23oct26 07:30 K26Bot       ack @[MAX] | e3b6,d58b,e659,2624 (4 hops) | SNR: 10.75 dB | RSSI: -10 dBm | Received at: 07:30:41
+23oct26 07:33 Mol-DarkTec  Т
+23oct26 07:33 MAX          P
+23oct26 07:33 MAX          Y
+23oct26 07:33 MAX          T
+23oct26 07:33 MAX          O
+23oct26 07:33 MAX          N
